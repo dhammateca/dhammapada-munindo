@@ -1,0 +1,34 @@
+
+title: "A Dhammapada for Contemplation"
+author: "Ajahn Munindo"
+date: 2015-05-19
+
+toc:
+  - { the_matter: frontmatter }
+  - { insert: '\frontmatter', target: latex }
+  - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
+  - { insert: "\\cleartorecto\n\\tableofcontents", target: latex }
+  - preface.tex
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
+  - { the_matter: mainmatter, section_number: 1 }
+  - { insert: "\\mainmatter\n\\book{\\thetitle}", target: latex }
+  - dhp-1.tex
+  - dhp-2.tex
+  - { the_matter: backmatter }
+  - { insert: '\backmatter', target: latex }
+  - author.tex
+
+cover_image: "cover.jpg"
+
+exclude_assets: [ "cover.xcf", ]
+
+isbn: "000-0-0000000-0-0"
+
+publisher: "Aruno Publications"
+publisher_atag: "<a href='http://ratanagiri.org.uk/' target='_blank'>www.ratanagiri.org.uk</a>"
+publisher_logo: "buddho_h55.jpg"
+book_atag: "<a href='http://fsbooks.org/' target='_blank'>www.fsbooks.org</a>"
+

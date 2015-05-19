@@ -1,0 +1,56 @@
+\documentclass[
+  final,
+  pagePreset=tallpage,
+  babelLanguage=british,
+]{anecdote}
+
+\usepackage{mylayout}
+
+%% Details of the book
+%% ===================
+
+\title{A Dhammapada for Contemplation}
+\subtitle{}
+\author{Ajahn Munindo}
+\date{2015-05-19}
+\editionInfo{}
+\ISBN{000-0-0000000-0-0}
+
+%% === Load further packages ===
+
+\usepackage{lipsum}
+
+%% === Hyphenation exceptions and corrections ===
+
+% \hyphenation{}
+
+\begin{document}
+
+\frontmatter
+
+%\input{../../manuscript/tex/titlepage.tex}
+
+%\input{../../manuscript/tex/copyright.tex}
+
+\cleartorecto
+\tableofcontents*
+
+% Preface
+\input{../.././manuscript/tex/preface.tex}
+
+\mainmatter
+%\book{\thetitle}
+
+\cleartorecto
+\part{\thetitle}
+
+\input{../../manuscript/tex/dhp-1.tex}
+\input{../../manuscript/tex/dhp-2.tex}
+
+\backmatter
+
+% About the Author
+\input{../.././manuscript/tex/author.tex}
+
+
+\end{document}
