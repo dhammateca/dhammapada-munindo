@@ -13,23 +13,8 @@
 
 \def\gobble@spaces{\@ifnextchar\space{\@gobble\gobble@spaces}{}}
 %\newcommand{\verseref}[1]{\mbox{}\marginpar{\vspace*{-0.5\marginparpush}\vspace*{1.2pt}\oldNumFont #1.}\gobble@spaces}
-\newcommand{\verseref}[1]{\mbox{}\marginpar{\vspace*{-6pt}\hspace*{10pt}\footSize #1.}\gobble@spaces}
-
-\newcommand\mainmatterChapter{%
-  \ifartopt\par\@nameuse{chapterblock}\else
-    \clearforchapter
-    \thispagestyle{chapter}
-    \global\@topnum\z@
-  \fi
-  \m@mindentafterchapter
-  \@ifstar{%
-    \addtocounter{chapter}{1}%
-    \@m@mschapter%
-  }{%
-    \addtocounter{chapter}{-1}%
-    \@m@mchapter%
-  }%
-}
+%\newcommand{\verseref}[1]{\mbox{}\marginpar{\vspace*{-6pt}\hspace*{10pt}\footSize #1.}\gobble@spaces}
+\newcommand{\verseref}[1]{{\smaller\color{black!80} #1.}\newline}
 
 \renewcommand{\chapterNumberSize}
   {\@setfontsize\chapterNumberSize{15}{15}}
@@ -37,29 +22,19 @@
 \newcommand{\appendixChapterNumberSize}
   {\@setfontsize\appendixChapterNumberSize{20}{20}}
 
-\addtodef{\fronmatter}{}{%
-  \openright
-}
-
-\newcommand\oldChapter{}
+%\addtodef{\fronmatter}{}{%
+%  \openright
+%}
 
 \addtodef{\mainmatter}{}{%
-  \makeatletter
-  \let\oldChapter\chapter
-  \let\chapter\mainmatterChapter
-  \openany
-  \setlength{\parskip}{1.5em}
-  \setlength{\parindent}{0pt}
-  \makeatother
+  \setlength{\parskip}{1.5em}%
+  \setlength{\parindent}{0pt}%
 }
 
 \addtodef{\appendix}{}{%
-  \makeatletter
-  \let\chapter\oldChapter
-  \openright
-  \setlength{\parskip}{0pt}
-  \setlength{\parindent}{15pt}
-  \makeatother
+  %\openright
+  \setlength{\parskip}{0pt}%
+  \setlength{\parindent}{15pt}%
 }
 
 \titlecontents{part}[\tocLeftWidth]
@@ -69,48 +44,6 @@
 {\contentsmargin{0pt}}
 {\hfill\normalsize\tocFont\thecontentspage}
 [\addvspace{10pt}]
-
-\makechapterstyle{diamond}{
-  \chapterstyle{default}
-  \setlength{\beforechapskip}{-11.5mm}
-  \setlength{\midchapskip}{0pt}
-  \setlength{\afterchapskip}{2.5\onelineskip}
-  \renewcommand\printchaptername{}
-  \renewcommand\printchapternum{}
-  \renewcommand\printchapternonum{}
-  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
-  \renewcommand*\printchaptertitle[1]{%
-    \begin{tikzpicture}
-      \node (rulebox) [
-        rectangle, draw=none, fill=none,
-        minimum width=\linewidth,
-      ] {};
-      \draw [line width=0.4pt, color=black!80] (rulebox.west) -- (rulebox.east);
-      \node (diamond) [
-        above=-0.7pt of rulebox.mid,
-        anchor=mid,
-        rectangle, fill=black!80,
-        minimum width=2pt,
-        minimum height=2pt,
-        rotate=45,
-      ] {};
-      \node (title) [
-        above=32pt of rulebox.mid,
-        anchor=north,
-      ] {\begin{minipage}{\linewidth}%
-        \centering\chaptitlefont\color{chaptertitle}%
-        \textls*{\MakeUppercase{##1}}%
-      \end{minipage}};
-      \node (number) [
-        above=64pt of rulebox.mid,
-        anchor=north,
-      ] {\begin{minipage}{\linewidth}%
-        \centering\chapterNumberFont\chapterNumberSize\color{chapternum}%
-        \thechapter%
-      \end{minipage}};
-    \end{tikzpicture}%
-  }
-}
 
 \makechapterstyle{frontmatter}{
   \chapterstyle{lowtitle}
@@ -133,56 +66,8 @@
 }
 
 \renewcommand\frontmatterChapterStyle{\chapterstyle{frontmatter}}
-\renewcommand\mainmatterChapterStyle{\chapterstyle{diamond}}
+\renewcommand\mainmatterChapterStyle{\chapterstyle{hightitle}}
 \renewcommand\appendixChapterStyle{\chapterstyle{appendix}}
-
-\newlength\capFrameHeight
-\setlength{\capFrameHeight}{2\baselineskip + \heightof{\dropCapFont\dropCapSize O}}
-
-\newlength\capIndent
-\setlength{\capIndent}{\capFrameHeight + 3pt}
-
-\newlength\anteW
-
-\newcommand{\dropCap}[2][]{%
-  \noindent
-  \def\tempa{}%
-  \def\tempb{#1}%
-  \ifx\tempa\tempb\relax
-  \else
-    \setlength{\anteW}{\widthof{\dropCapFont\dropCapSize #1}}%
-    \hskip -\anteW
-    \hbox{%
-      \begin{minipage}[b][\capFrameHeight][b]{\anteW}%
-        \raisebox{\baselineskip}{\dropCapFont\dropCapSize #1}%
-      \end{minipage}%
-    }%
-  \fi
-  \hbox{\begin{tikzpicture}
-    \node (cap) [rectangle, draw=black!40, inner sep=0pt, line width=0.4pt,] {%
-      \begin{minipage}[b][\capFrameHeight][b]{\capFrameHeight}%
-        \centering
-        \raisebox{\baselineskip}{\dropCapFont\dropCapSize\MakeUppercase{#2}}%
-        \par
-      \end{minipage}%
-    };
-  \end{tikzpicture}}%
-  \par
-  \vskip -0.8pt
-  \vskip -2\baselineskip
-  \vskip -\parskip
-  \noindent
-  \hangindent=\capIndent
-  \hangafter=-2%
-}
-
-\renewenvironment{description}%
-               {\list{}{\labelwidth\z@
-                        \leftmargin 17pt
-                        \itemindent-\leftmargin
-                        \let\makelabel\descriptionlabel}}%
-               {\endlist}
-\renewcommand*{\descriptionlabel}[1]{\hspace\labelsep\normalfont\color{desclabel}\bfseries #1}
 
 \long\def\@part[#1]#2{%
   \M@gettitle{#1}%

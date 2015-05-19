@@ -110,10 +110,10 @@
 \newcommand\tocFontOldNum{}
 
 \setmainfont[
-  ItalicFont = Alegreya X Italic,
-  BoldFont = Alegreya X Bold,
-  BoldItalicFont = Alegreya X Bold Italic,
-]{Alegreya X}
+  ItalicFont = Shaker Pali Italic,
+  BoldFont = Shaker 2 Bold,
+  BoldItalicFont = Shaker 2 Bold Italic,
+]{Shaker Pali}
 
 %\newfontfamily\oldNumFont[
 %  Numbers = OldStyle,
@@ -129,9 +129,9 @@
 %  %Renderer = Basic,
 %]{Crimson Roman}
 
-\newfontfamily\chapterNameFont{Rosarivo X}
-\newfontfamily\chapterTitleFont{Rosarivo X}
-\newfontfamily\chapterNumberFont[Numbers = Lining]{Alegreya X}
+\newfontfamily\chapterNameFont{Shaker Pali}
+\newfontfamily\chapterTitleFont{Shaker Pali}
+\newfontfamily\chapterNumberFont{Shaker Pali}
 
 %\newfontfamily\chapterAuthorFont{Crimson Roman}
 %\newfontfamily\chapterNoteFont[
@@ -139,15 +139,10 @@
 %  ItalicFont = Crimson Italic,
 %]{Crimson Roman}
 
-\newfontfamily\AlegreyaFont[
-  ItalicFont = Alegreya X Italic,
-]{Alegreya X}
-\newfontfamily\RosarivoFont{Rosarivo X}
-
-\newfontfamily\dropCapFont{Cinzel Decorative Bold}
-
-\newcommand{\dropCapSize}
-  {\@setfontsize\dropCapSize{32}{32}}
+%\newfontfamily\dropCapFont{Cinzel Decorative Bold}
+%
+%\newcommand{\dropCapSize}
+%  {\@setfontsize\dropCapSize{32}{32}}
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -1160,10 +1155,62 @@ philo-sophical munindo amaravati thai-land}
   %\setlength{\footskip}{3\baselineskip}
 
 }{
+\ifthenelse{\equal{\BOOK@pagePreset}{tallsmallpage}}{
+
+  % Tall Small Page page size
+  %
+  % TODO A x B page
+  % P = 1.618 (Golden section)
+  % TODO T = ? 1.568181
+
+  % === normalsize ===
+
+  \def\BOOK@apt{11}
+  \def\BOOK@bpt{13.5}
+
+  \renewcommand{\normalsize}{%
+    \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
+    \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
+    \abovedisplayshortskip \z@ \@plus3\p@
+    \belowdisplayshortskip 6\p@ \@plus3\p@ \@minus3\p@
+    \belowdisplayskip \abovedisplayskip
+    \color{textbody}
+    \let\@listi\@listI}
+  \normalsize
+
+
+  \newlength\longestLine
+  \setlength{\longestLine}{\widthof{\normalsize Whoever has broken loose from all bondage}}% 41
+  \typeout{Longest line: \the\longestLine}% At 10pt: 183.98604pt, 64.9mm
+
+  % === indentations ===
+
+  \setlength{\vgap}{1.5em}
+  \setlength{\vindent}{\vgap}
+  \setlength{\vleftmargin}{2em}
+
+  \setlength{\parskip}{0pt}
+  \setlength{\parindent}{15pt}
+
+  % === setup page layout ===
+
+  \setstocksize{145.5mm}{90mm}% 1.618
+  \settrimmedsize{\stockheight}{\stockwidth}{*}
+  \settrims{0pt}{0pt}
+
+  %\settypeblocksize{20.5\baselineskip + \topskip}{70mm}{*}
+  \settypeblocksize{23.5\baselineskip + \topskip}{65mm}{*}
+  %\settypeblocksize{*}{65mm}{1.618}
+  \setlrmargins{*}{*}{1.2}
+  \setulmargins{*}{*}{1.618}
+  %\setlength{\footskip}{3\baselineskip}
+
+
+}{
 
   % other page sizes?
 
-}}}}}}
+}}}}}}}
 
 % This will also typeout values in pt (default)
 \checkandfixthelayout
