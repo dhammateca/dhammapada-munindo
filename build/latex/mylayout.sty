@@ -18,9 +18,6 @@
 \renewcommand{\chapterNumberSize}
   {\@setfontsize\chapterNumberSize{15}{15}}
 
-\newcommand{\appendixChapterNumberSize}
-  {\@setfontsize\appendixChapterNumberSize{20}{20}}
-
 \addtodef{\mainmatter}{}{%
   \setlength{\parskip}{1.5em}%
   \setlength{\parindent}{0pt}%
@@ -32,37 +29,5 @@
   \setlength{\parindent}{15pt}%
 }
 
-\titlecontents{part}[\tocLeftWidth]
-{%\addvspace{20pt}%
-\normalsize\tocFont}%
-{\contentsmargin{0pt}\lsstyle\color{chaptertitle}}
-{\contentsmargin{0pt}}
-{\hfill\normalsize\tocFont\thecontentspage}
-[\addvspace{10pt}]
-
-\setsubsecheadstyle{%
-  \sectionFont\normalsize\bfseries\color{subsection}\memRTLraggedright%
-}
-
 \renewcommand\mainmatterChapterStyle{\chapterstyle{hightitle}}
 
-\long\def\@part[#1]#2{%
-  \M@gettitle{#1}%
-  \phantomsection
-  \ifnum \c@secnumdepth >-2\relax
-  \refstepcounter{part}%
-  \addcontentsline{toc}{part}%
-  {\protect\partnumberline{\thepart}#1}%
-  \mempartinfo{\thepart}{#1}{#2}%
-  \else
-  \addcontentsline{toc}{part}{#1}%
-  \mempartinfo{}{#1}{#2}%
-  \fi
-  \partmark{#1}%
-  {%
-    \centering%
-    \chapterTitleFont\chapterTitleSize\color{chaptertitle}\textls*{\MakeUppercase{#2}}%
-    \global\thisparthastitletrue%
-    \par%
-  }%
-\@endpart}

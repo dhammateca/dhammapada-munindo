@@ -355,6 +355,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === Renewing package macros ===
 
+\renewcommand*{\thechapter}{\@Roman\c@chapter}
+
 \addtodef{\mainmatter}{}{%
   \addtocontents{toc}{\addvspace{18pt}}%
   \setcounter{chapter}{0}%
