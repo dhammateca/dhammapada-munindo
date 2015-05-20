@@ -129,9 +129,9 @@
 %  %Renderer = Basic,
 %]{Crimson Roman}
 
-\newfontfamily\chapterNameFont{Shaker Pali}
-\newfontfamily\chapterTitleFont{Shaker Pali}
-\newfontfamily\chapterNumberFont{Shaker Pali}
+\newfontfamily\chapterNameFont{Shaker 2 Light}
+\newfontfamily\chapterTitleFont{Shaker 2 Light}
+\newfontfamily\chapterNumberFont{Shaker 2 Extra Bold}
 
 %\newfontfamily\chapterAuthorFont{Crimson Roman}
 %\newfontfamily\chapterNoteFont[
@@ -149,9 +149,9 @@
 \newcommand{\chapterNameSize}
   {\@setfontsize\chapterNameSize{22}{24}}
 \newcommand{\chapterNumberSize}
-  {\@setfontsize\chapterNumberSize{22}{24}}
+  {\@setfontsize\chapterNumberSize{22}{22}}
 \newcommand{\chapterTitleSize}
-  {\@setfontsize\chapterTitleSize{12}{12}}
+  {\@setfontsize\chapterTitleSize{16}{16}}
 \newcommand{\chapterAuthorSize}
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
@@ -675,7 +675,7 @@ philo-sophical munindo amaravati thai-land}
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
   \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{17pt}
+  \setlength{\chapterTitleLeftSkip}{0.2\linewidth}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -683,7 +683,7 @@ philo-sophical munindo amaravati thai-land}
     \chapnumfont\color{chapternum}%
     \hspace*{\chapterTitleLeftSkip}\thechapter%
   }
-  \setlength{\midchapskip}{2\onelineskip}
+  \setlength{\midchapskip}{18pt}% ~ chapter number size
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
@@ -711,14 +711,14 @@ philo-sophical munindo amaravati thai-land}
       \global\chapterfootnotefalse%
     \fi%
   }
-  \setlength{\afterchapskip}{2.5\onelineskip}
+  \setlength{\afterchapskip}{18pt}% ~ 2 * chapter title size
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
 \makechapterstyle{hightitle}{
   \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{0pt}
-  \setlength{\chapterTitleLeftSkip}{6pc}
+  % See Figure 6.1 in memoir manual, p.83
+  \setlength{\beforechapskip}{12pt - \topskip}
 }
 
 \makechapterstyle{bellatrix}{%
@@ -1166,7 +1166,7 @@ philo-sophical munindo amaravati thai-land}
   % === normalsize ===
 
   \def\BOOK@apt{11}
-  \def\BOOK@bpt{13.5}
+  \def\BOOK@bpt{14.3}% 1.3em
 
   \renewcommand{\normalsize}{%
     \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
@@ -1179,9 +1179,12 @@ philo-sophical munindo amaravati thai-land}
   \normalsize
 
 
-  \newlength\longestLine
-  \setlength{\longestLine}{\widthof{\normalsize Whoever has broken loose from all bondage}}% 41
-  \typeout{Longest line: \the\longestLine}% At 10pt: 183.98604pt, 64.9mm
+  \def\longLine{All states of being are determined by the heart.}% 48 chars
+  \newlength\longLineWidth
+  \setlength{\longLineWidth}{\widthof{\normalsize \longLine}}
+  \typeout{Long line: \longLine}
+  \typeout{Long line width at \BOOK@apt pt: \the\longLineWidth}
+  % Long line width at 11pt: 196.251pt, 69.23mm
 
   % === indentations ===
 
@@ -1194,14 +1197,13 @@ philo-sophical munindo amaravati thai-land}
 
   % === setup page layout ===
 
-  \setstocksize{145.5mm}{90mm}% 1.618
+  \setstocksize{155mm}{96mm}% 1.618
   \settrimmedsize{\stockheight}{\stockwidth}{*}
   \settrims{0pt}{0pt}
 
-  %\settypeblocksize{20.5\baselineskip + \topskip}{70mm}{*}
-  \settypeblocksize{23.5\baselineskip + \topskip}{65mm}{*}
-  %\settypeblocksize{*}{65mm}{1.618}
-  \setlrmargins{*}{*}{1.2}
+  %\settypeblocksize{21.5\baselineskip + \topskip}{70mm}{*}% ~1.618, 114.43399mm by 69.93968mm
+  \settypeblocksize{*}{70mm}{1.618}
+  \setlrmargins{*}{*}{1}% 13:13
   \setulmargins{*}{*}{1.618}
   %\setlength{\footskip}{3\baselineskip}
 

@@ -2,9 +2,8 @@
 
 \graphicspath{{../../images/}}
 
-\definecolor{chapternum}{gray}{0.3}
-\definecolor{appendixchapternum}{gray}{0.8}
-\definecolor{chaptertitle}{gray}{0.3}
+\definecolor{chapternum}{gray}{0.5}
+\definecolor{chaptertitle}{gray}{0.2}
 \definecolor{section}{gray}{0.3}
 \definecolor{subsection}{gray}{0.4}
 \definecolor{desclabel}{gray}{0.2}
@@ -21,10 +20,6 @@
 
 \newcommand{\appendixChapterNumberSize}
   {\@setfontsize\appendixChapterNumberSize{20}{20}}
-
-%\addtodef{\fronmatter}{}{%
-%  \openright
-%}
 
 \addtodef{\mainmatter}{}{%
   \setlength{\parskip}{1.5em}%
@@ -45,29 +40,11 @@
 {\hfill\normalsize\tocFont\thecontentspage}
 [\addvspace{10pt}]
 
-\makechapterstyle{frontmatter}{
-  \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{3\onelineskip}
-  \setlength{\chapterTitleLeftSkip}{6pc}
-}
-
-\makechapterstyle{appendix}{
-  \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{0pt}
-  \setlength{\chapterTitleLeftSkip}{2pc}
-  \renewcommand\printchapternum{%
-    \chapterNumberFont\appendixChapterNumberSize\color{appendixchapternum}%
-    \hspace*{\chapterTitleLeftSkip}\thechapter%
-  }
-}
-
 \setsubsecheadstyle{%
   \sectionFont\normalsize\bfseries\color{subsection}\memRTLraggedright%
 }
 
-\renewcommand\frontmatterChapterStyle{\chapterstyle{frontmatter}}
 \renewcommand\mainmatterChapterStyle{\chapterstyle{hightitle}}
-\renewcommand\appendixChapterStyle{\chapterstyle{appendix}}
 
 \long\def\@part[#1]#2{%
   \M@gettitle{#1}%
