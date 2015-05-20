@@ -1203,7 +1203,7 @@ philo-sophical munindo amaravati thai-land}
 
   %\settypeblocksize{21.5\baselineskip + \topskip}{70mm}{*}% ~1.618, 114.43399mm by 69.93968mm
   \settypeblocksize{*}{70mm}{1.618}
-  \setlrmargins{16mm}{*}{1}% 16:10
+  \setlrmargins{16mm}{*}{*}% 16:10
   \setulmargins{*}{*}{1.618}
   %\setlength{\footskip}{3\baselineskip}
 
