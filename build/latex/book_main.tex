@@ -28,21 +28,22 @@
 
 \frontmatter
 
-%\input{../../manuscript/tex/titlepage.tex}
-
-%\input{../../manuscript/tex/copyright.tex}
+\input{../../manuscript/tex/titlepage.tex}
+\input{../../manuscript/tex/copyright.tex}
+\input{../../manuscript/tex/dedication.tex}
 
 \cleartorecto
 \tableofcontents*
 
 % Preface
-\input{../.././manuscript/tex/preface.tex}
+\input{../.././manuscript/tex/preface-1st.tex}
+\input{../.././manuscript/tex/preface-2nd.tex}
+\input{../.././manuscript/tex/preface-3rd.tex}
+\input{../.././manuscript/tex/preface-4th.tex}
 
 \mainmatter
-%\book{\thetitle}
 
-\cleartorecto
-\part{\thetitle}
+\input{../.././manuscript/tex/book-opening.tex}
 
 \input{../../manuscript/tex/dhp-1.tex}
 \input{../../manuscript/tex/dhp-2.tex}
@@ -73,8 +74,6 @@
 
 \backmatter
 
-% About the Author
-\input{../.././manuscript/tex/author.tex}
-
+\input{../../manuscript/tex/note-on-the-text.tex}
 
 \end{document}
