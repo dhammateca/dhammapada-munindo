@@ -1165,6 +1165,11 @@ philo-sophical munindo amaravati thai-land}
   % P = 1.618 (Golden section)
   % TODO T = ? 1.568181
 
+  \newlength\BOOK@paperHeight
+  \newlength\BOOK@paperWidth
+  \setlength{\BOOK@paperHeight}{155mm}
+  \setlength{\BOOK@paperWidth}{96mm}% 1.618
+
   % === normalsize ===
 
   \def\BOOK@apt{11}
@@ -1199,9 +1204,20 @@ philo-sophical munindo amaravati thai-land}
 
   % === setup page layout ===
 
-  \setstocksize{155mm}{96mm}% 1.618
-  \settrimmedsize{\stockheight}{\stockwidth}{*}
-  \settrims{0pt}{0pt}
+  \ifshowtrims
+    \stockaiv% use A4 paper size to show trims
+    \setlength{\paperheight}{\BOOK@paperHeight}
+    \setlength{\paperwidth}{\BOOK@paperWidth}
+    \trimXmarks
+    \trimLmarks
+    \quarkmarks
+    \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+    \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+  \else\relax
+    \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+    \settrimmedsize{\stockheight}{\stockwidth}{*}
+    \settrims{0pt}{0pt}
+  \fi
 
   %\settypeblocksize{21.5\baselineskip + \topskip}{70mm}{*}% ~1.618, 114.43399mm by 69.93968mm
   \settypeblocksize{*}{70mm}{1.618}
