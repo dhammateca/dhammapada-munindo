@@ -2,29 +2,28 @@
 
 \graphicspath{{../../images/}}
 
-\definecolor{chapternum}{gray}{0.5}
+\definecolor{chapternum}{gray}{0.75}
 \definecolor{chaptertitle}{gray}{0.2}
-\definecolor{section}{gray}{0.3}
-\definecolor{subsection}{gray}{0.4}
-\definecolor{desclabel}{gray}{0.2}
+
+\newfontfamily\SanghaIcons{Sangha Icons}
 
 \maxtocdepth{chapter}
 
 \def\gobble@spaces{\@ifnextchar\space{\@gobble\gobble@spaces}{}}
-%\newcommand{\verseref}[1]{\mbox{}\marginpar{\vspace*{-0.5\marginparpush}\vspace*{1.2pt}\oldNumFont #1.}\gobble@spaces}
-%\newcommand{\verseref}[1]{\mbox{}\marginpar{\vspace*{-6pt}\hspace*{10pt}\footSize #1.}\gobble@spaces}
 \newcommand{\verseref}[1]{{\smaller\color{black!80} #1.}\newline}
+
+\newcommand{\copyrightsize}
+{\@setfontsize\copyrightsize{8.5}{10}}
 
 \renewcommand{\chapterNumberSize}
   {\@setfontsize\chapterNumberSize{15}{15}}
 
 \addtodef{\mainmatter}{}{%
-  \setlength{\parskip}{1.5em}%
+  \setlength{\parskip}{11pt}%
   \setlength{\parindent}{0pt}%
 }
 
-\addtodef{\appendix}{}{%
-  %\openright
+\addtodef{\backmatter}{}{%
   \setlength{\parskip}{0pt}%
   \setlength{\parindent}{15pt}%
 }

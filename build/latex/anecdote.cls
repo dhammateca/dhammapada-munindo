@@ -97,7 +97,7 @@
 \newcommand\crimsonRomanFontOldNum{}
 \newcommand\gentiumFont{}
 \newcommand\headerFont{}
-\newcommand\footFont{}
+%\newcommand\footFont{}
 \newcommand\pageNumFont{}
 \newcommand\partTitleFont{}
 %\newcommand\chapterNameFont{}
@@ -110,10 +110,11 @@
 \newcommand\tocFontOldNum{}
 
 \setmainfont[
-  ItalicFont = Shaker Pali Italic,
-  BoldFont = Shaker 2 Bold,
-  BoldItalicFont = Shaker 2 Bold Italic,
-]{Shaker Pali}
+  ItalicFont = Crimson Italic,
+  BoldFont = Crimson Bold,
+  BoldItalicFont = Crimson Bold Italic,
+  Numbers = OldStyle,
+]{Crimson Roman}
 
 %\newfontfamily\oldNumFont[
 %  Numbers = OldStyle,
@@ -132,6 +133,10 @@
 \newfontfamily\chapterNameFont{Shaker 2 Light}
 \newfontfamily\chapterTitleFont{Shaker 2 Light}
 \newfontfamily\chapterNumberFont{Shaker 2 Extra Bold}
+
+\newfontfamily\ShakerLight{Shaker 2 Light}
+
+\newfontfamily\footFont{Shaker 2}
 
 %\newfontfamily\chapterAuthorFont{Crimson Roman}
 %\newfontfamily\chapterNoteFont[
@@ -494,7 +499,7 @@ philo-sophical munindo amaravati thai-land}
 \contentsmargin{0pt}
 
 \newlength\tocLeftWidth
-\setlength\tocLeftWidth{6pc}
+\setlength\tocLeftWidth{3.5pc}
 
 % FIXME: the first Part heading in the TOC will also add that 20pt
 % vspace. How to add it only before a Part that follows a Chapter?
@@ -1173,7 +1178,7 @@ philo-sophical munindo amaravati thai-land}
   % === normalsize ===
 
   \def\BOOK@apt{11}
-  \def\BOOK@bpt{14.3}% 1.3em
+  \def\BOOK@bpt{14.5}% 1.3em
 
   \renewcommand{\normalsize}{%
     \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
@@ -1185,13 +1190,26 @@ philo-sophical munindo amaravati thai-land}
     \let\@listi\@listI}
   \normalsize
 
+  \def\BOOK@readingFontSizePt{10.5}
+  \def\BOOK@readingLineHeightPt{13.5}
+
+  \newcommand{\readingsize}{%
+    \@setfontsize\readingsize\BOOK@readingFontSizePt\BOOK@readingLineHeightPt
+    \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
+    \abovedisplayshortskip \z@ \@plus3\p@
+    \belowdisplayshortskip 6\p@ \@plus3\p@ \@minus3\p@
+    \belowdisplayskip \abovedisplayskip
+    \color{textbody}
+    \let\@listi\@listI}
 
   \def\longLine{All states of being are determined by the heart.}% 48 chars
   \newlength\longLineWidth
-  \setlength{\longLineWidth}{\widthof{\normalsize \longLine}}
-  \typeout{Long line: \longLine}
-  \typeout{Long line width at \BOOK@apt pt: \the\longLineWidth}
-  % Long line width at 11pt: 196.251pt, 69.23mm
+  %\setlength{\longLineWidth}{\widthof{\normalsize \longLine}}
+  %\typeout{Long line: \longLine}
+  %\typeout{Long line width at \BOOK@apt pt: \the\longLineWidth}
+  %% Long line width at 11pt: 198.15039pt, 69.9mm
+
+  \setlength{\longLineWidth}{70mm}
 
   % === indentations ===
 
@@ -1219,12 +1237,10 @@ philo-sophical munindo amaravati thai-land}
     \settrims{0pt}{0pt}
   \fi
 
-  %\settypeblocksize{21.5\baselineskip + \topskip}{70mm}{*}% ~1.618, 114.43399mm by 69.93968mm
-  \settypeblocksize{*}{70mm}{1.618}
-  \setlrmargins{16mm}{*}{*}% 16:10
-  \setulmargins{*}{*}{1.618}
-  %\setlength{\footskip}{3\baselineskip}
-
+  \settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth}{*}
+  \setlrmargins{15mm}{*}{*}
+  \setulmargins{30pt}{*}{*}
+  \setheadfoot{0pt}{20pt}
 
 }{
 

@@ -13,16 +13,16 @@
 \subtitle{}
 \author{Ajahn Munindo}
 \date{2015-05-19}
-\editionInfo{}
+% TODO: confirm number of copies
+\editionInfo{\textit{Fourth edition}, 2,000 copies, printed in England, 2015}
+% TODO: ISBN
 \ISBN{000-0-0000000-0-0}
 
 %% === Load further packages ===
 
-\usepackage{lipsum}
-
 %% === Hyphenation exceptions and corrections ===
 
-% \hyphenation{}
+\hyphenation{luang never-the-less}
 
 \begin{document}
 
@@ -35,15 +35,20 @@
 \cleartorecto
 \tableofcontents*
 
-% Preface
+\readingsize
+
 \input{../.././manuscript/tex/preface-1st.tex}
 \input{../.././manuscript/tex/preface-2nd.tex}
 \input{../.././manuscript/tex/preface-3rd.tex}
 \input{../.././manuscript/tex/preface-4th.tex}
 
+\normalsize
+
 \mainmatter
 
 \input{../.././manuscript/tex/book-opening.tex}
+
+\interlinepenalty=10000
 
 \input{../../manuscript/tex/dhp-1.tex}
 \input{../../manuscript/tex/dhp-2.tex}
@@ -72,7 +77,11 @@
 \input{../../manuscript/tex/dhp-25.tex}
 \input{../../manuscript/tex/dhp-26.tex}
 
+\interlinepenalty=0
+
 \backmatter
+
+\readingsize
 
 \input{../../manuscript/tex/note-on-the-text.tex}
 
