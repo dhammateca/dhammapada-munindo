@@ -207,7 +207,7 @@
 % memoir's more allowing penalties
 \midsloppy
 
-%\renewcommand\britishhyphenmins{{3}{3}}
+\renewcommand\britishhyphenmins{{3}{3}}
 
 % The lastparline or the parfillskip solution is overkill in many
 % places. It is optimal for larger paragraphs, but creates too much
