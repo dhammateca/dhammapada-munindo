@@ -33,7 +33,18 @@
 \input{../../manuscript/tex/dedication.tex}
 
 \cleartorecto
+
+\aliaspagestyle{chapter}{empty}
+\aliaspagestyle{normalpage}{empty}
+\pagestyle{normalpage}
+
 \tableofcontents*
+
+\clearpage
+
+\aliaspagestyle{chapter}{bottomcenter}
+\aliaspagestyle{normalpage}{bottomcenter}
+\pagestyle{normalpage}
 
 \readingsize
 
@@ -41,6 +52,10 @@
 \input{../.././manuscript/tex/preface-2nd.tex}
 \input{../.././manuscript/tex/preface-3rd.tex}
 \input{../.././manuscript/tex/preface-4th.tex}
+
+\input{../.././manuscript/tex/introduction.tex}
+
+\addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
 
 \normalsize
 
