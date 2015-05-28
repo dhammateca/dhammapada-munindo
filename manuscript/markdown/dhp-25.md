@@ -1,0 +1,170 @@
+The Renunciate
+==============
+
+360.\\
+It is good to restrain the eye.\\
+It is good to restrain the ear.\\
+It is good to restrain the nose.\\
+It is good to restrain the tongue.
+
+361.\\
+It is good to be restrained in body.\\
+It is good to be restrained in speech.\\
+It is good to be restrained in mind.\\
+It is good to be restrained in everything.\\
+The renunciate who is restrained\\
+in every way will realize\\
+freedom from suffering.
+
+362.\\
+One who is rightly disciplined\\
+in all actions,\\
+who is composed,\\
+contented and delights in\\
+solitary contemplation –\\
+such is a renunciate.
+
+363.\\
+It is pleasing to hear\\
+the words of a renunciate\\
+who is wise, not inflated,\\
+whose mind is composed\\
+and whose speech is contained\\
+and clear in meaning.
+
+364.\\
+One who abides in Dhamma,\\
+who delights in Dhamma,\\
+who contemplates Dhamma,\\
+who memorizes Dhamma\\
+does not lose the Way.
+
+365.\\
+Bemoaning your own lot\\
+or envying the gains of others\\
+obstructs peace of mind.
+
+366.\\
+But being contented\\
+even with modest gains,\\
+pure in livelihood and energetic,\\
+you will be held in high esteem.
+
+367.\\
+True renunciates\\
+regard the entire body-mind\\
+without any thought of ’I’ or ’mine’\\
+and are devoid of longing\\
+for what they do not have.
+
+368.\\
+A renunciate who\\
+abides in loving-kindness,\\
+with a heart full of devotion\\
+for the Buddha’s teaching,\\
+will find peace, stillness and bliss.
+
+369.\\
+Bale out the water from your boat;\\
+cut loose from the defiling passions\\
+of lust and hatred;\\
+unencumbered, sail on\\
+towards liberation.
+
+370.\\
+One who has\\
+cut off coarse attachments,\\
+cut off subtle attachments,\\
+who cultivates the spiritual faculties,\\
+is the one who finds freedom\\
+from delusion.
+
+371.\\
+Be careful!\\
+Do not neglect meditation,\\
+nor allow the mind\\
+to dwell on sensuality\\
+lest you might heedlessly swallow\\
+a red-hot ball of iron\\
+and find yourself crying out,\\
+“Why am I suffering?”
+
+372.\\
+Concentration does not arise\\
+without understanding,\\
+nor understanding\\
+without concentration.\\
+One who knows both\\
+approaches liberation.
+
+373.\\
+A happiness transcending ordinary bliss\\
+is experienced by those renunciates\\
+who have entered into seclusion\\
+with tranquil heart\\
+and clear understanding of the Way.
+
+374.\\
+When those who are wise\\
+dwell in contemplation\\
+on the transient nature\\
+of the body-mind\\
+and of all conditioned existence,\\
+they experience joy and delight,\\
+seeing through\\
+to the inherently secure.
+
+375-376.\\
+This then is the beginning\\
+for a renunciate who takes up the training:\\
+wisely control your faculties,\\
+commit yourself to the instruction,\\
+seek contentment;\\
+cultivate the company of those\\
+who support your aspiration\\
+for energetic practice of the teachings.\\
+The beauty of pure conduct\\
+conditions whole-hearted well-being,\\
+giving rise to complete\\
+freedom from remorse.
+
+377.\\
+As old flowers fall\\
+from a jasmine plant,\\
+let lust and hatred\\
+fall away.
+
+378.\\
+I call them the peaceful ones,\\
+who are calm in body,\\
+in speech and in mind,\\
+and who are thoroughly purged\\
+of all worldly obsessions.
+
+379.\\
+Scrutinize yourself.\\
+Examine yourself.\\
+With right attention\\
+to self assessment\\
+you will live at ease.
+
+380.\\
+We are our own protection;\\
+we are indeed our own secure abiding;\\
+how could it be otherwise?\\
+So with due care\\
+we attend to ourselves.
+
+381.\\
+A monk, a nun, who cultivates\\
+a joyous disposition\\
+and is filled with\\
+confidence in the Way\\
+will find peace, stillness and bliss.
+
+382.\\
+While still a youth, a renunciate\\
+fully devoted to the Way\\
+lights up the world\\
+like the moon emerging from clouds.
+

@@ -1,0 +1,95 @@
+Evil
+====
+
+116.\\
+Hasten towards doing what is wholesome.\\
+Restrain your mind from evil acts.\\
+The mind that is slow to do good\\
+can easily find pleasure in evil-doing.
+
+117.\\
+If you perform an evil act,\\
+then do not repeat it.\\
+Avoid finding pleasure in its memory.\\
+The aftermath of evil-doing is painful.
+
+118.\\
+Having performed a wholesome act\\
+it is good to repeat it.\\
+Enjoy the pleasure of its memory.\\
+The fruit of goodness is contentment.
+
+119.\\
+Even those who perform evil\\
+can experience well-being\\
+so long as their actions\\
+have not yet borne direct fruits.\\
+However, when the results\\
+of their actions ripen,\\
+the painful consequences\\
+cannot be avoided.
+
+120.\\
+Even those who live wholesome lives\\
+can experience suffering\\
+so long as their acts\\
+have not yet borne direct fruit.\\
+However, when the fruits\\
+of their actions ripen,\\
+the joyful consequences\\
+cannot be avoided.
+
+121.\\
+Do not ignore the effects of evil,\\
+saying, “This will come to nothing.”\\
+Just as by the gradual fall of raindrops\\
+the water jar is filled,\\
+so in time fools are corrupted\\
+by evil-doing.
+
+122.\\
+Do not ignore the effect of right action\\
+saying, “This will come to nothing.”\\
+Just as by the gradual fall of raindrops\\
+the water jar is filled,\\
+so in time the wise\\
+become replete with good.
+
+123.\\
+As a trader with valuable cargo avoids threat\\
+and those who love life avoid poison,\\
+so you should avoid evil actions.
+
+124.\\
+A hand without an open wound\\
+can carry poison\\
+and remain free from harm;\\
+likewise, evil has no consequences\\
+for those who do not perform it.
+
+125.\\
+If you intentionally harm\\
+an innocent person,\\
+someone who is pure and blameless,\\
+the harm will come back to you\\
+like fine dust thrown into the wind.
+
+126.\\
+Some are reborn as humans;\\
+evil-doers are reborn in hell.\\
+Doers of good are reborn in bliss\\
+and the pure enter the trackless land.
+
+127.\\
+There is no place on earth\\
+where one can hide\\
+from the consequences of evil actions –\\
+not in a mountain cave,\\
+the ocean, nor in the sky.
+
+128.\\
+There is no place on earth\\
+beyond the reach of death –\\
+not in a mountain cave,\\
+the ocean, nor in the sky.
+

@@ -1,0 +1,180 @@
+Craving
+=======
+
+334.\\
+Uncontained craving\\
+grows like a creeper in the forest.\\
+Being lost in it,\\
+one leaps around\\
+like a tree-dwelling ape looking for fruit.
+
+335.\\
+Fostering habits\\
+such as craving and clinging\\
+is like fertilizing noxious weeds.
+
+336.\\
+As water falls from a lotus leaf,\\
+so sorrow drops from those\\
+who are free of toxic craving.
+
+337.\\
+Torrential rains can destroy crops.\\
+Mara can destroy you.\\
+Thus I implore you –\\
+dig up the roots of all craving.\\
+I give you my blessing\\
+for this work.
+
+338.\\
+If the roots are not removed,\\
+a tree grows again and again;\\
+suffering returns to us\\
+so long as craving remains.
+
+339.\\
+When the streams\\
+of sensual pleasure run strong\\
+they can generate\\
+a torrent of longing.
+
+340.\\
+The streams of craving flow everywhere.\\
+The wild creeper of craving\\
+spreads and entangles.\\
+Discerning this creeper with insight,\\
+dig it out.
+
+341.\\
+Beings naturally experience pleasure;\\
+but when pleasure is\\
+contaminated with craving,\\
+not releasing it creates frustration\\
+and tedious suffering follows.
+
+342.\\
+Trapped in habits of craving,\\
+people panic\\
+like rabbits caught in a snare.\\
+Their reactions reinforce the pain\\
+of their entrapment.
+
+343.\\
+Trapped in habits of craving,\\
+people panic\\
+like rabbits caught in a snare.\\
+If you wish to be free from entrapment,\\
+craving itself must be removed.
+
+344.\\
+There are those who have begun\\
+on the path to freedom,\\
+yet out of desire return to bondage.
+
+345-346.\\
+Wisdom sees\\
+that being held behind bars\\
+or bound by chains\\
+is less limiting\\
+than infatuation with possessions\\
+and obsession with relationships.\\
+These bonds, though not so obvious,\\
+are strong and hold us down.\\
+To renounce attachment\\
+to the world of the senses\\
+is to be free from the prison of craving.
+
+347.\\
+Like a spider caught in its own web,\\
+a being enwrapped in sensual craving\\
+must be released from its own longings\\
+before it can walk free.
+
+348.\\
+Let go of the past.\\
+Let go of the future.\\
+Let go of the present.\\
+With a heart that is free,\\
+cross over to that shore\\
+which is beyond suffering.
+
+349.\\
+The bonds\\
+of deluded habits and craving\\
+are strengthened\\
+by one who lets the mind heedlessly dwell\\
+on objects of desire.
+
+350.\\
+But one who delights\\
+in calming sensual thoughts,\\
+who is alert\\
+and cultivates awareness\\
+of the loathsome\\
+aspects of the body,\\
+breaks through craving\\
+and unbinds deluded habits.
+
+351.\\
+No more need is there to re-form\\
+for those who have reached the goal;\\
+they are free from fear and longing.\\
+The thorns of existence have been removed.
+
+352.\\
+A master is one who has let go\\
+of all craving and clinging to the world;\\
+who has seen\\
+the truth beyond forms,\\
+yet is possessed of\\
+a profound knowledge of words.\\
+Such a great being can be said\\
+to have finished the task.
+
+353.\\
+I do not declare another as my teacher,\\
+since by myself have I arrived\\
+at the wisdom that overcomes all,\\
+realizes all, renounces all.\\
+Wholly liberated am I from all craving.
+
+354.\\
+The gift of truth excels all gifts.\\
+The flavour of reality\\
+surpasses all flavours.\\
+The delight of truth\\
+transcends all delights.\\
+Freedom from craving\\
+is the end of all suffering.
+
+355.\\
+Riches mostly ruin the foolish,\\
+but not those who seek the beyond.\\
+Just as they dismiss\\
+the well-being of others and cause harm,\\
+fools also ruin themselves.
+
+356.\\
+Weeds cause damage in fields.\\
+Lust causes damage to all beings.\\
+Support those who are free from lust;\\
+the gift will yield great benefit.
+
+357.\\
+Weeds cause damage in fields.\\
+Hatred causes damage to all beings.\\
+Support those who are free from hatred;\\
+the gift will yield great benefit.
+
+358.\\
+Weeds cause damage in fields.\\
+Confusion causes damage to all beings.\\
+Support those who are free from confusion;\\
+the gift will yield great benefit.
+
+359.\\
+Weeds cause damage in fields.\\
+Envy causes damage to all beings.\\
+Encourage those who are free from envy\\
+and there will be great benefit.
+

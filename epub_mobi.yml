@@ -7,10 +7,15 @@ bookid: "ADhammapadaForContemplation"
 # ISBN for the ebook editions
 isbn: "000-0-000000-00-0"
 
+section_names: [ "Chapter", "", "" ]
+
+show_chapter_name: true
+chapter_number_format: roman
+
 toc:
   - { the_matter: frontmatter }
   - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
-  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
+  #- { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
   - { title: "Preface to the first edition (2000)", src: 'preface-1st.md' }
   - { title: "Preface to the second edition (2006)", src: 'preface-2nd.md' }
@@ -20,7 +25,6 @@ toc:
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
   - { the_matter: mainmatter, section_number: 1 }
-  - book-opening.md
   - dhp-1.md
   - dhp-2.md
   - dhp-3.md
@@ -49,7 +53,7 @@ toc:
   - dhp-26.md
   - { the_matter: backmatter }
   - note-on-the-text.md
-  - copyright.md
+  # TODO - copyright.md
 
 cover_image: "cover.jpg"
 
