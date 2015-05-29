@@ -1,0 +1,67 @@
+\documentclass[11pt]{article}
+
+\makeatletter
+
+\usepackage{fontspec}
+
+\newlength\BOOK@paperHeight
+\newlength\BOOK@paperWidth
+
+\setlength{\BOOK@paperHeight}{155mm}
+\setlength{\BOOK@paperWidth}{96mm}% 1.618
+
+\usepackage[
+  paperwidth=\BOOK@paperWidth,
+  paperheight=\BOOK@paperHeight,
+  nohead,
+  nofoot,
+  margin=0pt,
+]{geometry}
+
+\usepackage[cmyk]{xcolor}
+\usepackage{graphicx}
+
+\setmainfont{Shaker 2 Light}
+
+\newfontfamily\chapterTitleFont{Shaker 2 Light}
+\newfontfamily\SanghaIcons{Sangha Icons}
+
+\usepackage[final]{microtype}
+\SetTracking[spacing={500,100,}]{encoding=*, family=chapterTitleFont}{40}
+
+\makeatother
+
+\begin{document}
+
+\thispagestyle{empty}
+\color{black!85}
+
+\vspace*{10mm}
+
+{\centering
+
+\chapterTitleFont\LARGE
+
+A\\
+Dhammapada\\
+for\\
+Contemplation
+
+\vspace*{10mm}
+
+\normalsize
+
+A rendering by\\
+Ajahn Munindo
+
+\vfill
+
+\resizebox{10mm}{!}{\SanghaIcons\color{black!60} b}
+
+Aruno Publications
+
+}
+
+\vspace*{10mm}
+
+\end{document}

@@ -3,3 +3,8 @@
 *.log
 *.toc
 build/latex/book_main.pdf
+build/latex/cover_main.pdf
+build/latex/cover_front.pdf
+build/latex/cover_back.pdf
+build/latex/cover_spine.pdf
+build/latex/cover_spine_west.pdf

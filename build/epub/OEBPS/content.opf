@@ -3,7 +3,7 @@
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <!-- ISBN -->
-    <dc:identifier id="ADhammapadaForContemplation" opf:scheme="ISBN">urn:isbn:000-0-000000-00-0</dc:identifier>
+    <dc:identifier id="ADhammapadaForContemplation" opf:scheme="ISBN">urn:isbn:978-1-908444-49-3</dc:identifier>
     <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
     
 

@@ -7,11 +7,9 @@
 \newlength\onePageHeight
 \newlength\spineWidth
 
-% pagesize: 5.25in x 8in
-% spinewidth: 9.374mm
-\setlength{\onePageWidth}{5.25in}
-\setlength{\onePageHeight}{8in}
-\setlength{\spineWidth}{9.374mm}
+\setlength{\onePageWidth}{96mm}
+\setlength{\onePageHeight}{155mm}
+\setlength{\spineWidth}{10.434mm}
 
 \newlength\geoPaperWidth
 \setlength\geoPaperWidth{2\onePageWidth+\spineWidth}
@@ -39,7 +37,7 @@
 {\includegraphics[keepaspectratio, height=\paperheight]{cover_back.pdf}}}
 %
 \AddToShipoutPictureFG*{\put(\LenToUnit{\onePageWidth},\LenToUnit{0mm})%
-{\includegraphics[keepaspectratio, height=\paperheight]{cover_spine_L.pdf}}}
+{\includegraphics[keepaspectratio, height=\paperheight]{cover_spine_west.pdf}}}
 %
 \AddToShipoutPictureFG*{\put(\LenToUnit{\frontCoverX},\LenToUnit{0mm})%
 {\includegraphics[keepaspectratio, height=\paperheight]{cover_front.pdf}}}

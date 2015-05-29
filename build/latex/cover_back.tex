@@ -1,0 +1,45 @@
+\documentclass[11pt]{article}
+
+\makeatletter
+
+\usepackage{fontspec}
+
+\newlength\BOOK@paperHeight
+\newlength\BOOK@paperWidth
+
+\setlength{\BOOK@paperHeight}{155mm}
+\setlength{\BOOK@paperWidth}{96mm}% 1.618
+
+\usepackage[
+  paperwidth=\BOOK@paperWidth,
+  paperheight=\BOOK@paperHeight,
+  nohead,
+  nofoot,
+  margin=0pt,
+]{geometry}
+
+\usepackage[cmyk]{xcolor}
+\usepackage{graphicx}
+
+\setmainfont[
+  ItalicFont = Shaker 2 Light Italic,
+]{Shaker 2 Light}
+
+\makeatother
+
+\begin{document}
+
+\thispagestyle{empty}
+\color{black!85}
+
+\mbox{}
+
+\vfill
+
+{\centering
+\textit{for free distribution}
+\par}
+
+\vspace*{20mm}
+
+\end{document}

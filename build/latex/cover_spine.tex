@@ -1,0 +1,46 @@
+\documentclass[11pt]{article}
+
+\makeatletter
+
+\usepackage{fontspec}
+
+\newlength\BOOK@paperHeight
+\newlength\BOOK@spineWidth
+
+\setlength{\BOOK@paperHeight}{155mm}
+% spine width:
+% (178 pages / 2) * 0.106 + 1mm = 10.434mm
+\setlength{\BOOK@spineWidth}{10.434mm}
+
+\usepackage[
+  paperwidth=\BOOK@paperHeight,
+  paperheight=\BOOK@spineWidth,
+  nohead,
+  nofoot,
+  vmargin=0pt,
+  hmargin=10mm,
+]{geometry}
+
+\usepackage[cmyk]{xcolor}
+
+\setmainfont{Shaker 2 Light}
+
+\usepackage[final]{microtype}
+
+\makeatother
+
+\begin{document}
+
+\thispagestyle{empty}
+
+{\centering
+
+\parbox[t][][c]{\linewidth}{%
+  \color{black!85}%
+  A Dhammapada for Contemplation \hfill Ajahn Munindo%
+}
+
+}
+
+\end{document}
+
