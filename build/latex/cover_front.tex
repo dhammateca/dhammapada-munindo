@@ -21,13 +21,20 @@
 \usepackage[cmyk]{xcolor}
 \usepackage{graphicx}
 
-\setmainfont{Shaker 2 Light}
+\setmainfont[
+  ItalicFont = Crimson Italic,
+]{Crimson Roman}
 
-\newfontfamily\chapterTitleFont{Shaker 2 Light}
+\newfontfamily\chapterTitleFont{Crimson Roman}
 \newfontfamily\SanghaIcons{Sangha Icons}
 
 \usepackage[final]{microtype}
-\SetTracking[spacing={500,100,}]{encoding=*, family=chapterTitleFont}{40}
+%\SetTracking[spacing={500,100,}]{encoding=*, family=chapterTitleFont}{40}
+
+\newcommand{\chapterSize}
+  {\@setfontsize\chapterSize{14}{22}}
+\newcommand{\chapterLargeSize}
+  {\@setfontsize\chapterLargeSize{17}{24}}
 
 \makeatother
 
@@ -40,25 +47,18 @@
 
 {\centering
 
-\chapterTitleFont\LARGE
-
-A\\
-Dhammapada\\
-for\\
-Contemplation
-
-\vspace*{10mm}
-
-\normalsize
-
-A rendering by\\
-Ajahn Munindo
+\resizebox{50mm}{!}{\SanghaIcons\color{black!60} b}
 
 \vfill
 
-\resizebox{10mm}{!}{\SanghaIcons\color{black!60} b}
+{\chapterSize\itshape
+A\\
+{\chapterTitleFont\chapterLargeSize\upshape \textls[150]{DHAMMAPADA}}\\
+for\\
+Contemplation
+}
 
-Aruno Publications
+\vfill
 
 }
 
