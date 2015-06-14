@@ -42,7 +42,7 @@
     
 
     <dc:publisher>Aruno Publications</dc:publisher>
-    <dc:date opf:event="publication">2015-05-19</dc:date>
+    <dc:date opf:event="publication">2015-06-14</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
     <dc:language>en</dc:language>
@@ -61,6 +61,8 @@
   <manifest>
     
     <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="images/cc-by-nc-nd-88x31.png" id="images-cc-by-nc-nd-88x31-png" media-type="image/png" />
     
     <item href="images/buddho_h55.jpg" id="images-buddho-h55-jpg" media-type="image/jpeg" />
     
@@ -107,6 +109,8 @@
     <item href="chapters/dhp-11.xhtml" id="chapter_old-age" media-type="application/xhtml+xml" />
     
     <item href="chapters/dhp-6.xhtml" id="chapter_the-wise" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
     
     <item href="chapters/introduction.xhtml" id="chapter_introduction" media-type="application/xhtml+xml" />
     
@@ -242,6 +246,8 @@
     
     <itemref idref='chapter_a-note-on-the-text'  />
     
+    <itemref idref='chapter_copyright'  />
+    
   </spine>
 
   <!-- GUIDE (optional, recommended by Apple)
@@ -260,6 +266,8 @@
     <reference href='chapters/cover.xhtml' title="Cover" type='cover' />
     
     <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
+    
+    
     
     
     

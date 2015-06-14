@@ -6,6 +6,7 @@ bookid: "ADhammapadaForContemplation"
 
 # ISBN for the ebook editions
 isbn: "978-1-908444-49-3"
+version: v1.0
 
 section_names: [ "Chapter", "", "" ]
 
@@ -53,7 +54,7 @@ toc:
   - dhp-26.md
   - { the_matter: backmatter }
   - note-on-the-text.md
-  # TODO - copyright.md
+  - copyright.md.erb
 
 cover_image: "cover.jpg"
 

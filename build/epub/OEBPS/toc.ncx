@@ -115,6 +115,9 @@
 <navPoint id='nav34' playOrder='34'>
 <navLabel><text>A Note on the Text</text></navLabel>
 <content src='chapters/note-on-the-text.xhtml'/></navPoint>
+<navPoint id='nav35' playOrder='35'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='chapters/copyright.xhtml'/></navPoint>
 
   </navMap>
 </ncx>
