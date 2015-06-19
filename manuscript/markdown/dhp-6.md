@@ -42,7 +42,7 @@ whether by praise or blame.
 
 82.\\
 On hearing true teachings\\
-the hearts of those who are receptive,\\
+the hearts of those who are receptive\\
 become serene,\\
 like a lake, deep, clear and still.
 

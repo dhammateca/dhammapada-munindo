@@ -12,7 +12,7 @@ are as if already dead.
 The wise, being fully alive, rejoice\\
 in appreciative awareness,\\
 and abide delighting\\
-in this capacity.
+in this ability.
 
 23.\\
 The Awakened Ones, firm in their resolve,\\
@@ -43,18 +43,18 @@ as their most precious possession.
 27.\\
 “Do not become lost in negligence,\\
 do not become lost in sensuality.”\\
-Heeding such council,\\
+Heeding such counsel,\\
 the contemplative discovers\\
 profound release.
 
 28.\\
-Those Awakened Ones,\\
+Those Awakened Ones\\
 who have tasted freedom\\
 from all distraction\\
 by cultivating awareness\\
 view all who are suffering\\
 with compassionate perspective,\\
-as one on a mountaintop\\
+as one on a mountain top\\
 is able to view the plains.
 
 29.\\

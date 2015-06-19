@@ -60,15 +60,15 @@ All craving is ended;\\
 my heart is as one with the unmade.
 
 155.\\
-Those who while still young\\
-neither choose a life of renunciation,\\
+Those who, while still young,\\
+neither choose a life of renunciation\\
 nor earn a good living,\\
 end up like dejected old herons\\
 beside a pond without fish.
 
 156.\\
-Those who while still young\\
-neither choose a life of renunciation,\\
+Those who, while still young,\\
+neither choose a life of renunciation\\
 nor earn a good living,\\
 will end up bemoaning the past,\\
 falling like spent arrows\\

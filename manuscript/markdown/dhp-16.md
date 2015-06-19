@@ -34,8 +34,8 @@ there will be no bondage.
 212.\\
 From endearment springs grief.\\
 From endearment springs fear of loss.\\
-Yet, if one is free from endearment,\\
-there is no grief,\\
+Yet, if one is free from endearment\\
+there is no grief\\
 so how could there be fear?
 
 213.\\
@@ -86,7 +86,7 @@ Those who long\\
 for the undefinable,\\
 with hearts filled with inspiration,\\
 whose minds are freed\\
-from sensual longing\\
+from sensual longing,\\
 are called\\
 “those bound for freedom”.
 

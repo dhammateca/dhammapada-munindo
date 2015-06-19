@@ -106,7 +106,7 @@ the deluded pursuit of pain?
 A traveller possessed of virtue,\\
 disciplined and committed to right conduct,\\
 will be received with honour;\\
-such a one can be recognised\\
+such a one can be recognized\\
 and can travel with confidence.
 
 304.\\

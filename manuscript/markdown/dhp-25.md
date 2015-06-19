@@ -115,7 +115,7 @@ seeing through\\
 to the inherently secure.
 
 375-376.\\
-This then is the beginning\\
+This, then, is the beginning\\
 for a renunciate who takes up the training:\\
 wisely control your faculties,\\
 commit yourself to the instruction,\\
@@ -145,7 +145,7 @@ of all worldly obsessions.
 Scrutinize yourself.\\
 Examine yourself.\\
 With right attention\\
-to self assessment\\
+to self-assessment\\
 you will live at ease.
 
 380.\\

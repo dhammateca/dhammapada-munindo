@@ -7,7 +7,7 @@ Let go of conceit.\\
 Release yourself\\
 from all that binds you.\\
 The pure-hearted who cling\\
-neither to body or mind\\
+neither to body nor mind\\
 do not fall prey to suffering.
 
 222.\\

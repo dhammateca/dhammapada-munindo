@@ -61,7 +61,7 @@ they must confront their misdeeds.
 141.\\
 Not outer asceticisms,\\
 nor self-humiliation,\\
-nor physical deprivation of any kind,\\
+nor physical deprivation of any kind\\
 can purify one’s heart\\
 if it is still obscured by doubt.
 

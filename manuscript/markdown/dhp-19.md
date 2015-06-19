@@ -5,7 +5,7 @@ The Just
 Making an arbitrary decision\\
 does not amount to justice.\\
 The wise decide the case\\
-after considered arguments\\
+after considering arguments\\
 for and against.
 
 257.\\

@@ -33,7 +33,7 @@ and awake.
 387.\\
 The sun shines by day,\\
 the moon shines by night.\\
-But, both all day and all night\\
+But both all day and all night\\
 the Buddha shines\\
 in glorious splendour.
 
@@ -123,7 +123,7 @@ without resorting to anger.
 400.\\
 Those who are free from anger,\\
 simply disciplined, virtuous,\\
-well trained\\
+well-trained\\
 and have gone beyond rebirth,\\
 these I call great beings.
 
@@ -247,7 +247,7 @@ and perpetual becoming.
 It is a great being\\
 who, having restrained all craving,\\
 lives the homeless life\\
-and realises freedom\\
+and realizes freedom\\
 from both craving\\
 and perpetual becoming.
 

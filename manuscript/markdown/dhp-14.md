@@ -55,7 +55,7 @@ with respect for the training,\\
 modesty in eating and contentment\\
 with one’s dwelling place,\\
 devotion to mindful intent:\\
-this is the Teaching of the Buddha.
+this is the teaching of the Buddha.
 
 186-187.\\
 Not in great wealth\\

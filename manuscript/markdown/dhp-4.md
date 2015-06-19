@@ -16,7 +16,7 @@ It is those who knowingly walk the Way\\
 who can see as they truly are\\
 this earth, this body,\\
 the hell realms and the heavenly realms.\\
-These are the ones who can discern\\
+They are the ones who can discern\\
 the well-taught Path of Wisdom.
 
 46.\\
@@ -67,7 +67,7 @@ when matched with right action.
 53.\\
 As many garlands can be made\\
 from a heap of flowers,\\
-so too much that is wholesome can be done\\
+so too, much that is wholesome can be done\\
 during this human existence.
 
 54.\\

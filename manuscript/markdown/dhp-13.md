@@ -5,7 +5,7 @@ The World
 By renouncing unworthy ways\\
 and by not living carelessly,\\
 by not holding to false views,\\
-we no longer perpetrate delusion.
+we no longer perpetuate delusion.
 
 168.\\
 Do not show false humility.\\

@@ -4,8 +4,8 @@ A Dhammapada for Contemplation
 
 by Ajahn Munindo
 
-Paperback status: **IN PROGRESS**  
-Ebook status: **IN PROGRESS**
+Paperback status: **COMPLETED**  
+Ebook status: **COMPLETED**
 
 ISBN for paperback: `978-1-908444-48-6`
 

@@ -23,8 +23,8 @@ which to others is indiscernible.
 93.\\
 There are those\\
 who are free from all obstructions;\\
-they do not worry about food,\\
-their focus is the signless state of liberation.\\
+they do not worry about food.\\
+Their focus is the signless state of liberation.\\
 Like birds flying through the air,\\
 trackless they move on their way.
 

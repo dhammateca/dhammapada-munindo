@@ -2,7 +2,7 @@ The Path
 ========
 
 273.\\
-The eightfold path\\
+The Eightfold Path\\
 is the most honourable way,\\
 the Four Noble Truths\\
 the most honourable utterance,\\
@@ -92,7 +92,7 @@ like a suckling calf to a cow.
 285.\\
 Remove the bonds of affection\\
 as one might pluck an autumn flower.\\
-Walk the Way that leads to liberation\\
+Walk the Way that leads to liberation,\\
 explained by the Awakened One.
 
 286.\\

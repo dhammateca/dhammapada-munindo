@@ -45,7 +45,7 @@ there are no quarrels.
 7.\\
 As a stormy wind can uproot a frail tree,\\
 so one who holds heedlessly to pleasure,\\
-who indulges in food and is indolent,\\
+who indulges in food and is indolent\\
 can be uprooted by Mara.
 
 8.\\
@@ -74,7 +74,7 @@ and the real for the false,\\
 one suffers a life of falsity.
 
 12.\\
-But, seeing the false as the false\\
+But seeing the false as the false\\
 and the real as the real,\\
 one lives in the perfectly real.
 

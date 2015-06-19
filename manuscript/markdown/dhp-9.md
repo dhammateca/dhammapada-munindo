@@ -48,7 +48,7 @@ so in time fools are corrupted\\
 by evil-doing.
 
 122.\\
-Do not ignore the effect of right action\\
+Do not ignore the effect of right action,\\
 saying, “This will come to nothing.”\\
 Just as by the gradual fall of raindrops\\
 the water jar is filled,\\
@@ -56,7 +56,7 @@ so in time the wise\\
 become replete with good.
 
 123.\\
-As a trader with valuable cargo avoids threat\\
+As a trader with valuable cargo avoids threats\\
 and those who love life avoid poison,\\
 so you should avoid evil actions.
 

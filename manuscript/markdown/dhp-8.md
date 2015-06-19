@@ -3,13 +3,13 @@ The Thousands
 
 100.\\
 A single word of truth\\
-which calms the mind,\\
+which calms the mind\\
 is better to hear than a thousand\\
 irrelevant words.
 
 101.\\
 A single verse of truth\\
-which calms the mind,\\
+which calms the mind\\
 is better to hear than a thousand\\
 irrelevant verses.
 
@@ -35,14 +35,14 @@ can distort or take away.
 
 106.\\
 To honour, even for a single moment,\\
-one who has attained self-mastery,\\
+one who has attained self-mastery\\
 is of greater merit\\
 than making countless offerings\\
 to those who are unworthy.
 
 107.\\
 To honour, even for a single moment,\\
-one who has attained self-mastery,\\
+one who has attained self-mastery\\
 is of greater benefit than a hundred years\\
 spent habitually performing ceremonies\\
 based on wrong understanding.
