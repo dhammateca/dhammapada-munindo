@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.toc
+manuscript/tex/auto/
 build/latex/auto/
 build/latex/book_main.pdf
 build/latex/cover_main.pdf
