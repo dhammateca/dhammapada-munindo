@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.toc
+publish/epub/
 manuscript/tex/auto/
 build/latex/auto/
 build/latex/book_main.pdf
