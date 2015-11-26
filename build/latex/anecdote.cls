@@ -71,6 +71,9 @@
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
 
+\newif\ifwebversion
+\webversionfalse
+
 % === Define colors ===
 
 \definecolor{textbody}{gray}{0.15}
@@ -85,6 +88,7 @@
 \definecolor{partname}{gray}{0.5}
 \definecolor{parttitle}{gray}{0.5}
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
+\definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
 % === Load fonts ===
 
@@ -188,14 +192,28 @@
 
 \RequirePackage{hyperref}
 
+\ifwebversion
+% Web version: colored link text
 \hypersetup{
+  unicode=true,
+  colorlinks=true,
+  linkcolor=link,
+  citecolor=link,
+  filecolor=link,
+  urlcolor=link
+}
+\else
+% Print version: link colors to text color, so that it doesn't
+% interfere with printing, but can still test is link targets work.
+\hypersetup{
+  unicode=true,
   colorlinks=true,
   linkcolor=textbody,
   citecolor=textbody,
   filecolor=textbody,
-  urlcolor=textbody,
-  unicode=true,
+  urlcolor=textbody
 }
+\fi
 
 \RequirePackage[
   open,
@@ -311,6 +329,20 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\theEditionInfo{\@theEditionInfo}
 \newcommand\thePrintedByInfo{\@thePrintedByInfo}
 \newcommand\theISBN{\@theISBN}
+
+% If class option webVersion is used, show content in a paper sized
+% minipage, empty page otherwise.
+% Redefine \color{webcoverbg} to change page background color.
+\newcommand\webcover[1]{%
+\thispagestyle{empty}\mbox{}
+\ifwebversion
+\AddToShipoutPictureFG*{\put(0,0){%
+\begin{minipage}[b][\paperheight][c]{\paperwidth}%
+#1
+\end{minipage}}}
+\fi
+\clearpage
+}
 
 \newsavebox{\quotepagebox}
 \newenvironment{quotepage}[1]

@@ -6,6 +6,8 @@
 
 \usepackage{mylayout}
 
+\webversiontrue
+
 %% Details of the book
 %% ===================
 
@@ -26,7 +28,14 @@
 
 \frontmatter
 
+\ifwebversion
+\webcover{%
+\includegraphics[width=\paperwidth]{./cover_front.pdf}
+}
+\else
 \input{../../manuscript/tex/titlepage.tex}
+\fi
+
 \input{../../manuscript/tex/copyright.tex}
 
 \input{../../manuscript/tex/dedication.tex}
