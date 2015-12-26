@@ -6,7 +6,7 @@ bookid: "ADhammapadaForContemplation"
 
 # ISBN for the ebook editions
 isbn: "978-1-908444-49-3"
-version: v1.0
+version: v1.1
 
 section_names: [ "Chapter", "", "" ]
 
@@ -57,8 +57,6 @@ toc:
   - copyright.md.erb
 
 cover_image: "cover.jpg"
-
-exclude_assets: [ "cover.xcf", ]
 
 publisher: "Aruno Publications"
 publisher_atag: "<a href='http://ratanagiri.org.uk/' target='_blank'>www.ratanagiri.org.uk</a>"

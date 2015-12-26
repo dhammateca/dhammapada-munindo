@@ -8,9 +8,11 @@
     
 
     <dc:title>A Dhammapada for Contemplation</dc:title>
+    
     <dc:rights></dc:rights>
+    
 
-    <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
+    <!-- BISAC Subject Headings List: https://www.bisg.org/bisac-subject-codes -->
     
 
     <dc:creator opf:file-as="Ajahn Munindo" opf:role="aut">Ajahn Munindo</dc:creator>
@@ -42,7 +44,7 @@
     
 
     <dc:publisher>Aruno Publications</dc:publisher>
-    <dc:date opf:event="publication">2015-06-14</dc:date>
+    <dc:date opf:event="publication">2015-12-26</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
     <dc:language>en</dc:language>
@@ -60,101 +62,97 @@
 
   <manifest>
     
-    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    <item href="Fonts/sourcesanspro-light.ttf" id="fonts-sourcesanspro-light-ttf" media-type="application/x-font-ttf" />
     
-    <item href="images/cc-by-nc-nd-88x31.png" id="images-cc-by-nc-nd-88x31-png" media-type="image/png" />
+    <item href="Fonts/sourcesanspro-bold.ttf" id="fonts-sourcesanspro-bold-ttf" media-type="application/x-font-ttf" />
     
-    <item href="images/buddho_h55.jpg" id="images-buddho-h55-jpg" media-type="image/jpeg" />
+    <item href="Fonts/sourcesanspro-lightitalic.ttf" id="fonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-ttf" />
     
-    <item href="webfonts/sourcesanspro-light.ttf" id="webfonts-sourcesanspro-light-ttf" media-type="application/font-sfnt" />
+    <item href="Fonts/sourcesanspro-italic.ttf" id="fonts-sourcesanspro-italic-ttf" media-type="application/x-font-ttf" />
     
-    <item href="webfonts/sourcesanspro-bold.ttf" id="webfonts-sourcesanspro-bold-ttf" media-type="application/font-sfnt" />
+    <item href="Fonts/sourcesanspro-regular.ttf" id="fonts-sourcesanspro-regular-ttf" media-type="application/x-font-ttf" />
     
-    <item href="webfonts/sourcesanspro-lightitalic.ttf" id="webfonts-sourcesanspro-lightitalic-ttf" media-type="application/font-sfnt" />
+    <item href="Fonts/existence-light.ttf" id="fonts-existence-light-ttf" media-type="application/x-font-ttf" />
     
-    <item href="webfonts/sourcesanspro-italic.ttf" id="webfonts-sourcesanspro-italic-ttf" media-type="application/font-sfnt" />
+    <item href="Styles/style-mobi-kf8.css" id="styles-style-mobi-kf8-css" media-type="text/css" />
     
-    <item href="webfonts/sourcesanspro-extralight.ttf" id="webfonts-sourcesanspro-extralight-ttf" media-type="application/font-sfnt" />
-    
-    <item href="webfonts/sourcesanspro-regular.ttf" id="webfonts-sourcesanspro-regular-ttf" media-type="application/font-sfnt" />
-    
-    <item href="webfonts/existence-light.ttf" id="webfonts-existence-light-ttf" media-type="application/font-sfnt" />
-    
-    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
-    
-    <item href="stylesheets/style-mobi.css" id="stylesheets-style-mobi-css" media-type="text/css" />
-    
-    <item href="chapters/dhp-10.xhtml" id="chapter_aggression" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-3.xhtml" id="chapter_the-mind" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-7.xhtml" id="chapter_the-awakened-one" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/preface-2nd.xhtml" id="chapter_preface-to-the-second-edition-2006-" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-17.xhtml" id="chapter_anger" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-26.xhtml" id="chapter_great-being" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/preface-3rd.xhtml" id="chapter_preface-to-the-third-edition-2010-" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-16.xhtml" id="chapter_affection" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-13.xhtml" id="chapter_the-world" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-11.xhtml" id="chapter_old-age" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-6.xhtml" id="chapter_the-wise" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/introduction.xhtml" id="chapter_introduction" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-21.xhtml" id="chapter_various" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-22.xhtml" id="chapter_hell" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-8.xhtml" id="chapter_the-thousands" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/preface-4th.xhtml" id="chapter_preface-to-the-fourth-edition-2015-" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-18.xhtml" id="chapter_pollution" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-5.xhtml" id="chapter_the-foolish" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-12.xhtml" id="chapter_the-self" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/preface-1st.xhtml" id="chapter_preface-to-the-first-edition-2000-" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-25.xhtml" id="chapter_the-renunciate" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-1.xhtml" id="chapter_the-pairs" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-4.xhtml" id="chapter_flowers" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-23.xhtml" id="chapter_the-elephant" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-24.xhtml" id="chapter_craving" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-15.xhtml" id="chapter_happiness" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-9.xhtml" id="chapter_evil" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-14.xhtml" id="chapter_the-buddha" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-2.xhtml" id="chapter_awareness" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/note-on-the-text.xhtml" id="chapter_a-note-on-the-text" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-19.xhtml" id="chapter_the-just" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/dhp-20.xhtml" id="chapter_the-path" media-type="application/xhtml+xml" />
+    <item href="Styles/style-mobi.css" id="styles-style-mobi-css" media-type="text/css" />
     
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    
+    <item href="Text/dhp-10.xhtml" id="chapter_aggression" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-3.xhtml" id="chapter_the-mind" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-7.xhtml" id="chapter_the-awakened-one" media-type="application/xhtml+xml" />
+    
+    <item href="Text/preface-2nd.xhtml" id="chapter_preface-to-the-second-edition-2006-" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-17.xhtml" id="chapter_anger" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-26.xhtml" id="chapter_great-being" media-type="application/xhtml+xml" />
+    
+    <item href="Text/preface-3rd.xhtml" id="chapter_preface-to-the-third-edition-2010-" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-16.xhtml" id="chapter_affection" media-type="application/xhtml+xml" />
+    
+    <item href="Text/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-13.xhtml" id="chapter_the-world" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-11.xhtml" id="chapter_old-age" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-6.xhtml" id="chapter_the-wise" media-type="application/xhtml+xml" />
+    
+    <item href="Text/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
+    
+    <item href="Text/introduction.xhtml" id="chapter_introduction" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-21.xhtml" id="chapter_various" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-22.xhtml" id="chapter_hell" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-8.xhtml" id="chapter_the-thousands" media-type="application/xhtml+xml" />
+    
+    <item href="Text/preface-4th.xhtml" id="chapter_preface-to-the-fourth-edition-2015-" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-18.xhtml" id="chapter_pollution" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-5.xhtml" id="chapter_the-foolish" media-type="application/xhtml+xml" />
+    
+    <item href="Text/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-12.xhtml" id="chapter_the-self" media-type="application/xhtml+xml" />
+    
+    <item href="Text/preface-1st.xhtml" id="chapter_preface-to-the-first-edition-2000-" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-25.xhtml" id="chapter_the-renunciate" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-1.xhtml" id="chapter_the-pairs" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-4.xhtml" id="chapter_flowers" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-23.xhtml" id="chapter_the-elephant" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-24.xhtml" id="chapter_craving" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-15.xhtml" id="chapter_happiness" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-9.xhtml" id="chapter_evil" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-14.xhtml" id="chapter_the-buddha" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-2.xhtml" id="chapter_awareness" media-type="application/xhtml+xml" />
+    
+    <item href="Text/note-on-the-text.xhtml" id="chapter_a-note-on-the-text" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-19.xhtml" id="chapter_the-just" media-type="application/xhtml+xml" />
+    
+    <item href="Text/dhp-20.xhtml" id="chapter_the-path" media-type="application/xhtml+xml" />
+    
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="Images/cc-by-nc-nd-88x31.png" id="images-cc-by-nc-nd-88x31-png" media-type="image/png" />
     
   </manifest>
 
@@ -178,75 +176,75 @@
        -->
   <spine toc="ncx">
     
-    <itemref idref='chapter_preface-to-the-first-edition-2000-'  />
+    <itemref idref="chapter_preface-to-the-first-edition-2000-"  />
     
-    <itemref idref='chapter_preface-to-the-second-edition-2006-'  />
+    <itemref idref="chapter_preface-to-the-second-edition-2006-"  />
     
-    <itemref idref='chapter_preface-to-the-third-edition-2010-'  />
+    <itemref idref="chapter_preface-to-the-third-edition-2010-"  />
     
-    <itemref idref='chapter_preface-to-the-fourth-edition-2015-'  />
+    <itemref idref="chapter_preface-to-the-fourth-edition-2015-"  />
     
-    <itemref idref='chapter_introduction'  />
+    <itemref idref="chapter_introduction"  />
     
-    <itemref idref='chapter_title-page'  />
+    <itemref idref="chapter_title-page"  />
     
-    <itemref idref='chapter_contents'  />
+    <itemref idref="chapter_contents"  />
     
-    <itemref idref='chapter_the-pairs'  />
+    <itemref idref="chapter_the-pairs"  />
     
-    <itemref idref='chapter_awareness'  />
+    <itemref idref="chapter_awareness"  />
     
-    <itemref idref='chapter_the-mind'  />
+    <itemref idref="chapter_the-mind"  />
     
-    <itemref idref='chapter_flowers'  />
+    <itemref idref="chapter_flowers"  />
     
-    <itemref idref='chapter_the-foolish'  />
+    <itemref idref="chapter_the-foolish"  />
     
-    <itemref idref='chapter_the-wise'  />
+    <itemref idref="chapter_the-wise"  />
     
-    <itemref idref='chapter_the-awakened-one'  />
+    <itemref idref="chapter_the-awakened-one"  />
     
-    <itemref idref='chapter_the-thousands'  />
+    <itemref idref="chapter_the-thousands"  />
     
-    <itemref idref='chapter_evil'  />
+    <itemref idref="chapter_evil"  />
     
-    <itemref idref='chapter_aggression'  />
+    <itemref idref="chapter_aggression"  />
     
-    <itemref idref='chapter_old-age'  />
+    <itemref idref="chapter_old-age"  />
     
-    <itemref idref='chapter_the-self'  />
+    <itemref idref="chapter_the-self"  />
     
-    <itemref idref='chapter_the-world'  />
+    <itemref idref="chapter_the-world"  />
     
-    <itemref idref='chapter_the-buddha'  />
+    <itemref idref="chapter_the-buddha"  />
     
-    <itemref idref='chapter_happiness'  />
+    <itemref idref="chapter_happiness"  />
     
-    <itemref idref='chapter_affection'  />
+    <itemref idref="chapter_affection"  />
     
-    <itemref idref='chapter_anger'  />
+    <itemref idref="chapter_anger"  />
     
-    <itemref idref='chapter_pollution'  />
+    <itemref idref="chapter_pollution"  />
     
-    <itemref idref='chapter_the-just'  />
+    <itemref idref="chapter_the-just"  />
     
-    <itemref idref='chapter_the-path'  />
+    <itemref idref="chapter_the-path"  />
     
-    <itemref idref='chapter_various'  />
+    <itemref idref="chapter_various"  />
     
-    <itemref idref='chapter_hell'  />
+    <itemref idref="chapter_hell"  />
     
-    <itemref idref='chapter_the-elephant'  />
+    <itemref idref="chapter_the-elephant"  />
     
-    <itemref idref='chapter_craving'  />
+    <itemref idref="chapter_craving"  />
     
-    <itemref idref='chapter_the-renunciate'  />
+    <itemref idref="chapter_the-renunciate"  />
     
-    <itemref idref='chapter_great-being'  />
+    <itemref idref="chapter_great-being"  />
     
-    <itemref idref='chapter_a-note-on-the-text'  />
+    <itemref idref="chapter_a-note-on-the-text"  />
     
-    <itemref idref='chapter_copyright'  />
+    <itemref idref="chapter_copyright"  />
     
   </spine>
 
@@ -273,9 +271,9 @@
     
     
     
-    <reference href='chapters/titlepage.xhtml' title="Title Page" type='text' />
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="text" />
     
-    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
+    <reference href="Text/toc.xhtml" title="Contents" type="toc" />
     
     
     
