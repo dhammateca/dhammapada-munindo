@@ -41,7 +41,7 @@ in other Indian religious texts, such as the great epic, the
 which we have our own versions in the west.
 
 Beyond this basic human wisdom, however, the sayings of the Dhammapada
-concern the Way to “freedom from bondage, liberation, true security”
+concern the Way to “freedom from all limitation: liberation, true security”
 (verse 23), which is the particular teaching of the Buddha. They do not
 present this teaching in the form of doctrine, but instead offer a
 myriad hints, approaches and directions of investigation, from
@@ -120,18 +120,6 @@ fluidity and naturalness. Although no attempt has been made to reproduce
 the formal qualities of the original, some of the beauty of the old
 text’s poetry emerges through the freedom enabled by an interpretive
 rendering (see, for instance, verse 377).
-
-Finally, Ajahn Munindo has noticed a judgemental quality in certain
-verses of the Dhammapada that was perhaps compelling in its day, but
-which can now leave us cold, or encourage a wrong effort. For instance,
-verse 211 literally recommends breaking all ties of intimacy, while
-Ajahn Munindo’s rendering suggests that “if you take sides neither for
-nor against fondness, there will be no bondage”. This kind of change to
-the tone of the Dhammapada helps us away from an unhelpful
-judgementalism and towards a consideration of how suffering is brought
-about in our lives. Ethics might then be better understood as the
-setting of standards for living that support a life deepened and made
-rich by contemplation.
 
 Thomas Jones Ph.D.\\
 Cambridge

@@ -29,7 +29,7 @@ for separation from those\\
 one holds dear is painful,\\
 while if you take sides\\
 neither for nor against fondness,\\
-there will be no bondage.
+there will be no ties that bind.
 
 212.\\
 From endearment springs grief.\\

@@ -99,7 +99,7 @@ of all pollutions\\
 and attachments.
 
 397.\\
-Whoever has broken loose from all bondage\\
+Whoever has cut all that tethers\\
 and found fearlessness,\\
 who is beyond attachments\\
 and defilements,\\

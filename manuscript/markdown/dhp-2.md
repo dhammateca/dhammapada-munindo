@@ -17,7 +17,7 @@ in this ability.
 23.\\
 The Awakened Ones, firm in their resolve,\\
 vigorously apply themselves,\\
-and know freedom from bondage:\\
+and know freedom from all limitation:\\
 liberation, true security.
 
 24.\\

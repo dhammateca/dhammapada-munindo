@@ -69,7 +69,7 @@ craving itself must be removed.
 344.\\
 There are those who have begun\\
 on the path to freedom,\\
-yet out of desire return to bondage.
+yet out of desire return to being chained.
 
 345-346.\\
 Wisdom sees\\

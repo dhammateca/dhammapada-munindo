@@ -5,7 +5,7 @@ The Awakened One
 There is no tension\\
 for those who have completed their journey\\
 and have become free\\
-from the distress of bondage.
+from the distress of all binding ties.
 
 91.\\
 Alert to the needs of the journey,\\
