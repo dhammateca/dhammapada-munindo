@@ -11,7 +11,7 @@ Harnham Hill, it is a joy to have an opportunity for a reprint. It has
 also been an opportunity to re-craft some of the verses.
 
 I am indebted to Thanissaro Bhikkhu for his new translation of *The
-Dhammapada* (Dhamma Dana Pubs. Barre, Ma.1998) which was usefully
+Dhammapada* (Dhamma Dana Pubs. Barre, MA.1998) which was usefully
 consulted. I am most grateful to all those who offered comments on this
 new edition.
 
