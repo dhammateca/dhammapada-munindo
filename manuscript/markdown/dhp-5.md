@@ -94,9 +94,11 @@ they wish to be seen\\
 as powerful and discerning.
 
 75.\\
-Like the tongue that can appreciate\\
-the flavour of the soup,\\
-is one who can discern clearly the truth\\
-after only a brief\\
-association with the wise.
+The path that leads to worldly gain\\
+and the path that leads to Liberation\\
+are different paths.\\
+Seeing thus, the renunciant disciple\\
+avoids the distraction\\
+of worldly gain and success,\\
+to dwell in solitude.
 
