@@ -5,10 +5,13 @@ BIBTEX=bibtex
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
-all: document
+all: main pocket
 
-document:
+main:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+
+pocket:
+	$(LATEX) $(LATEX_OPTS) book_pocket_main.tex;
 
 view:
 	evince $(FILE).pdf &
