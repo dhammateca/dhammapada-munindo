@@ -1,4 +1,3 @@
-
 A Dhammapada for Contemplation
 ==============
 
