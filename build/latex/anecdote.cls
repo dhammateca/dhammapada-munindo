@@ -90,6 +90,24 @@
 
 % === Load fonts ===
 
+% Dummy font commands to use system defaults instead of custom fonts
+
+%\newcommand\crimsonRomanFont{}
+\newcommand\crimsonRomanFontOldNum{}
+\newcommand\gentiumFont{}
+\newcommand\headerFont{}
+%\newcommand\footFont{}
+\newcommand\pageNumFont{}
+\newcommand\partTitleFont{}
+%\newcommand\chapterNameFont{}
+%\newcommand\chapterTitleFont{}
+%\newcommand\chapterNumberFont{}
+\newcommand\chapterAuthorFont{}
+\newcommand\chapterNoteFont{}
+\newcommand\sectionFont{}
+\newcommand\tocFont{}
+\newcommand\tocFontOldNum{}
+
 \RequirePackage{fontspec}
 \defaultfontfeatures{Ligatures={TeX}}
 
@@ -113,7 +131,7 @@
   Numbers = OldStyle,
 ]{Crimson Roman}
 
-\newfontfamily\footFont{Shaker 2}
+\newfontfamily\footerFont{Shaker 2}
 
 % chapter
 
