@@ -6,6 +6,7 @@ publish/epub/
 manuscript/tex/auto/
 build/latex/auto/
 build/latex/book_main.pdf
+build/latex/book_pocket_main.pdf
 build/latex/cover_main.pdf
 build/latex/cover_front.pdf
 build/latex/cover_back.pdf
