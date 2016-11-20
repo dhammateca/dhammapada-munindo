@@ -1,29 +1,27 @@
 % Anecdote Class
 %
-% A memoir-based documentclass with a contemporary style for books with a lighter content.
+% A memoir-based documentclass
 %
 % https://github.com/profound-labs/anecdote
 %
-% http://profound-labs.github.io/projects/anecdote/
-%
-% (c) Gambhiro Bhikkhu, 2014
+% (c) Gambhiro Bhikkhu, 2016
 % gambhiro.bhikkhu.85@gmail.com
 %
 % LPPL LaTeX Pubic Project Licence
 %
-
-% NOTE: this is for the pocket sized version.
 
 % ==============
 % Identification
 % ==============
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{anecdote-pocket}[2014/11/23 v0.8 A memoir-based documentclass with a contemporary style for books with a lighter content.]
+\ProvidesClass{anecdote}[2016/05/05 v0.10 A memoir-based documentclass.]
 
 % ========================
 % Preliminary Declarations
 % ========================
+\newif\ifwebversion
+\webversionfalse
 
 % =======
 % Options
@@ -34,10 +32,9 @@
 
 \pgfkeys{
   /BOOK/.cd,
-  pagePreset/.default=largepage,% "largepage": 6x9in, "smallpage": 5.25x8in
-  pagePreset/.store in=\BOOK@pagePreset,
   babelLanguage/.default=british,
   babelLanguage/.store in=\BOOK@babelLanguage,
+  webversion/.code=\webversiontrue,
 }
 
 % Pass all unknown options to memoir
@@ -61,7 +58,9 @@
 \RequirePackage{xparse}
 \RequirePackage{soul}
 \RequirePackage{textcomp}
-\RequirePackage[cmyk]{xcolor}
+% Default color model is 'natural' which keeps all colors in their model.
+\RequirePackage{xcolor}
+\RequirePackage{xcoffins}
 \RequirePackage{graphicx}
 % Add your \graphicspath declaration to your local style.
 \RequirePackage{eso-pic}
@@ -73,12 +72,9 @@
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
 
-\newif\ifwebversion
-\webversionfalse
-
 % === Define colors ===
 
-\definecolor{textbody}{gray}{0.15}
+\definecolor{textbody}{gray}{0.1}% 0.1 (90%) is safe. 85% is too light when produced by some printers
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
@@ -97,63 +93,35 @@
 \RequirePackage{fontspec}
 \defaultfontfeatures{Ligatures={TeX}}
 
-% Dummy font commands to use system defaults instead of custom fonts
-
-\newcommand\crimsonRomanFont{}
-\newcommand\crimsonRomanFontOldNum{}
-\newcommand\gentiumFont{}
-\newcommand\headerFont{}
-%\newcommand\footFont{}
-\newcommand\pageNumFont{}
-\newcommand\partTitleFont{}
-%\newcommand\chapterNameFont{}
-%\newcommand\chapterTitleFont{}
-%\newcommand\chapterNumberFont{}
-\newcommand\chapterAuthorFont{}
-\newcommand\chapterNoteFont{}
-\newcommand\sectionFont{}
-\newcommand\tocFont{}
-\newcommand\tocFontOldNum{}
+% If -- dashes don't work for your font, try
+% Renderer = Basic
+% http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
+  SmallCapsFeatures= { LetterSpace = 0.2 },
   ItalicFont = Crimson Italic,
   BoldFont = Crimson Bold,
   BoldItalicFont = Crimson Bold Italic,
   Numbers = OldStyle,
 ]{Crimson Roman}
 
-%\newfontfamily\oldNumFont[
-%  Numbers = OldStyle,
-%]{Crimson Roman}
+\newfontfamily\crimsonRomanFont[
+  SmallCapsFeatures= { LetterSpace = 0.2 },
+  ItalicFont = Crimson Italic,
+  BoldFont = Crimson Bold,
+  BoldItalicFont = Crimson Bold Italic,
+  Numbers = OldStyle,
+]{Crimson Roman}
 
-\newcommand{\footSize}
-  {\@setfontsize\footSize{9}{9}}
+\newfontfamily\footFont{Shaker 2}
 
 % chapter
-
-%\newfontfamily\partTitleFont[
-%  ItalicFont = Shaker 2 Light Italic,
-%  %Renderer = Basic,
-%]{Crimson Roman}
 
 \newfontfamily\chapterNameFont{Shaker 2 Light}
 \newfontfamily\chapterTitleFont{Shaker 2 Light}
 \newfontfamily\chapterNumberFont{Shaker 2 Extra Bold}
 
 \newfontfamily\ShakerLight{Shaker 2 Light}
-
-\newfontfamily\footFont{Shaker 2}
-
-%\newfontfamily\chapterAuthorFont{Crimson Roman}
-%\newfontfamily\chapterNoteFont[
-%  BoldFont = Crimson Semibold,
-%  ItalicFont = Crimson Italic,
-%]{Crimson Roman}
-
-%\newfontfamily\dropCapFont{Cinzel Decorative Bold}
-%
-%\newcommand{\dropCapSize}
-%  {\@setfontsize\dropCapSize{32}{32}}
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -167,15 +135,16 @@
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
   {\@setfontsize\chapterNoteSize{10}{13}}
+\newcommand{\footerSize}
+  {\@setfontsize\footerSize{9}{9}}
+%\newcommand{\headerSize}
+%  {\@setfontsize\headerSize{10}{10}}
 \newcommand{\pageNumSize}
   {\@setfontsize\pageNumSize{10}{12}}
 
 % section
 
-%\newfontfamily\sectionFont[
-%  BoldFont = Crimson Semibold,
-%  ItalicFont = Crimson Italic,
-%]{Crimson Roman}
+%\newcommand\sectionFont\fontinSansFont
 
 \newcommand{\sectionSize}
   {\@setfontsize\sectionSize{13}{15}}
@@ -185,10 +154,28 @@
 \newcommand{\smaller}
   {\@setfontsize\smaller{9}{11}}
 
+\newcommand{\copyrightsize}
+  {\@setfontsize\copyrightsize{9}{11}}
+
+% foreign language wrappers
+
+%\newfontfamily\thaiFont{Kinnari}
+
+%\newcommand*\thai[1]{{\thaiFont #1}}
+
+% other fonts
+
+\newcommand\questionAnswerFont\fontinSansFont
+
 % === microtype ===
 
 \RequirePackage[final,babel=true]{microtype}
-\SetTracking[spacing={500,100,}]{encoding=*, family=chapterTitleFont}{40}
+
+% \SetTracking family=x works by name ("Glacial Indifference") or the automatic
+% lookup name ("GlacialIndifference"), but not by \newfontfamily commands
+% (such as \chapterTitleFont)
+
+\SetTracking[spacing={350,100,}]{encoding=*, family=Crimson Roman}{40}
 
 % === hyperref ===
 
@@ -208,8 +195,8 @@
 % Print version: link colors to text color, so that it doesn't
 % interfere with printing, but can still test is link targets work.
 \hypersetup{
-  unicode=true,
   colorlinks=true,
+  unicode=true,
   linkcolor=textbody,
   citecolor=textbody,
   filecolor=textbody,
@@ -224,7 +211,7 @@
 
 % === penalties and hyphenation ===
 
-% memoir's more allowing penalties
+% Start with memoir's more allowing penalties
 \midsloppy
 
 \renewcommand\britishhyphenmins{{3}{3}}
@@ -256,13 +243,21 @@
 % Last line at least 20% of textwidth
 %\parfillskip 0pt plus 0.8\textwidth
 
-\hyphenpenalty=700
+\RequirePackage[defaultlines=2,all]{nowidow}
+
+% Penalties
+
+% Use a bit less hyphenation to avoid many successive hyphens, at the expense of
+% a bit more streching.
+\hyphenpenalty=700% default = 50
+
 \exhyphenpenalty=50
 \doublehyphendemerits=900
-%\finalhyphendemerits=5000 % default is 5000
-\brokenpenalty=990
+%\finalhyphendemerits=5000% default = 5000
 
-\RequirePackage[defaultlines=2,all]{nowidow}
+% It is more effective to \mbox{...} the words to avoid hyphenation.
+% penalty for page break after a hyphenated line
+\brokenpenalty=990% default = 100
 
 % === common hyphenation exceptions and corrections ===
 
@@ -298,8 +293,9 @@ philo-sophical munindo amaravati thai-land}
 
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
-% Using \textls letterspacing with microtype instead, because soul swallows accented characters at the end of words.
-%\sodef\soChapter{}{.06em}{.4em plus.1em}{.1em plus.1em minus.1em}
+% Use \textls letterspacing (for uppercase chapter titles for example)
+% with microtype instead, because soul swallows
+% accented characters at the end of words.
 
 % === Custom commands and environments ===
 
@@ -325,26 +321,14 @@ philo-sophical munindo amaravati thai-land}
 \newcommand*{\subtitle}[1]{\def\@thesubtitle{#1}}
 \newcommand*{\editionInfo}[1]{\def\@theEditionInfo{#1}}
 \newcommand*{\printedByInfo}[1]{\def\@thePrintedByInfo{#1}}
+\newcommand*{\publisher}[1]{\def\@thePublisher{#1}}
 \newcommand*{\ISBN}[1]{\def\@theISBN{#1}}
 
 \newcommand\thesubtitle{\@thesubtitle}
 \newcommand\theEditionInfo{\@theEditionInfo}
 \newcommand\thePrintedByInfo{\@thePrintedByInfo}
+\newcommand\thePublisher{\@thePublisher}
 \newcommand\theISBN{\@theISBN}
-
-% If class option webVersion is used, show content in a paper sized
-% minipage, empty page otherwise.
-% Redefine \color{webcoverbg} to change page background color.
-\newcommand\webcover[1]{%
-\thispagestyle{empty}\mbox{}
-\ifwebversion
-\AddToShipoutPictureFG*{\put(0,0){%
-\begin{minipage}[b][\paperheight][c]{\paperwidth}%
-#1
-\end{minipage}}}
-\fi
-\clearpage
-}
 
 \newsavebox{\quotepagebox}
 \newenvironment{quotepage}[1]
@@ -368,6 +352,11 @@ philo-sophical munindo amaravati thai-land}
 ]%
 }{\end{itemize}}
 
+\newcommand\speakerName[1]{%
+  % The hangindent only works with alternating speakers.
+  %\par\hangindent=1pc%
+  {\color[gray]{0.25}\crimsonRomanFont\scshape\MakeLowercase{#1}}\quad}
+
 \newlength\qw
 \setlength\qw{17pt}% same as parindent for smallpage
 
@@ -390,6 +379,55 @@ philo-sophical munindo amaravati thai-land}
   \smallskip%
   \par\noindent%
   \ifthenelse{\equal{#1}{}}{\textit{A:}\space}{\textit{#1:}\space}%
+}
+
+\newcommand{\QA}[1]{%
+  {\questionAnswerFont\color[gray]{0.4} #1}\space
+}
+
+% If class option webVersion is used, show content in a paper sized
+% minipage, empty page otherwise.
+% Redefine \color{webcoverbg} to change page background color.
+\newcommand\webcover[1]{%
+\thispagestyle{empty}\mbox{}
+\ifwebversion
+\AddToShipoutPictureFG*{\put(0,0){%
+\begin{minipage}[b][\paperheight][c]{\paperwidth}%
+#1
+\end{minipage}}}
+\fi
+\clearpage
+}
+
+\newcommand\photoFullBleed[1]{%
+  \AddToShipoutPictureFG*{%
+    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+      \includegraphics[height={\paperheight + 6mm}]{#1}%
+    }%
+  }%
+}
+
+\newcommand\photoSideBleed[1]{%
+  \AddToShipoutPictureFG*{%
+    \put(\LenToUnit{-3mm},\LenToUnit{0mm}){%
+      \begin{minipage}[b][\paperheight][c]{\paperwidth + 6mm}%
+        \includegraphics[width={\paperwidth + 6mm}]{#1}%
+      \end{minipage}%
+    }%
+  }%
+}
+
+% glossary as item list
+
+\newcommand*{\labelFmt}[2]{\normalfont\textbf{#1}, \textit{#2}.}
+
+\newenvironment{glossarydescription}%
+               {\list{}{\labelwidth\z@ \itemindent-\leftmargin
+                        \let\makelabel\glossaryDescriptionlabel}}%
+               {\endlist}
+\newcommand*{\glossaryDescriptionlabel}[1]{%
+  \hspace\labelsep
+  \labelFmt #1%
 }
 
 % === Renewing package macros ===
@@ -448,6 +486,13 @@ philo-sophical munindo amaravati thai-land}
   \raisebox{-0.3\baselineskip}{\rule{0.2pt}{1.2\baselineskip}}%
   \hspace{6pt}%
 }
+
+\newcommand{\sepdot}{%
+  \hspace*{6pt}%
+  $\cdot$%
+  \hspace*{6pt}%
+}
+
 \makepagestyle{topbottomcentered}
 \makeevenhead{topbottomcentered}{}{\textit{\rightmark}}{}
 \makeevenfoot{topbottomcentered}{}{\thepage}{}
@@ -457,24 +502,24 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{bottomcorner}
 \makeevenhead{bottomcorner}{}{}{}
 \makeevenfoot{bottomcorner}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \thepage \sepline \leftmark%
 }{}{}
 \makeoddhead{bottomcorner}{}{}{}
 \makeoddfoot{bottomcorner}{}{}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \rightmark \sepline \thepage%
 }
 
 \makepagestyle{bottomcenter}
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \thepage%
 }{}
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \thepage%
 }{}
 
@@ -528,6 +573,14 @@ philo-sophical munindo amaravati thai-land}
     \addcontentsline{toc}{chapternote}{%
     \noexpand\numberline{}#1}%
 }
+
+% Format:
+% \titlecontents{ section }[ left ]
+% { above-code }
+% { numbered-entry-format }
+% { numberless-entry-format }
+% { filler-page-format }
+% [ below-code ]
 
 % the right TOC margin
 \contentsmargin{0pt}
@@ -826,6 +879,10 @@ philo-sophical munindo amaravati thai-land}
 \addtodef{\backmatter}{}{\backmatterChapterStyle}
 
 % === Section styles ===
+
+% TODO: could use \makeheadstyles to keep bundle different chapter and
+% section style together. See memoir manual '6.9 Predefined heading
+% styles'.
 
 \raggedbottomsection
 
