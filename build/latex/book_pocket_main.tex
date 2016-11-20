@@ -3,7 +3,10 @@
   babelLanguage=british,
 ]{anecdote-pocket}
 
-\usepackage{mylayout}
+\newif\ifpocketversion
+\pocketversiontrue
+
+\usepackage{mylayout-pocket}
 
 %\webversiontrue
 
@@ -21,11 +24,13 @@
 
 %% === Hyphenation exceptions and corrections ===
 
-\hyphenation{luang never-the-less}
+\hyphenation{luang never-the-less dhamma-pada}
 
 \begin{document}
 
 \frontmatter
+
+% TODO vertical spacing: maybe move title higher?
 
 \ifwebversion
 \webcover{%
@@ -37,7 +42,26 @@
 
 \input{../../manuscript/tex/copyright.tex}
 
-\input{../../manuscript/tex/dedication.tex}
+% Dedication
+
+\cleartorecto
+\thispagestyle{empty}
+
+\vspace*{20mm}
+
+{\centering
+\normalsize
+
+\textit{Dedication}\\[0.4\baselineskip]
+We would like to acknowledge the support of\\
+many people in the preparation of this book,\\
+especially that of the Kataññutā group\\
+in Malaysia, Singapore and Australia\\
+for bringing it into production.
+
+}
+
+% Table of Contents
 
 \cleartorecto
 
@@ -55,11 +79,20 @@
 
 \readingsize
 
+\clearpage
+\settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth + 2mm}{*}
+\setlrmargins{13mm}{*}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
 \input{../.././manuscript/tex/preface-1st.tex}
 \input{../.././manuscript/tex/preface-2nd.tex}
 \input{../.././manuscript/tex/preface-3rd.tex}
 \input{../.././manuscript/tex/preface-4th.tex}
 
+% TODO ? title could be centered
 \input{../.././manuscript/tex/introduction.tex}
 
 \addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
@@ -68,6 +101,14 @@
 
 \mainmatter
 
+\settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth}{*}
+\setlrmargins{15mm}{*}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
+% TODO vertical spacing: maybe move higher?
 \input{../.././manuscript/tex/book-opening.tex}
 
 \interlinepenalty=10000
@@ -105,11 +146,22 @@
 
 \readingsize
 
+\clearpage
+\settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth + 2mm}{*}
+\setlrmargins{13mm}{*}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
+% TODO fix tracking
 \input{../../manuscript/tex/note-on-the-text.tex}
 
 \input{../../manuscript/tex/copyright-details.tex}
 
-\newpage
-\mbox{}\thispagestyle{empty}
+%\newpage
+%\mbox{}\thispagestyle{empty}
+%\newpage
+%\mbox{}\thispagestyle{empty}
 
 \end{document}

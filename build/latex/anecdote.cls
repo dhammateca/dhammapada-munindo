@@ -145,10 +145,10 @@
 
 \newcommand{\chapterNameSize}
   {\@setfontsize\chapterNameSize{22}{24}}
-\newcommand{\chapterNumberSize}
-  {\@setfontsize\chapterNumberSize{22}{22}}
-\newcommand{\chapterTitleSize}
-  {\@setfontsize\chapterTitleSize{16}{16}}
+
+\newcommand{\chapterNumberSize}{}
+\newcommand{\chapterTitleSize}{}
+
 \newcommand{\chapterAuthorSize}
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}

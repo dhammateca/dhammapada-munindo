@@ -145,10 +145,8 @@
 
 \newcommand{\chapterNameSize}
   {\@setfontsize\chapterNameSize{22}{24}}
-\newcommand{\chapterNumberSize}
-  {\@setfontsize\chapterNumberSize{22}{22}}
-\newcommand{\chapterTitleSize}
-  {\@setfontsize\chapterTitleSize{16}{16}}
+\newcommand{\chapterNumberSize}{}
+\newcommand{\chapterTitleSize}{}
 \newcommand{\chapterAuthorSize}
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
@@ -172,8 +170,7 @@
 \newcommand{\smaller}
   {\@setfontsize\smaller{9}{11}}
 
-\newcommand{\copyrightsize}
-  {\@setfontsize\copyrightsize{9}{11}}
+\newcommand{\copyrightsize}{}
 
 % foreign language wrappers
 
@@ -453,17 +450,17 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand*{\thechapter}{\@Roman\c@chapter}
 
 \addtodef{\mainmatter}{}{%
-  \addtocontents{toc}{\addvspace{18pt}}%
+  \addtocontents{toc}{\addvspace{10pt}}%
   \setcounter{chapter}{0}%
 }
 
 \addtodef{\appendix}{}{%
-  \addtocontents{toc}{\addvspace{18pt}}%
+  \addtocontents{toc}{\addvspace{10pt}}%
   \bookmarksetup{startatroot}%
 }
 
 \addtodef{\backmatter}{}{%
-  \addtocontents{toc}{\addvspace{18pt}}%
+  \addtocontents{toc}{\addvspace{10pt}}%
   \bookmarksetup{startatroot}%
 }
 
@@ -604,7 +601,7 @@ philo-sophical munindo amaravati thai-land}
 \contentsmargin{0pt}
 
 \newlength\tocLeftWidth
-\setlength\tocLeftWidth{3.5pc}
+\setlength\tocLeftWidth{2pc}
 
 % FIXME: the first Part heading in the TOC will also add that 20pt
 % vspace. How to add it only before a Part that follows a Chapter?
@@ -635,7 +632,7 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 \itshape}
 {\enspace\hfill\normalsize\tocFont\thecontentspage}
-[\addvspace{5pt}]
+[\addvspace{4.5pt}]
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\normalsize\tocFont}%
@@ -786,8 +783,8 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{0.2\linewidth}
+  \setlength{\beforechapskip}{20mm}
+  \setlength{\chapterTitleLeftSkip}{0.15\linewidth}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -795,7 +792,7 @@ philo-sophical munindo amaravati thai-land}
     \chapnumfont\color{chapternum}%
     \hspace*{\chapterTitleLeftSkip}\thechapter%
   }
-  \setlength{\midchapskip}{18pt}% ~ chapter number size
+  \setlength{\midchapskip}{10pt}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
@@ -823,7 +820,7 @@ philo-sophical munindo amaravati thai-land}
       \global\chapterfootnotefalse%
     \fi%
   }
-  \setlength{\afterchapskip}{18pt}% ~ 2 * chapter title size
+  \setlength{\afterchapskip}{10pt}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
@@ -954,8 +951,8 @@ philo-sophical munindo amaravati thai-land}
   \let\@listi\@listI}
 \normalsize
 
-\def\BOOK@readingFontSizePt{10.5}
-\def\BOOK@readingLineHeightPt{13.5}
+\def\BOOK@readingFontSizePt{9}
+\def\BOOK@readingLineHeightPt{12}
 
 \newcommand{\readingsize}{%
   \@setfontsize\readingsize\BOOK@readingFontSizePt\BOOK@readingLineHeightPt
@@ -972,10 +969,10 @@ philo-sophical munindo amaravati thai-land}
 %\setlength{\longLineWidth}{\widthof{\normalsize \longLine}}
 %\typeout{Long line: \longLine}
 %\typeout{Long line width at \BOOK@apt pt: \the\longLineWidth}
-%% Long line width at 11pt: 198.15039pt, 69.9mm
-%% Long line width at 9pt: 57.15mm
 
-\setlength{\longLineWidth}{57mm}
+%% Long line width at 9pt: 57.2mm
+
+\setlength{\longLineWidth}{57.2mm}
 
 % === indentations ===
 
@@ -1004,9 +1001,10 @@ philo-sophical munindo amaravati thai-land}
 \fi
 
 \settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth}{*}
-\setlrmargins{5mm}{*}{*}
+\setlrmargins{15mm}{*}{*}
 \setulmargins{20pt}{*}{*}
 \setheadfoot{0pt}{10pt}
+\setlength{\footskip}{18pt}
 
 % This will also typeout values in pt (default)
 \checkandfixthelayout

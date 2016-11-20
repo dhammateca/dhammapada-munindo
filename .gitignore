@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.toc
+TAGS
 publish/epub/
 manuscript/tex/auto/
 build/latex/auto/
