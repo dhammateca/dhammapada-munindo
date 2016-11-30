@@ -5,7 +5,8 @@ BIBTEX=bibtex
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
-all: main pocket
+all:
+	@echo "main or pocket?"
 
 main:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
