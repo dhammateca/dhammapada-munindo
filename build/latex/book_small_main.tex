@@ -1,12 +1,12 @@
 \documentclass[
   final,
   babelLanguage=british,
-]{anecdote-pocket}
+]{anecdote-small}
 
 \newif\ifpocketversion
 \pocketversiontrue
 
-\usepackage{mylayout-pocket}
+\usepackage{mylayout-small}
 
 %\webversiontrue
 
@@ -17,8 +17,8 @@
 \subtitle{}
 \author{Ajahn Munindo}
 \date{2015-05-19}
-%\editionInfo{\textit{Fifth edition}, 8,000 copies, printed in Malaysia, 2017}
-\editionInfo{\textit{Fifth edition}}
+\editionInfo{\textit{Fifth edition}, 8,000 copies, printed in Malaysia, 2017}
+%\editionInfo{\textit{Fifth edition}, printed in the UK, 2016}
 \ISBN{978-1-908444-57-8}
 
 %% === Load further packages ===
@@ -30,8 +30,6 @@
 \begin{document}
 
 \frontmatter
-
-% TODO vertical spacing: maybe move title higher?
 
 \ifwebversion
 \webcover{%
@@ -94,7 +92,6 @@ for bringing it into production.
 \input{../.././manuscript/tex/preface-4th.tex}
 \input{../.././manuscript/tex/preface-5th.tex}
 
-% TODO ? title could be centered
 \input{../.././manuscript/tex/introduction.tex}
 
 \addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
@@ -110,7 +107,6 @@ for bringing it into production.
 \ch@ngetext
 \makeatletter
 
-% TODO vertical spacing: maybe move higher?
 \input{../.././manuscript/tex/book-opening.tex}
 
 \interlinepenalty=10000
@@ -158,7 +154,6 @@ for bringing it into production.
 \ch@ngetext
 \makeatletter
 
-% TODO fix tracking
 \input{../../manuscript/tex/note-on-the-text.tex}
 
 \input{../../manuscript/tex/copyright-details.tex}

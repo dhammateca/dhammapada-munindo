@@ -15,7 +15,7 @@
 % ==============
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{anecdote}[2016/05/05 v0.10 A memoir-based documentclass.]
+\ProvidesClass{anecdote-small}[2016/05/05 v0.10 A memoir-based documentclass.]
 
 % ========================
 % Preliminary Declarations
@@ -74,7 +74,7 @@
 
 % === Define colors ===
 
-\definecolor{textbody}{gray}{0.1}% 0.1 (90%) is safe. 85% is too light when produced by some printers
+\definecolor{textbody}{gray}{0.15}
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
@@ -191,6 +191,8 @@
 % (such as \chapterTitleFont)
 
 \SetTracking[spacing={350,100,}]{encoding=*, family=Crimson Roman}{40}
+
+\SetTracking[spacing={350,100,}]{encoding=*, family=Shaker 2 Light}{40}
 
 % === hyperref ===
 
@@ -963,7 +965,6 @@ philo-sophical munindo amaravati thai-land}
   \color{textbody}
   \let\@listi\@listI}
 
-% TODO: test
 \def\longLine{All states of being are determined by the heart.}% 48 chars
 \newlength\longLineWidth
 %\setlength{\longLineWidth}{\widthof{\normalsize \longLine}}

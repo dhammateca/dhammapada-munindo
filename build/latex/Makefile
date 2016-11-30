@@ -1,21 +1,16 @@
-FILE=book_main
-
 LATEX=lualatex
 BIBTEX=bibtex
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
 all:
-	@echo "main or pocket?"
+	@echo "large or small?"
 
-main:
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+large:
+	$(LATEX) $(LATEX_OPTS) book_large_main.tex
 
-pocket:
-	$(LATEX) $(LATEX_OPTS) book_pocket_main.tex;
-
-view:
-	evince $(FILE).pdf &
+small:
+	$(LATEX) $(LATEX_OPTS) book_small_main.tex
 
 cover-front:
 	$(LATEX) $(LATEX_OPTS) cover_front.tex
