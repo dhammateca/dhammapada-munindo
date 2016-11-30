@@ -1,12 +1,12 @@
 \documentclass[
   final,
   babelLanguage=british,
-]{anecdote}
+]{anecdote-pocket}
 
 \newif\ifpocketversion
-\pocketversionfalse
+\pocketversiontrue
 
-\usepackage{mylayout}
+\usepackage{mylayout-pocket}
 
 %\webversiontrue
 
@@ -24,11 +24,13 @@
 
 %% === Hyphenation exceptions and corrections ===
 
-\hyphenation{luang never-the-less}
+\hyphenation{luang never-the-less dhamma-pada}
 
 \begin{document}
 
 \frontmatter
+
+% TODO vertical spacing: maybe move title higher?
 
 \ifwebversion
 \webcover{%
@@ -48,7 +50,7 @@
 \vspace*{20mm}
 
 {\centering
-\fontsize{10}{12}\selectfont
+\normalsize
 
 \textit{Dedication}\\[0.4\baselineskip]
 We would like to acknowledge the support of\\
@@ -77,12 +79,21 @@ for bringing it into production.
 
 \readingsize
 
+\clearpage
+\settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth + 2mm}{*}
+\setlrmargins{13mm}{*}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
 \input{../.././manuscript/tex/preface-1st.tex}
 \input{../.././manuscript/tex/preface-2nd.tex}
 \input{../.././manuscript/tex/preface-3rd.tex}
 \input{../.././manuscript/tex/preface-4th.tex}
 \input{../.././manuscript/tex/preface-5th.tex}
 
+% TODO ? title could be centered
 \input{../.././manuscript/tex/introduction.tex}
 
 \addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
@@ -91,6 +102,14 @@ for bringing it into production.
 
 \mainmatter
 
+\settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth}{*}
+\setlrmargins{15mm}{*}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
+% TODO vertical spacing: maybe move higher?
 \input{../.././manuscript/tex/book-opening.tex}
 
 \interlinepenalty=10000
@@ -124,17 +143,28 @@ for bringing it into production.
 
 \interlinepenalty=0
 
-\addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
+\addtocontents{toc}{\protect \enlargethispage{\protect 2\baselineskip}}
 
 \backmatter
 
 \readingsize
 
+\clearpage
+\settypeblocksize{1.618\longLineWidth + 2\baselineskip}{\longLineWidth + 2mm}{*}
+\setlrmargins{13mm}{*}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
+% TODO fix tracking
 \input{../../manuscript/tex/note-on-the-text.tex}
 
 \input{../../manuscript/tex/copyright-details.tex}
 
-\newpage
-\mbox{}\thispagestyle{empty}
+%\newpage
+%\mbox{}\thispagestyle{empty}
+%\newpage
+%\mbox{}\thispagestyle{empty}
 
 \end{document}
