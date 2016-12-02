@@ -4,6 +4,7 @@
 *.toc
 TAGS
 publish/epub/
+publish/mobi/
 manuscript/tex/auto/
 build/epub/
 build/mobi/
