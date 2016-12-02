@@ -1,6 +1,7 @@
 \documentclass[
   final,
   babelLanguage=british,
+  %webversion,
 ]{anecdote}
 
 \newif\ifpocketversion
@@ -33,7 +34,7 @@
 
 \ifwebversion
 \webcover{%
-\includegraphics[width=\paperwidth]{./cover_front.pdf}
+\includegraphics[width=\paperwidth]{./webcover.jpg}
 }
 \else
 \input{../../manuscript/tex/titlepage.tex}
