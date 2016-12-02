@@ -13,6 +13,8 @@ section_names: [ "Chapter", "", "" ]
 show_chapter_name: true
 chapter_number_format: roman
 
+show_toc_chapter_numbers: true
+
 toc:
   - { the_matter: frontmatter }
   - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
