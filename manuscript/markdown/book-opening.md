@@ -9,4 +9,3 @@ Contemplation
 
 Homage to the Blessed,\\
 Noble and Perfectly Enlightened One.
-
