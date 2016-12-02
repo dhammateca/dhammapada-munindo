@@ -3,13 +3,11 @@ A Dhammapada for Contemplation
 
 by Ajahn Munindo
 
-Github: <https://github.com/profound-labs/dhammapada-munindo>
+Sources: <https://github.com/profound-labs/dhammapada-munindo>
 
-Produced with [LaTeX](http://latex-project.org/) and [Prophecy](https://github.com/profound-labs/prophecy).
+# Editions
 
-# ISBNs
-
-**5th edition**
+**5th edition, 2016**
 
 large size paperback: `978-1-908444-58-5`
 
@@ -17,8 +15,13 @@ small size paperback: `978-1-908444-57-8`
 
 electronic: `978-1-908444-59-2`
 
-**4th edition**
+**4th edition, 2015**
 
 paperback: `978-1-908444-48-6`
 
 ebooks: `978-1-908444-49-3`
+
+# Software
+
+Produced with [LaTeX](http://latex-project.org/) and [Prophecy](https://github.com/profound-labs/prophecy).
+
