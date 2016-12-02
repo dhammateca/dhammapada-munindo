@@ -94,4 +94,3 @@ lived without recognizing deathlessness.
 A single day lived awake to profound truth\\
 is of greater value than a hundred years\\
 lived unawakened.
-

@@ -111,4 +111,3 @@ who are pure and beyond fear.\\
 Beings who have found freedom\\
 from sorrow and grieving\\
 are worthy of honour.
-

@@ -73,4 +73,3 @@ nor earn a good living,\\
 will end up bemoaning the past,\\
 falling like spent arrows\\
 that have missed their mark.
-

@@ -114,4 +114,3 @@ Only when you arrive\\
 at the complete eradication\\
 of all ignorance and conceit\\
 should you be content.
-

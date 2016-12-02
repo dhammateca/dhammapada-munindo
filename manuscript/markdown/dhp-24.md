@@ -177,4 +177,3 @@ Weeds cause damage in fields.\\
 Envy causes damage to all beings.\\
 Encourage those who are free from envy\\
 and there will be great benefit.
-

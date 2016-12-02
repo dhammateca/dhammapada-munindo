@@ -3,8 +3,8 @@ Preface
 
 *To the first edition (2000)*
 
-It is my hope that this *Dhammapada for Contemplation* will delight those
-who come across it and serve to encourage further viewings from
+It is my hope that this *Dhammapada for Contemplation* will delight
+those who come across it and serve to encourage further viewings from
 different perspectives. I trust that whatever glimpses of truth may be
 gained, however briefly, will encourage all travellers to continue
 faring on.
@@ -23,4 +23,3 @@ Bhikkhu Munindo\\
 Aruna Ratanagiri Buddhist Monastery\\
 Northumberland, UK\\
 16th January 2000
-

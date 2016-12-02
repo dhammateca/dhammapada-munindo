@@ -68,4 +68,3 @@ walk it thoroughly.\\
 Do not allow the needs of others,\\
 however demanding,\\
 to bring about distraction.
-

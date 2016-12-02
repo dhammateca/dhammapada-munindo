@@ -70,4 +70,3 @@ Beings free from addiction to sensual pleasures\\
 know a unique form of delight.\\
 They seek quiet in forest retreats\\
 which worldly beings would avoid.
-

@@ -101,4 +101,3 @@ Seeing thus, the renunciant disciple\\
 avoids the distraction\\
 of worldly gain and success,\\
 to dwell in solitude.
-

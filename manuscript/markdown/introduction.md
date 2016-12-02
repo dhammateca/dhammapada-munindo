@@ -29,4 +29,3 @@ Buddhist tradition.
 
 Thomas Jones Ph.D.\\
 Cambridge, April 2000
-

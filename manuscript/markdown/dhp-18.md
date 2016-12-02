@@ -131,4 +131,3 @@ there is no liberation apart from the Way.\\
 There are no conditioned things\\
 that are permanent,\\
 and yet the Buddhas remain unperturbed.
-

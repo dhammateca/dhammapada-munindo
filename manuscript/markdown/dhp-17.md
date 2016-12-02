@@ -94,4 +94,3 @@ Ably self-restrained\\
 are the wise,\\
 in action, in thought\\
 and in speech.
-

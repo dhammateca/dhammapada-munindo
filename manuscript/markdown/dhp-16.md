@@ -97,4 +97,3 @@ loved ones returned from afar,\\
 so their own good deeds\\
 welcome those who have done them\\
 as they go from this life to the next.
-

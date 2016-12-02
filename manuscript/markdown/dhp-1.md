@@ -137,4 +137,3 @@ of greed, hatred and delusion,\\
 releasing all attachments to here and hereafter,\\
 one will indeed experience for oneself\\
 the benefits of walking the Way.
-

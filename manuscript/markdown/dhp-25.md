@@ -167,4 +167,3 @@ While still a youth, a renunciate\\
 fully devoted to the Way\\
 lights up the world\\
 like the moon emerging from clouds.
-

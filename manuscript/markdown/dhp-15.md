@@ -77,4 +77,3 @@ of those who are steadfast,\\
 discerning, pure and aware,\\
 just as the moon follows\\
 the path of the stars.
-

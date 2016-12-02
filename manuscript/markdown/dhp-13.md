@@ -79,4 +79,3 @@ Better than ruling the whole world,\\
 better than going to heaven,\\
 better than lordship over the universe,\\
 is an irreversible commitment to the Way.
-

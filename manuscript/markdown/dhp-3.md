@@ -76,4 +76,3 @@ Neither mother, father\\
 nor any member of a family\\
 can give you the blessings generated\\
 by your own well-directed heart.
-

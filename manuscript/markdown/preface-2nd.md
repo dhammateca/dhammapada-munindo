@@ -19,4 +19,3 @@ Bhikkhu Munindo\\
 Aruna Ratanagiri Buddhist Monastery\\
 Northumberland, UK\\
 16th April 2006
-

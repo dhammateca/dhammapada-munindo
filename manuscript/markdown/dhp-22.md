@@ -94,4 +94,3 @@ The clear seeing which knows\\
 that which is flawed as flawed\\
 and that which is pure as pure\\
 can lead beings to transcend misery.
-

@@ -41,10 +41,10 @@ in other Indian religious texts, such as the great epic, the
 which we have our own versions in the west.
 
 Beyond this basic human wisdom, however, the sayings of the Dhammapada
-concern the Way to “freedom from all limitation: liberation, true security”
-(verse 23), which is the particular teaching of the Buddha. They do not
-present this teaching in the form of doctrine, but instead offer a
-myriad hints, approaches and directions of investigation, from
+concern the Way to “freedom from all limitation: liberation, true
+security” (verse 23), which is the particular teaching of the Buddha.
+They do not present this teaching in the form of doctrine, but instead
+offer a myriad hints, approaches and directions of investigation, from
 descriptions of the “great beings” (chapter 23) who have reached the
 other shore of existence, to compelling comparisons of the paths of
 “appreciative awareness” and “heedlessness” (verse 21). The appeal of
@@ -123,4 +123,3 @@ rendering (see, for instance, verse 377).
 
 Thomas Jones Ph.D.\\
 Cambridge
-

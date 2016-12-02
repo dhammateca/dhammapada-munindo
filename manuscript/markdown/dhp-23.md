@@ -98,4 +98,3 @@ Sustaining virtue into old age is goodness.\\
 Sustaining sound faith is goodness.\\
 The arising of insight is goodness.\\
 Renouncing evil is goodness.
-

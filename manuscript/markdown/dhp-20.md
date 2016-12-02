@@ -118,4 +118,3 @@ will protect you.\\
 See this, then with wise restraint\\
 and unwavering effort,\\
 hasten to clear your path to liberation.
-

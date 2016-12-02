@@ -122,4 +122,3 @@ With enthusiasm establish yourself\\
 in solitary practice –\\
 sit alone, sleep alone, walk alone\\
 and delight as if secluded in the forest.
-

@@ -91,4 +91,3 @@ those who align themselves with the Way\\
 delight in non-attachment\\
 and, while still in the world,\\
 are radiant.
-
