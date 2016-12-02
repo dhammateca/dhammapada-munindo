@@ -258,12 +258,12 @@ as well as subtle pleasures,\\
 to be free from attachment.
 
 418.\\
-Those who cease\\
-setting up like against dislike,\\
-who are cooled,\\
-who are not swayed\\
+One who has ceased\\
+from following like and dislike,\\
+who is cooled,\\
+who is not swayed\\
 by worldly conditions –\\
-these I call great beings.
+I call a great being.
 
 419.\\
 I say anyone who understands fully\\
@@ -302,4 +302,3 @@ to know with insight\\
 that which must be known,\\
 to free the heart from ignorance –\\
 this is truly being made great.
-

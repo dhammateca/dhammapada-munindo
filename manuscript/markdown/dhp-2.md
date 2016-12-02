@@ -2,15 +2,15 @@ Awareness
 =========
 
 21.\\
-Appreciative awareness leads to life;\\
-heedless avoidance is the path to death.\\
-Those who are aware are fully alive,\\
+Heedfulness leads to the Deathless;\\
+heedlessness leads to death.\\
+Those who are heedful are fully alive,\\
 while those who are heedless\\
 are as if already dead.
 
 22.\\
-The wise, being fully alive, rejoice\\
-in appreciative awareness,\\
+The wise, being fully alive,\\
+rejoice in heedfulness,\\
 and abide delighting\\
 in this ability.
 
@@ -80,4 +80,3 @@ The renunciate who delights in vigilance\\
 and shuns heedlessness\\
 is protected from regression:\\
 such a one approaches liberation.
-

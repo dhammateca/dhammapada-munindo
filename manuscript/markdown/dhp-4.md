@@ -91,7 +91,7 @@ which suffuses even the heavenly realms.
 
 57.\\
 It is not possible for Mara to find\\
-those who abide in appreciative awareness,\\
+those who abide in heedfulness,\\
 who by perfect knowledge are freed\\
 and live in virtue.
 
@@ -100,4 +100,3 @@ Just as a sweet-smelling and beautiful lotus\\
 can grow from a pile of discarded waste,\\
 the radiance of a true disciple of the Buddha\\
 outshines dark shadows cast by ignorance.
-

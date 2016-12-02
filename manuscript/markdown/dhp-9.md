@@ -14,10 +14,11 @@ Avoid finding pleasure in its memory.\\
 The aftermath of evil-doing is painful.
 
 118.\\
-Having performed a wholesome act\\
-it is good to repeat it.\\
-Enjoy the pleasure of its memory.\\
-The fruit of goodness is contentment.
+Having performed a wholesome deed\\
+it is good to repeat it, again and again.\\
+Be interested in the pleasure of wholesomeness.\\
+The fruit of accumulated goodness is\\
+contentment.
 
 119.\\
 Even those who perform evil\\
@@ -92,4 +93,3 @@ There is no place on earth\\
 beyond the reach of death –\\
 not in a mountain cave,\\
 the ocean, nor in the sky.
-
