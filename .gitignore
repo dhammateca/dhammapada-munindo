@@ -5,6 +5,8 @@
 TAGS
 publish/epub/
 manuscript/tex/auto/
+build/epub/
+build/mobi/
 build/latex/auto/
 build/latex/book_large_main.pdf
 build/latex/book_small_main.pdf
