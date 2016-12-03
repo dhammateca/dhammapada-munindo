@@ -1,5 +1,5 @@
 A Dhammapada for Contemplation
-====
+==============================
 
 **Table of Contents**
 
@@ -70,7 +70,7 @@ Thomas Jones Ph.D.\
 Cambridge, April 2000
 
 Preface (1st)
-=======
+=============
 
 *To the first edition (2000)*
 
@@ -96,7 +96,7 @@ Northumberland, UK\
 16th January 2000
 
 Preface (2nd)
-=======
+=============
 
 *To the second edition (2006)*
 
@@ -118,7 +118,7 @@ Northumberland, UK\
 16th April 2006
 
 Preface (3rd)
-=======
+=============
 
 *To the third edition (2010)*
 
@@ -138,7 +138,7 @@ Northumberland, UK\
 26th May 2010
 
 Preface (4th)
-=======
+=============
 
 *To the fourth edition (2015)*
 
@@ -165,7 +165,7 @@ Northumberland, UK\
 Winter Retreat 2015
 
 Preface (5th)
-=======
+=============
 
 *To the 5th edition (2016)*
 
@@ -187,7 +187,7 @@ Northumberland, UK\
 November 2016
 
 1. The Pairs
-=========
+============
 
 1.\
 All states of being are determined by the heart.\
@@ -327,7 +327,7 @@ one will indeed experience for oneself\
 the benefits of walking the Way.
 
 2. Awareness
-=========
+============
 
 21.\
 Heedfulness leads to the Deathless;\
@@ -410,7 +410,7 @@ is protected from regression:\
 such a one approaches liberation.
 
 3. The Mind
-========
+===========
 
 33.\
 Just as a fletcher shapes an arrow,\
@@ -489,7 +489,7 @@ can give you the blessings generated\
 by your own well-directed heart.
 
 4. Flowers
-=======
+==========
 
 44.\
 Who is it\
@@ -592,7 +592,7 @@ the radiance of a true disciple of the Buddha\
 outshines dark shadows cast by ignorance.
 
 5. The Foolish
-===========
+==============
 
 60.\
 The night is long\
@@ -696,7 +696,7 @@ of worldly gain and success,\
 to dwell in solitude.
 
 6. The Wise
-========
+===========
 
 76.\
 Only blessings can arise\
@@ -790,7 +790,7 @@ and, while still in the world,\
 are radiant.
 
 7. The Awakened One
-================
+===================
 
 90.\
 There is no tension\
@@ -863,7 +863,7 @@ They seek quiet in forest retreats\
 which worldly beings would avoid.
 
 8. The Thousands
-=============
+================
 
 100.\
 A single word of truth\
@@ -960,7 +960,7 @@ is of greater value than a hundred years\
 lived unawakened.
 
 9. Evil
-====
+=======
 
 116.\
 Hasten towards doing what is wholesome.\
@@ -1056,7 +1056,7 @@ not in a mountain cave,\
 the ocean, nor in the sky.
 
 10. Aggression
-==========
+==============
 
 129.\
 Having empathy for others,\
@@ -1158,7 +1158,7 @@ Woodworkers craft wood.\
 The good tame themselves.
 
 11. Old Age
-=======
+===========
 
 146.\
 Why is there laughter?\
@@ -1234,7 +1234,7 @@ falling like spent arrows\
 that have missed their mark.
 
 12. The Self
-========
+============
 
 157.\
 If we hold ourselves dear,\
@@ -1305,7 +1305,7 @@ however demanding,\
 to bring about distraction.
 
 13. The World
-=========
+=============
 
 167.\
 By renouncing unworthy ways\
@@ -1387,7 +1387,7 @@ better than lordship over the universe,\
 is an irreversible commitment to the Way.
 
 14. The Buddha
-==========
+==============
 
 179.\
 The Buddha’s perfection is complete;\
@@ -1501,7 +1501,7 @@ from sorrow and grieving\
 are worthy of honour.
 
 15. Happiness
-=========
+=============
 
 197.\
 While in the midst\
@@ -1581,7 +1581,7 @@ just as the moon follows\
 the path of the stars.
 
 16. Affection
-=========
+=============
 
 209.\
 There are those who pursue\
@@ -1681,7 +1681,7 @@ welcome those who have done them\
 as they go from this life to the next.
 
 17. Anger
-=====
+=========
 
 221.\
 Relinquish anger.\
@@ -1778,7 +1778,7 @@ in action, in thought\
 and in speech.
 
 18. Pollution
-=========
+=============
 
 235.\
 Resembling a withered leaf,\
@@ -1912,7 +1912,7 @@ that are permanent,\
 and yet the Buddhas remain unperturbed.
 
 19. The Just
-========
+============
 
 256.\
 Making an arbitrary decision\
@@ -2029,7 +2029,7 @@ of all ignorance and conceit\
 should you be content.
 
 20. The Path
-========
+============
 
 273.\
 The Eightfold Path\
@@ -2150,7 +2150,7 @@ and unwavering effort,\
 hasten to clear your path to liberation.
 
 21. Various
-=======
+===========
 
 290.\
 It is wisdom\
@@ -2275,7 +2275,7 @@ sit alone, sleep alone, walk alone\
 and delight as if secluded in the forest.
 
 22. Hell
-====
+========
 
 306.\
 Lying leads to sorrow.\
@@ -2372,7 +2372,7 @@ and that which is pure as pure\
 can lead beings to transcend misery.
 
 23. The Elephant
-============
+================
 
 320.\
 As an elephant in battle\
@@ -2473,7 +2473,7 @@ The arising of insight is goodness.\
 Renouncing evil is goodness.
 
 24. Craving
-=======
+===========
 
 334.\
 Uncontained craving\
@@ -2653,7 +2653,7 @@ Encourage those who are free from envy\
 and there will be great benefit.
 
 25. The Renunciate
-==============
+==================
 
 360.\
 It is good to restrain the eye.\
@@ -2823,7 +2823,7 @@ lights up the world\
 like the moon emerging from clouds.
 
 26. Great Being
-===========
+===============
 
 383.\
 Diligently cut off\
