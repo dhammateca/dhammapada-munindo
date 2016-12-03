@@ -5,6 +5,18 @@ by Ajahn Munindo
 
 Sources: <https://github.com/profound-labs/dhammapada-munindo>
 
+# Print Specs
+
+Page size, large: 155mm x 96mm
+
+Page size, small: 120mm x 80mm
+
+Binding: Perfect
+
+Paper: 70 gsm cream woodfree
+
+Cover: Matt lamination
+
 # Editions
 
 **5th edition, 2016**

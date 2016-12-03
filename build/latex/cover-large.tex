@@ -1,0 +1,93 @@
+\documentclass[
+  pageWidth = 96mm,
+  pageHeight = 155mm,
+  spineWidth = 10.646mm,
+  showtrims,
+  %showframe,
+]{anecdote-cover}
+
+% spine width:
+% (182 pages / 2) * 0.106 + 1mm = 10.646mm
+
+\usepackage{cover-large}
+
+\makeatletter
+
+% === Back ============================================================
+
+\SetCoverBack{%
+\color{black!80}
+
+\mbox{}
+
+\vfill
+
+{\centering
+
+\resizebox{10mm}{!}{\SanghaIcons\color{black!55} b}
+
+\vspace*{10mm}
+
+\textit{for free distribution}
+\par}
+
+\vspace*{20mm}
+
+}
+
+% === Spine ===========================================================
+
+\SetCoverSpine{%
+\hspace*{10mm}%
+%
+\color{black!80}%
+A Dhammapada for Contemplation \hfill Ajahn Munindo%
+%
+\hspace*{10mm}%
+}
+
+% === Front ===========================================================
+
+\SetCoverFront{%
+\color{black!80}
+
+\vspace*{14mm}
+
+{\centering
+
+\resizebox{50mm}{!}{\SanghaIcons\color{black!35} b}
+
+\vfill
+
+{\chapterSize\itshape
+A\\
+{\chapterTitleFont\chapterLargeSize\upshape \soTitle{DHAMMAPADA}}\\
+for\\
+Contemplation
+}
+
+\vfill
+
+}
+
+\vspace*{10mm}
+
+}
+
+
+% === Set Coffins =====================================================
+
+\SetCoverCoffins
+
+% === Join Coffins ====================================================
+
+\JoinCoverCoffins
+
+\makeatother
+
+\begin{document}
+
+\CoverPage
+
+\end{document}
+

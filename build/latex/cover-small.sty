@@ -1,0 +1,21 @@
+\ProvidesPackage{cover-small}
+
+\usepackage{soul}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+
+\setmainfont[
+  ItalicFont = Crimson Italic,
+]{Crimson Roman}
+
+\newfontfamily\chapterTitleFont{Crimson Roman}
+
+\newfontfamily\SanghaIcons{Sangha Icons}
+
+\newcommand{\chapterSize}
+  {\@setfontsize\chapterSize{12}{18}}
+\newcommand{\chapterLargeSize}
+  {\@setfontsize\chapterLargeSize{14}{20}}
+
+\sodef\soTitle{}{.12em}{.5em plus.1em}{.1em plus.1em minus.1em}
