@@ -19,7 +19,7 @@ Cover: Matt lamination
 
 # Editions
 
-**5th edition, 2016**
+**5th edition, 2017**
 
 large size paperback: `978-1-908444-58-5`
 
