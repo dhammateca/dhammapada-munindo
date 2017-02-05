@@ -167,24 +167,23 @@ Winter Retreat 2015
 Preface (5th)
 =============
 
-*To the 5th edition (2016)*
+*To the 5th edition (2017)*
 
 Once more we are grateful to our good friends in Malaysia for making
 another reprint of this small booklet possible.
 
-As with earlier editions several resources have been consulted including
-translations by Bhikkhu Thanissaro and Acharya Buddharakkhita (see
-[www.accesstoinsight.org](http://accesstoinsight.org)).
+As indicated in earlier editions, various resources have been consulted
+including translations by Bhikkhu Thanissaro and Acharya Buddharakkhita
+(see [www.accesstoinsight.org](http://accesstoinsight.org)).
 
-For those who are interested, these are the verses I have significantly
-reworked: 21, 22, 57, 118, 418. Otherwise, the text of this rendering of
-the Dhammapada remains mostly the same as previous editions. Readers are
-strongly encouraged to refer to other versions of the Dhammapada.
+For those who are interested, these are some of the verses I have
+reworked: 21, 22, 57, 118, 165, 380, 389, 399, 418. Readers are strongly
+encouraged to refer to other versions of the Dhammapada.
 
 Bhikkhu Munindo\
 Aruna Ratanagiri Buddhist Monastery\
 Northumberland, UK\
-November 2016
+February 2017
 
 1. The Pairs
 ============
@@ -379,7 +378,7 @@ profound release.
 Those Awakened Ones\
 who have tasted freedom\
 from all distraction\
-by cultivating awareness\
+by cultivating awareness,\
 view all who are suffering\
 with compassionate perspective,\
 as one on a mountain top\
@@ -637,7 +636,7 @@ association with the wise.
 66.\
 By heedlessly performing evil,\
 unwary fools produce their own bitter fruits.\
-They behave like their worst enemy.
+They behave like their own worst enemy.
 
 67.\
 A deed is not well-done\
@@ -885,7 +884,7 @@ a hundred meaningless verses.
 
 103.\
 One might defeat alone in battle\
-a thousand thousand men,\
+a thousand-thousand men,\
 but one who gains self-mastery\
 is by far the greater hero.
 
@@ -1293,8 +1292,7 @@ By ourselves we do evil\
 and by ourselves we are made impure.\
 By ourselves we avoid evil\
 and by ourselves we are made pure.\
-The great matter of purity\
-is our own affair.\
+The matter of purity is our own affair.\
 No other can be responsible.
 
 166.\
@@ -1467,7 +1465,7 @@ none of them can free us from fear.
 190-191.\
 One who finds refuge in the Buddha\
 in the Dhamma and in the Sangha\
-sees with penetrating insight\
+sees with penetrating insight:\
 suffering, its cause, its release\
 and the Way leading to true freedom.
 
@@ -1618,7 +1616,7 @@ From endearment springs grief.\
 From endearment springs fear of loss.\
 Yet, if one is free from endearment\
 there is no grief\
-so how could there be fear?
+so how could there be any fear?
 
 213.\
 Becoming lost in affection\
@@ -1738,8 +1736,8 @@ Everyone in this world is criticized.
 228.\
 There never was,\
 nor will there be,\
-nor is there now, anybody\
-who is only blamed\
+nor is there now,\
+anybody who is only blamed\
 or wholly praised.
 
 229.\
@@ -2261,8 +2259,7 @@ such a one can be recognized\
 and can travel with confidence.
 
 304.\
-The good\
-are seen even from afar.\
+The good are seen even from afar.\
 They shine like the distant\
 Himalayan peaks.\
 The untrained simply disappear\
@@ -2360,9 +2357,9 @@ of that which is threatening,\
 can cause beings to descend into hell.
 
 318.\
-Distorted views,\
+Distorted views\
 which give rise to seeing right as wrong\
-and wrong as right\
+and wrong as right,\
 cause beings to disintegrate.
 
 319.\
@@ -2719,7 +2716,7 @@ for the Buddha’s teaching,\
 will find peace, stillness and bliss.
 
 369.\
-Bale out the water from your boat;\
+Bail out the water from your boat;\
 cut loose from the defiling passions\
 of lust and hatred;\
 unencumbered, sail on\
@@ -2806,8 +2803,8 @@ you will live at ease.
 We are our own protection;\
 we are indeed our own secure abiding;\
 how could it be otherwise?\
-So with due care\
-we attend to ourselves.
+So with due care we attend to ourselves\
+as a trainer would care for a thoroughbred.
 
 381.\
 A monk, a nun, who cultivates\
@@ -2872,7 +2869,7 @@ one is called a renunciate.
 389.\
 Non-retaliation\
 is the characteristic of great beings.\
-They do not give rise to anger.\
+They do not give way to anger.\
 Should they be attacked,\
 it is not in their nature to strike back.
 
@@ -2919,8 +2916,7 @@ makes for greatness.
 No one is noble\
 merely because of what they inherit.\
 Nobility comes from cleansing oneself\
-of all pollutions\
-and attachments.
+of all pollutions and attachments.
 
 397.\
 Whoever has cut all that tethers\
@@ -2942,7 +2938,7 @@ Strength of patience\
 is the might of noble beings;\
 they can be shackled,\
 endure verbal abuse and beatings,\
-without resorting to anger.
+without resentment.
 
 400.\
 Those who are free from anger,\
@@ -2961,7 +2957,7 @@ to a great being.
 Those who know the freedom\
 of having laid aside\
 the burden of attachment\
-to the body-mind\
+to the body-mind,\
 I call great beings.
 
 403.\

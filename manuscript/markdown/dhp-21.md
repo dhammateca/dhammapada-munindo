@@ -110,8 +110,7 @@ such a one can be recognized\\
 and can travel with confidence.
 
 304.\\
-The good\\
-are seen even from afar.\\
+The good are seen even from afar.\\
 They shine like the distant\\
 Himalayan peaks.\\
 The untrained simply disappear\\

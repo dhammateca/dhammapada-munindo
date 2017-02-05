@@ -51,7 +51,7 @@ profound release.
 Those Awakened Ones\\
 who have tasted freedom\\
 from all distraction\\
-by cultivating awareness\\
+by cultivating awareness,\\
 view all who are suffering\\
 with compassionate perspective,\\
 as one on a mountain top\\

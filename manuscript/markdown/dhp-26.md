@@ -48,7 +48,7 @@ one is called a renunciate.
 389.\\
 Non-retaliation\\
 is the characteristic of great beings.\\
-They do not give rise to anger.\\
+They do not give way to anger.\\
 Should they be attacked,\\
 it is not in their nature to strike back.
 
@@ -95,8 +95,7 @@ makes for greatness.
 No one is noble\\
 merely because of what they inherit.\\
 Nobility comes from cleansing oneself\\
-of all pollutions\\
-and attachments.
+of all pollutions and attachments.
 
 397.\\
 Whoever has cut all that tethers\\
@@ -118,7 +117,7 @@ Strength of patience\\
 is the might of noble beings;\\
 they can be shackled,\\
 endure verbal abuse and beatings,\\
-without resorting to anger.
+without resentment.
 
 400.\\
 Those who are free from anger,\\
@@ -137,7 +136,7 @@ to a great being.
 Those who know the freedom\\
 of having laid aside\\
 the burden of attachment\\
-to the body-mind\\
+to the body-mind,\\
 I call great beings.
 
 403.\\

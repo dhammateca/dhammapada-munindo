@@ -44,7 +44,7 @@ association with the wise.
 66.\\
 By heedlessly performing evil,\\
 unwary fools produce their own bitter fruits.\\
-They behave like their worst enemy.
+They behave like their own worst enemy.
 
 67.\\
 A deed is not well-done\\

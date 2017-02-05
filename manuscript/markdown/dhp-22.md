@@ -84,9 +84,9 @@ of that which is threatening,\\
 can cause beings to descend into hell.
 
 318.\\
-Distorted views,\\
+Distorted views\\
 which give rise to seeing right as wrong\\
-and wrong as right\\
+and wrong as right,\\
 cause beings to disintegrate.
 
 319.\\

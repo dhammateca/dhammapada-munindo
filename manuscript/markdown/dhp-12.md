@@ -58,8 +58,7 @@ By ourselves we do evil\\
 and by ourselves we are made impure.\\
 By ourselves we avoid evil\\
 and by ourselves we are made pure.\\
-The great matter of purity\\
-is our own affair.\\
+The matter of purity is our own affair.\\
 No other can be responsible.
 
 166.\\

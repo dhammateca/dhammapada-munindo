@@ -79,7 +79,7 @@ none of them can free us from fear.
 190-191.\\
 One who finds refuge in the Buddha\\
 in the Dhamma and in the Sangha\\
-sees with penetrating insight\\
+sees with penetrating insight:\\
 suffering, its cause, its release\\
 and the Way leading to true freedom.
 

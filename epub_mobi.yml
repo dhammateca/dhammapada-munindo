@@ -3,7 +3,7 @@
 
 bookid: "ADhammapadaForContemplation"
 
-date: 2016-12-02
+date: 2017-02-05
 version: v3.0
 
 lang: en
@@ -24,7 +24,7 @@ toc:
   - { title: "Preface to the second edition (2006)", src: 'preface-2nd.md' }
   - { title: "Preface to the third edition (2010)", src: 'preface-3rd.md' }
   - { title: "Preface to the fourth edition (2015)", src: 'preface-4th.md' }
-  - { title: "Preface to the fifth edition (2016)", src: 'preface-5th.md' }
+  - { title: "Preface to the fifth edition (2017)", src: 'preface-5th.md' }
   - introduction.md
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }

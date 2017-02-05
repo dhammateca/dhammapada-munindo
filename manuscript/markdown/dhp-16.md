@@ -36,7 +36,7 @@ From endearment springs grief.\\
 From endearment springs fear of loss.\\
 Yet, if one is free from endearment\\
 there is no grief\\
-so how could there be fear?
+so how could there be any fear?
 
 213.\\
 Becoming lost in affection\\

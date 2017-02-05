@@ -21,7 +21,7 @@ a hundred meaningless verses.
 
 103.\\
 One might defeat alone in battle\\
-a thousand thousand men,\\
+a thousand-thousand men,\\
 but one who gains self-mastery\\
 is by far the greater hero.
 

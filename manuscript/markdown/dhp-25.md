@@ -65,7 +65,7 @@ for the Buddha’s teaching,\\
 will find peace, stillness and bliss.
 
 369.\\
-Bale out the water from your boat;\\
+Bail out the water from your boat;\\
 cut loose from the defiling passions\\
 of lust and hatred;\\
 unencumbered, sail on\\
@@ -152,8 +152,8 @@ you will live at ease.
 We are our own protection;\\
 we are indeed our own secure abiding;\\
 how could it be otherwise?\\
-So with due care\\
-we attend to ourselves.
+So with due care we attend to ourselves\\
+as a trainer would care for a thoroughbred.
 
 381.\\
 A monk, a nun, who cultivates\\

@@ -56,8 +56,8 @@ Everyone in this world is criticized.
 228.\\
 There never was,\\
 nor will there be,\\
-nor is there now, anybody\\
-who is only blamed\\
+nor is there now,\\
+anybody who is only blamed\\
 or wholly praised.
 
 229.\\
