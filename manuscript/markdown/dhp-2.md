@@ -1,82 +1,87 @@
-Awareness
+Conștiință
 =========
 
-21.\\
-Heedfulness leads to the Deathless;\\
-heedlessness leads to death.\\
-Those who are heedful are fully alive,\\
-while those who are heedless\\
-are as if already dead.
+21\\
+Băgarea de seamă duce la Nemurire;\\
+nebăgarea de seamă duce la moarte.\\
+Cei care sunt cu băgare de seamă\\
+sunt vii pe deplin,\\
+cât timp cei lipsiți de băgare de seama\\
+sunt deja ca morți.
 
-22.\\
-The wise, being fully alive,\\
-rejoice in heedfulness,\\
-and abide delighting\\
-in this ability.
+22\\
+Înțelepții, fiind vii pe deplin,\\
+sărbătoresc luciditatea\\
+și își duc veacul delectându-se\\
+în această abilitate.
 
-23.\\
-The Awakened Ones, firm in their resolve,\\
-vigorously apply themselves,\\
-and know freedom from all limitation:\\
-liberation, true security.
+23\\
+Cei Treziți, fermi în hotărârea lor,\\
+se exercită viguros,\\
+și discern libertatea\\
+din toate limitările:\\
+liberare, siguranță adevărată.
 
-24.\\
-Those who are energetically\\
-committed to the Way,\\
-who are pure and considerate in effort,\\
-composed and virtuous in conduct,\\
-steadily increase in radiance.
+24\\
+Cei care sunt energic\\
+angajați Căii,\\
+care sunt puri și grijulii în efort,\\
+stăpâni pe sine\\
+și virtuoși în conduită,\\
+cresc constant în radianță.
 
-25.\\
-By endeavour, vigilance,\\
-restraint and self-control,\\
-let the wise make islands of themselves\\
-which no flood can overwhelm.
+25\\
+Prin sârguință, vigilență,\\
+abținere și autocontrol,\\
+fie ca înțelepții să-și facă insule din ei\\
+pe care niciun potop nu le poate învălui.
 
-26.\\
-Those who are foolish and confused\\
-betray themselves to heedlessness.\\
-The wise treasure the awareness\\
-they have cultivated\\
-as their most precious possession.
+26\\
+Cei care sunt ignoranți și confuzi\\
+se demască nebăgării de seamă.\\
+Cei înțelepți prețuiesc conștiința\\
+pe care au cultivat-o\\
+ca lucrul lor cel mai de preț.
 
-27.\\
-“Do not become lost in negligence,\\
-do not become lost in sensuality.”\\
-Heeding such counsel,\\
-the contemplative discovers\\
-profound release.
+27\\
+„Nu te pierde în neglijență,\\
+nu te pierde în senzualitate.”\\
+Luând aminte un astfel de sfat,\\
+cel care contemplă descoperă\\
+profunda eliberare.
 
-28.\\
-Those Awakened Ones\\
-who have tasted freedom\\
-from all distraction\\
-by cultivating awareness,\\
-view all who are suffering\\
-with compassionate perspective,\\
-as one on a mountain top\\
-is able to view the plains.
+28\\
+Cei Treziți\\
+care au gustat libertatea\\
+față de toate distragerile\\
+cultivând conștiința,\\
+îi văd pe toți cei suferinzi\\
+din perspectiva compasiunii,\\
+precum cineva pe vârful muntelui\\
+e capabil să vadă câmpiile.
 
-29.\\
-Aware among those who are heedless,\\
-awake among those who sleep,\\
-the wise go forward like strong young horses,\\
-leaving the exhausted behind.
+29\\
+Conștienți printre cei fără băgare de seamă,\\
+treji printre cei care dorm,\\
+cei înțelepți merg înainte\\
+precum caii tineri puternici,\\
+lăsându-i în urmă pe cei epuizați.
 
-30.\\
-By way of diligent awareness\\
-the god Magha won his realm.\\
-Diligence is ever rewarded,\\
-negligence is ever scorned.
+30\\
+Pe calea conștiinței sârguincioase\\
+zeul Magha și-a câștigat împărăția.\\
+Sârguința e mereu recompensată,\\
+neglijența e mereu batjocorită.
 
-31.\\
-The renunciate who delights in vigilance\\
-and shuns heedlessness\\
-advances like a grass fire,\\
-consuming obstructions great and small.
+31\\
+Cel care renunță și se delectează\\
+în vigilență,\\
+ferindu-se de nebăgare de seamă,\\
+avansează asemeni focului prin iarbă,\\
+consumând obstrucții mari și mici.
 
-32.\\
-The renunciate who delights in vigilance\\
-and shuns heedlessness\\
-is protected from regression:\\
-such a one approaches liberation.
+32\\
+Cel care renunță și se delectează\\
+în vigilență\\
+e protejat de regresie:\\
+un ins se apropie de liberare.

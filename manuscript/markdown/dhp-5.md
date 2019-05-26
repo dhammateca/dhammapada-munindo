@@ -1,103 +1,110 @@
-The Foolish
+Cei necopți
 ===========
 
-60.\\
-The night is long\\
-for one who cannot sleep.\\
-A journey is long for one who is tired.\\
-Ignorant existence is long and tedious\\
-for those unaware of Truth.
+60\\
+Noaptea e lungă\\
+pentru insul care nu poate dormi.\\
+O călătorie e lungă pentru insul obosit.\\
+Existența ignorantă e lungă și searbădă\\
+pentru cei inconștienți de Adevăr.
 
-61.\\
-Having found no companion\\
-who has travelled at least as far as ourselves,\\
-it is better to go alone\\
-than to accompany those\\
-who remain irresolute.
+61\\
+Neavând niciun companion\\
+care să fi călătorit\\
+cel puțin așa de departe ca și noi,\\
+e mai bine a merge singur\\
+decât să-i întovărășești\\
+pe cei care rămân nehotărâți.
 
-62.\\
-“This is my child, this is my wealth”:\\
-such thoughts are the preoccupations of fools.\\
-If we are unable to own even ourselves,\\
-why make such claims?
+62\\
+„Acesta e copilul meu,\\
+aceasta e averea mea”:\\
+astfel de gânduri sunt preocupări\\
+ale celor necopți.\\
+Dacă suntem incapabili\\
+să ne luăm asupra noastră chiar și pe noi înșine,\\
+de ce să facem astfel de revendicări?
 
-63.\\
-The fool who knows he is a fool\\
-is at least a little wise;\\
-the fool who thinks that he is wise\\
-is assuredly a fool.
+63\\
+Necoptul care știe că e necopt\\
+e câtuși de puțin înțelept;\\
+necoptul care socotește că e înțelept\\
+e, fără îndoială, necopt.
 
-64.\\
-Like spoons unable to taste\\
-the flavour of the soup\\
-are the fools who cannot see truth,\\
-even though they live\\
-all their lives among the wise.
+64\\
+Asemeni lingurilor incapabile să guste\\
+din savoarea supei\\
+sunt cei nesăbuiți care nu pot vedea adevărul,\\
+cu toate că trăiesc\\
+toată viața printre cei înțelepți.
 
-65.\\
-Like the tongue that can appreciate\\
-the flavour of the soup\\
-is one who can clearly discern the truth\\
-after only a brief\\
-association with the wise.
+65\\
+Asemeni limbii care poate aprecia\\
+savoarea supei\\
+e unul care poate discerne clar adevărul\\
+după doar o scurtă\\
+asociere cu cei înțelepți.
 
-66.\\
-By heedlessly performing evil,\\
-unwary fools produce their own bitter fruits.\\
-They behave like their own worst enemy.
+66\\
+Făcând rău,\\
+fără băgare de seamă,\\
+nesăbuiții imprudenți\\
+își produc propriile fructe amare.\\
+Ei se comportă precum inamicii lor cei mai mari.
 
-67.\\
-A deed is not well-done\\
-when upon reflection remorse arises:\\
-with tears of sorrow\\
-one harvests its fruit.
+67\\
+O faptă nu e bine făcută\\
+când la reflecție asupra sa remușcarea răsare:\\
+cu lacrimi de supărare\\
+insul își culege fructele.
 
-68.\\
-A deed is well-done\\
-when upon reflection no remorse arises:\\
-with joy one harvests its fruits.
+68\\
+O faptă e bine făcută\\
+când la reflecție\\
+asupra sa nicio remușcare nu răsare:\\
+cu bucurie insul își culege fructele.
 
-69.\\
-Fools perceive evil acts\\
-to be sweet as honey\\
-until they have seen the consequences.\\
-When they behold their fruits,\\
-fools suffer indeed.
+69\\
+Nesăbuiții percep acțiunile rele\\
+ca fiind dulci precum mierea\\
+până când văd consecințele.\\
+Când își zăresc roadele,\\
+nesăbuiții suferă într-adevăr.
 
-70.\\
-Even after months of rigid asceticism,\\
-subsisting on a frugal diet,\\
-a fool is not to be compared in value\\
-to the person who simply sees the truth.
+70\\
+Chiar și după luni de post aspru,\\
+subzistând cu o dietă frugală,\\
+un necopt nu poate fi comparat ca valoare\\
+cu persoana care vede pur și simplu adevărul.
 
-71.\\
-Fresh milk does not immediately\\
-turn into curd,\\
-and evil acts do not immediately\\
-show their fruits;\\
-however, fools do suffer from the consequences\\
-of their foolishness\\
-as they would be burned\\
-by standing on coals hidden in ashes.
+71\\
+Laptele proaspăt nu se brânzește\\
+de îndată;\\
+nici faptele rele nu își arată\\
+de îndată roadele;\\
+oricum, necopții suferă\\
+din cauza ignoranței lor\\
+la fel cum ar fi arși\\
+stând pe cărbuni ascunși în cenușă.
 
-72.\\
-Fools are those who use foolishly\\
-whatever gifts they have,\\
-destroying their accumulated good fortune.
+72\\
+Necopții sunt aceia care folosesc prostește\\
+orice daruri ar avea,\\
+distrugându-și averea acumulată.
 
-73-74.\\
-The conceit and craving of fools grows\\
-as they claim for themselves\\
-undue authority, recognition and reward:\\
-their falsity affects their longing,\\
-they wish to be seen\\
-as powerful and discerning.
+73-74\\
+Trufia și râvna necopților crește\\
+când revendică pentru ei\\
+autoritate, recunoaștere și răsplată necuvenite:\\
+falsitatea lor le afectează năzuința,\\
+își doresc să fie văzuți\\
+drept puternici și deslușitori.
 
-75.\\
-The path that leads to worldly gain\\
-and the path that leads to Liberation\\
-are different paths.\\
-Seeing thus, the renunciant disciple\\
-avoids the distraction\\
-of worldly gain and success,\\
-to dwell in solitude.
+75\\
+Calea care duce la câștig lumesc\\
+și calea care duce la Eliberare\\
+sunt căi diferite.\\
+Văzând acest lucru, discipolul care renunță\\
+evită distragerea\\
+câștigului și succesului lumesc\\
+pentru a sălășlui în solitudine.

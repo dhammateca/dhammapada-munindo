@@ -1,102 +1,106 @@
-Flowers
+Flori
 =======
 
-44.\\
-Who is it\\
-that can truly see as they are\\
-this earth, this body,\\
-the hell realms and the heavenly realms?\\
-Who can discern\\
-the well-taught Path of Wisdom,\\
-in the way the eye of a skilled florist\\
-can select perfect blooms?
+44\\
+Cine sunt\\
+cei care pot să vadă sincer\\
+așa cum sunt\\
+acest pământ, acest corp,\\
+tărâmurile iadului și tărâmurile paradisului?\\
+Cine poate discerne\\
+bine predicata Cale a Înțelepciunii,\\
+la fel cum ochiul unui florar iscusit\\
+poate alege flori perfecte?
 
-45.\\
-It is those who knowingly walk the Way\\
-who can see as they truly are\\
-this earth, this body,\\
-the hell realms and the heavenly realms.\\
-They are the ones who can discern\\
-the well-taught Path of Wisdom.
+45\\
+Sunt ei\\
+cei care umblă conștient pe Cale\\
+care văd cum sunt cu adevărat\\
+acest pământ, acest corp,\\
+tărâmurile iadului și tărâmurile paradisului.\\
+Ei sunt aceia care pot discerne\\
+bine predicata Cale a Înțelepciunii.
 
-46.\\
-Know the body\\
-to be as transient as foam, a mirage.\\
-The flower of sensual passion\\
-has a hidden barb.\\
-See this and pass beyond death.
+46\\
+Cunoaște corpul\\
+ca fiind trecător ca spuma,\\
+un miraj.\\
+Floarea pasiunii senzuale\\
+are un spin ascuns.\\
+Vezi asta și treci dincolo de moarte.
 
-47.\\
-As a flash flood\\
-can sweep away a sleeping village,\\
-so death can destroy\\
-those who only seek the flowers\\
-of casual sensual pleasures.
+47\\
+Așa cum o inundație din senin\\
+poate mătura din cale un sat care doarme,\\
+așa moartea îi poate distruge\\
+pe cei care caută doar florile\\
+plăcerilor senzuale banale.
 
-48.\\
-To be frustrated and ungratified,\\
-yet still only seek the flowers\\
-of casual sensual pleasures\\
-brings one under the destroyer’s sway.
+48\\
+A viețui cu frustrare și nemulțumire,\\
+dar totuși a căuta doar florile\\
+plăcerilor senzuale banale\\
+îl duce pe ins sub stăpânirea distrugătorului.
 
-49.\\
-As a bee gathering nectar\\
-does not harm or disturb\\
-the colour and fragrance of the flower,\\
-so do the wise move\\
-through the world.
+49\\
+Precum o albină care,\\
+adunând nectar,\\
+nu rănește sau perturbă\\
+culoarea și parfumul florii\\
+astfel și cei înțelepți\\
+se mișcă prin lume.
 
-50.\\
-Dwell not on the faults\\
-and shortcomings of others,\\
-instead, seek clarity\\
-about your own.
+50\\
+Nu poposi asupra defectelor\\
+și neajunsurilor altora;\\
+în schimb, caută claritate\\
+în privința alor tale.
 
-51.\\
-As a beautiful flower\\
-without fragrance is disappointing,\\
-so are wise words\\
-without right action.
+51\\
+Precum o floare frumoasă\\
+lipsită de mireasmă dezamăgește,\\
+așa sunt și cuvintele înțelepte\\
+fără fapte drepte.
 
-52.\\
-As a beautiful flower\\
-with a delightful fragrance is pleasing,\\
-so is wise and lovely speech\\
-when matched with right action.
+52\\
+Precum o floare frumoasă\\
+cu o mireasmă îmbietoare încântă,\\
+așa e și vorbitul înțelept și dulce\\
+când e însoțit de fapte drepte.
 
-53.\\
-As many garlands can be made\\
-from a heap of flowers,\\
-so too, much that is wholesome can be done\\
-during this human existence.
+53\\
+Așa cum multe ghirlande pot fi făcute\\
+dintr-o adunătură de flori,\\
+la fel multe iscusituri pot fi făcute\\
+pe durata acestei vieți omenești.
 
-54.\\
-The fragrance of flowers or sandalwood\\
-blows only with the prevailing wind,\\
-but the fragrance of virtue\\
-pervades all directions.
+54\\
+Mireasma florilor sau a lemnului de santal\\
+bate doar în direcția vântului predominant,\\
+dar mireasma virtuții\\
+străbate toate direcțiile.
 
-55.\\
-The fragrance of virtue\\
-surpasses by far\\
-the fragrance of flowers\\
-or sandalwood.
+55\\
+Mireasma virtuții\\
+de departe-ntrece\\
+mireasma florilor\\
+sau a lemnului de santal.
 
-56.\\
-The aroma of sandalwood\\
-and the scent of flowers\\
-bring only little delight\\
-compared to the fragrance of virtue,\\
-which suffuses even the heavenly realms.
+56\\
+Aroma lemnului de santal\\
+și mirosul florilor\\
+aduc doar puțină bucurie\\
+în comparație cu mireasma virtuții,\\
+care inundă chiar și tărâmurile cerești.
 
-57.\\
-It is not possible for Mara to find\\
-those who abide in heedfulness,\\
-who by perfect knowledge are freed\\
-and live in virtue.
+57\\
+Nu e posibil ca Mara să-i găsească\\
+pe cei care-și duc veacul în luciditate,\\
+care prin cunoaștere perfectă sunt eliberați\\
+și trăiesc în virtute.
 
-58-59.\\
-Just as a sweet-smelling and beautiful lotus\\
-can grow from a pile of discarded waste,\\
-the radiance of a true disciple of the Buddha\\
-outshines dark shadows cast by ignorance.
+58-59\\
+La fel cum un lotus frumos și dulce mirositor\\
+poate crește dintr-o grămadă de gunoi aruncat,\\
+strălucirea unui adevărat discipol al lui Buddha\\
+întrece umbrele întunecate aruncate de ignoranță.

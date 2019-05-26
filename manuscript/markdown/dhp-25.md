@@ -1,169 +1,155 @@
-The Renunciate
+Cel ce renunță
 ==============
 
-360.\\
-It is good to restrain the eye.\\
-It is good to restrain the ear.\\
-It is good to restrain the nose.\\
-It is good to restrain the tongue.
+360\\
+Este bine a-și abține ochii.\\
+Este bine a-și abține urechile.\\
+Este bine a-și abține nasul.\\
+Este bine a-și abține limba.
 
-361.\\
-It is good to be restrained in body.\\
-It is good to be restrained in speech.\\
-It is good to be restrained in mind.\\
-It is good to be restrained in everything.\\
-The renunciate who is restrained\\
-in every way will realize\\
-freedom from suffering.
+361\\
+Este bine a-și abține corpul.\\
+Este bine a-și abține vorba.\\
+Este bine a-și abține mintea.\\
+Este bine a-și abține tot.\\
+Cel ce renunță și se abține în toate privințele\\
+va dobândi liberarea de suferință.
 
-362.\\
-One who is rightly disciplined\\
-in all actions,\\
-who is composed,\\
-contented and delights in\\
-solitary contemplation –\\
-such is a renunciate.
+362\\
+Insul disciplinat cum se cade\\
+în toate acțiunile,\\
+liniștit, mulțumit\\
+și care se delectează în contemplare singuratică – acesta este cel ce renunță.
 
-363.\\
-It is pleasing to hear\\
-the words of a renunciate\\
-who is wise, not inflated,\\
-whose mind is composed\\
-and whose speech is contained\\
-and clear in meaning.
+363\\
+E plăcut a auzi cuvintele unuia ce renunță;\\
+înțelept, neumflat în pene,\\
+cu mintea liniștită\\
+și cu vorba reținută\\
+și cu sensul limpede.
 
-364.\\
-One who abides in Dhamma,\\
-who delights in Dhamma,\\
-who contemplates Dhamma,\\
-who memorizes Dhamma\\
-does not lose the Way.
+364\\
+Cel ce își duce veacul în Dhamma,\\
+care se delectează în Dhamma,\\
+care contemplă Dhamma,\\
+care memorează Dhamma,\\
+acela nu se va abate de la Cale.
 
-365.\\
-Bemoaning your own lot\\
-or envying the gains of others\\
-obstructs peace of mind.
+365\\
+A-ți deplânge propria soartă\\
+sau a invidia avuțiile altora\\
+stă în calea liniștii sufletești.
 
-366.\\
-But being contented\\
-even with modest gains,\\
-pure in livelihood and energetic,\\
-you will be held in high esteem.
+366\\
+Însă fiind mulțumit\\
+chiar și cu avuții modeste,\\
+trăind cu puritate și energic\\
+te vei bucura de un respect deosebit.
 
-367.\\
-True renunciates\\
-regard the entire body-mind\\
-without any thought of ’I’ or ’mine’\\
-and are devoid of longing\\
-for what they do not have.
+367\\
+Cei ce renunță cu adevărat\\
+se gândesc pe deplin la trup-minte\\
+fără vreo referire la „eu” sau „al meu”\\
+și nu își doresc ceea ce nu au.
 
-368.\\
-A renunciate who\\
-abides in loving-kindness,\\
-with a heart full of devotion\\
-for the Buddha’s teaching,\\
-will find peace, stillness and bliss.
+368\\
+Insul ce renunță\\
+și își duce veacul cu bunătate pașnică\\
+și o inimă plină de devotament\\
+față de învățăturile lui Buddha\\
+va găsi pace, liniște și exaltare.
 
-369.\\
-Bail out the water from your boat;\\
-cut loose from the defiling passions\\
-of lust and hatred;\\
-unencumbered, sail on\\
-towards liberation.
+369\\
+Scoate-ți apa din barcă;\\
+taie-ți legăturile de pasiunile pângăritoare\\
+ale voluptății și urii;\\
+neîmpovărat, navighează către liberare.
 
-370.\\
-One who has\\
-cut off coarse attachments,\\
-cut off subtle attachments,\\
-who cultivates the spiritual faculties,\\
-is the one who finds freedom\\
-from delusion.
+370\\
+Insul care\\
+a tăiat atașamentele brute,\\
+a tăiat atașamentele subtile,\\
+care-și cultivă facultățile spirituale\\
+este cel care găsește eliberarea de decepție.
 
-371.\\
-Be careful!\\
-Do not neglect meditation,\\
-nor allow the mind\\
-to dwell on sensuality\\
-lest you might heedlessly swallow\\
-a red-hot ball of iron\\
-and find yourself crying out,\\
-“Why am I suffering?”
+371\\
+Aveți grijă!\\
+Nu neglijați meditația\\
+și nu permiteți minții să stăruiască asupra senzualității\\
+ca nu cumva să înghițiți fără băgare de seamă\\
+o bilă roșie și încinsă de fier\\
+și să vă întrebați: „De ce sufăr?”.
 
-372.\\
-Concentration does not arise\\
-without understanding,\\
-nor understanding\\
-without concentration.\\
-One who knows both\\
-approaches liberation.
+372\\
+Concentrarea nu apare\\
+fără înțelegere,\\
+iar nici înțelegerea nu apare\\
+fără concentrare.\\
+Insul care le cunoaște pe ambele\\
+se apropie de liberare.
 
-373.\\
-A happiness transcending ordinary bliss\\
-is experienced by those renunciates\\
-who have entered into seclusion\\
-with tranquil heart\\
-and clear understanding of the Way.
+373\\
+O fericire dincolo de exaltarea obișnuită\\
+este cea resimțită de cei ce renunță\\
+care s-au retras în singurătate cu inima liniștită\\
+și cu o înțelegere limpede a Căii.
 
-374.\\
-When those who are wise\\
-dwell in contemplation\\
-on the transient nature\\
-of the body-mind\\
-and of all conditioned existence,\\
-they experience joy and delight,\\
-seeing through\\
-to the inherently secure.
+374\\
+Atunci când cei înțelepți\\
+trăiesc contemplând\\
+asupra naturii efemere a\\
+acestui corp-minte\\
+și a oricărei existențe condiționate,\\
+resimt bucurie și încântare\\
+văzând calea către siguranța firească.
 
-375-376.\\
-This, then, is the beginning\\
-for a renunciate who takes up the training:\\
-wisely control your faculties,\\
-commit yourself to the instruction,\\
-seek contentment;\\
-cultivate the company of those\\
-who support your aspiration\\
-for energetic practice of the teachings.\\
-The beauty of pure conduct\\
-conditions whole-hearted well-being,\\
-giving rise to complete\\
-freedom from remorse.
+375-376\\
+Acesta este atunci începutul\\
+pentru cel ce renunță care începe instruirea:\\
+controlează-ți facultățile,\\
+dedică-te învățăturii,\\
+caută împăcarea cu sine;\\
+cultivă compania celor\\
+care îți susțin aspirațiile\\
+pentru practica energică a învățăturilor.\\
+Frumusețea conduitei pure\\
+condiționează starea de bine deplină,\\
+ducând la eliberarea completă de remușcări.
 
-377.\\
-As old flowers fall\\
-from a jasmine plant,\\
-let lust and hatred\\
-fall away.
+377\\
+Așa cum florile vechi\\
+cad de pe o plantă de iasomie,\\
+lasă voluptatea și ura\\
+să cadă.
 
-378.\\
-I call them the peaceful ones,\\
-who are calm in body,\\
-in speech and in mind,\\
-and who are thoroughly purged\\
-of all worldly obsessions.
+378\\
+Îi numesc „cei pașnici”,\\
+cu trupul calm, vorba calmă și mintea calmă\\
+și care s-au descotorosit în profunzime\\
+de toate obsesiile lumești.
 
-379.\\
-Scrutinize yourself.\\
-Examine yourself.\\
-With right attention\\
-to self-assessment\\
-you will live at ease.
+379\\
+Cercetează-te.\\
+Examinează-te.\\
+Acordând atenția corectă\\
+evaluării de sine,\\
+vei trăi în tihnă.
 
-380.\\
-We are our own protection;\\
-we are indeed our own secure abiding;\\
-how could it be otherwise?\\
-So with due care we attend to ourselves\\
-as a trainer would care for a thoroughbred.
+380\\
+Noi suntem cei care ne protejăm;\\
+noi suntem cu adevărat propriul nostru refugiu;\\
+cum ar putea sta altfel lucrurile?\\
+Așadar, cu atenția cuvenită, ne ocupăm de noi\\
+așa cum un dresor s-ar îngriji de un pursânge.
 
-381.\\
-A monk, a nun, who cultivates\\
-a joyous disposition\\
-and is filled with\\
-confidence in the Way\\
-will find peace, stillness and bliss.
+381\\
+Un călugăr, o călugăriță care cultivă\\
+o dispoziție voioasă\\
+și sunt plini de încredere în Cale\\
+vor găsi pace, liniște și exaltare.
 
-382.\\
-While still a youth, a renunciate\\
-fully devoted to the Way\\
-lights up the world\\
-like the moon emerging from clouds.
+382\\
+Cât timp este încă tânăr, cel ce renunță\\
+și este complet devotat Căii\\
+luminează lumea\\
+asemenea lunii care iese din nori.

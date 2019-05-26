@@ -1,139 +1,163 @@
-The Pairs
+Perechile
 =========
 
-1.\\
-All states of being are determined by the heart.\\
-It is the heart that leads the way.\\
-Just as the wheel of the oxcart follows\\
-the hoof print of the animal that draws it,\\
-so suffering will surely follow\\
-when we speak or act impulsively\\
-from an impure heart.
+1\\
+Toate stările care iau ființă\\
+sunt determinate\\
+de inimă.\\
+Inima e cea care îndrumă pe cale.\\
+Exact cum roata carului\\
+urmează amprenta copitei animalului care-l trage,\\
+așa suferința va urma\\
+cu siguranță\\
+când vorbim sau acționăm impulsiv\\
+dintr-o inimă impură.
 
-2.\\
-All states of being are determined by the heart.\\
-It is the heart that leads the way.\\
-As surely as our shadow never leaves us,\\
-so well-being will follow\\
-when we speak or act\\
-with a pure heart.
+2\\
+Toate stările care iau ființă\\
+sunt determinate\\
+de inimă.\\
+Inima e cea care îndrumă pe cale.\\
+La fel de sigur cum umbra noastră\\
+nu ne părăsește niciodată,\\
+așa bunăstarea va urma\\
+când vorbim sau acționăm\\
+cu o inimă pură.
 
-3.\\
-When we hold fast to such thoughts as,\\
-“They abused me, mistreated me,\\
-molested me, robbed me,”\\
-we keep hatred alive.
+3\\
+Când ne ținem strâns\\
+de asemenea gânduri precum\\
+„M-au abuzat,\\
+m-au maltratat,\\
+m-au brutalizat,\\
+m-au jefuit”\\
+păstrăm ura vie.
 
-4.\\
-If we thoroughly release ourselves\\
-from such thoughts as,\\
-“They abused me, mistreated me,\\
-molested me, robbed me,”\\
-hatred is vanquished.
+4\\
+Dacă ne eliberăm complet\\
+de gânduri precum\\
+„M-au abuzat,\\
+m-au maltratat,\\
+m-au brutalizat,\\
+m-au jefuit”,\\
+ura e cucerită.
 
-5.\\
-Never by hatred is hatred conquered,\\
-but by readiness to love alone.\\
-This is eternal law.
+5\\
+Niciodată ura nu e prin ură cucerită,\\
+ci doar prin disponibilitatea de a iubi.\\
+Aceasta e lege eternă.
 
-6.\\
-Those who are contentious\\
-have forgotten that we all die;\\
-for the wise, who reflect on this fact,\\
-there are no quarrels.
+6\\
+Cei ce sunt litigioși\\
+au uitat\\
+că murim cu toții.
+Pentru cei înțelepți,\\
+ce reflectă asupra acestui fapt,\\
+nu există cârcoteli.
 
-7.\\
-As a stormy wind can uproot a frail tree,\\
-so one who holds heedlessly to pleasure,\\
-who indulges in food and is indolent\\
-can be uprooted by Mara.
+7\\
+La fel cum rafala unei furtuni\\
+poate dezrădăcina\\
+un copac firav,\\
+așa cel care se ține\\
+fără băgare de seamă de plăcere,\\
+cel care se răsfață cu mâncare\\
+și e nepăsător\\
+poate fi dezrădăcinat de Mara.
 
-8.\\
-As a stormy wind\\
-cannot move a mountain of rock,\\
-so one who contemplates\\
-the reality of the body,\\
-who develops faith and energy,\\
-is unmoved by Mara.
+8\\
+La fel cum rafala unei furtuni\\
+nu poate urni un munte de piatră,\\
+așa cel care contemplă\\
+realitatea corpului,\\
+care dezvoltă credință și energie,\\
+e nemișcat de Mara.
 
-9.\\
-Wearing the robe of a renunciate\\
-does not in itself render one pure.\\
-Those who wear it and yet lack diligence\\
-are heedless.
+9\\
+Purtarea robei unuia care a renunțat,\\
+în sine, nu-l face pe ins pur.\\
+Acei care o poartă,\\
+dar le lipsește încă sârguința,\\
+sunt lipsiți de băgare de seamă.
 
-10.\\
-Being possessed of self-restraint,\\
-honest and diligent in conduct;\\
-such a one is worthy\\
-of the renunciate’s robe.
+10\\
+Fiind posedat de autocontrol,\\
+onest și sârguincios în conduită,\\
+un ins e astfel demn\\
+de roba unuia care a renunțat.
 
-11.\\
-Mistaking the false for the real\\
-and the real for the false,\\
-one suffers a life of falsity.
+11\\
+Încurcând falsul cu realul,\\
+și realul cu falsul,\\
+insul suferă de o viață\\
+a falsității.
 
-12.\\
-But seeing the false as the false\\
-and the real as the real,\\
-one lives in the perfectly real.
+12\\
+Dar văzând\\
+falsul ca fals\\
+și realul ca real,\\
+insul trăiește\\
+în perfectul real.
 
-13.\\
-Like rain leaking through\\
-a poorly-thatched roof,\\
-the unruly passions\\
-seep into an untamed heart.
+13\\
+Asemeni ploii infiltrându-se\\
+printr-un acoperiș prost împăiat,\\
+pasiunile nesupuse se preling\\
+într-o inimă neîmblânzită.
 
-14.\\
-As rain cannot penetrate\\
-a well-thatched roof,\\
-so the passions\\
-cannot enter a well-trained heart.
+14\\
+Cum ploaia nu poate penetra\\
+un acoperiș bine împăiat,\\
+așa pasiunile nu pot intra\\
+într-o inimă bine instruită.
 
-15.\\
-When we see clearly\\
-our own lack of virtue\\
-we are filled with grief;\\
-here and hereafter we grieve.
+15\\
+Când vedem clar\\
+propria noastră lipsă de virtute\\
+suntem umpluți cu mâhnire;\\
+de acum și înainte ne mâhnim.
 
-16.\\
-When we appreciate fully\\
-the benefit of our own pure deeds\\
-we are filled with joy;\\
-here and hereafter\\
-there is a celebration of joy.
+16\\
+Când apreciem complet beneficiul\\
+propriilor noastre fapte pure,\\
+suntem umpluți cu bucurie;\\
+de acum și înainte\\
+are loc o celebrare a bucuriei.
 
-17.\\
-Here and hereafter\\
-those who perform evil\\
-create their own suffering.\\
-Mental preoccupation\\
-with the thought, “I have done wrong”\\
-possesses their minds,\\
-and they fall into chaos.
+17\\
+De acum și înainte\\
+cei care înfăptuiesc rău\\
+își creează propria suferință.\\
+Preocuparea mentală\\
+cu gândul „Am făcut rău”\\
+le posedă mintea\\
+și cad în haos.
 
-18.\\
-Here and hereafter\\
-those who live their lives well\\
-abide in happiness.\\
-They are filled\\
-with a natural appreciation of virtue,\\
-and they dwell in delight.
+18\\
+De acum și înainte\\
+cei care își trăiesc viața bine\\
+își duc veacul în fericire.\\
+Ei sunt plini\\
+de o apreciere naturală a virtuții\\
+și trăiesc cu încântare.
 
-19.\\
-Though one may know\\
-much about Dhamma,\\
-if one does not live accordingly –\\
-like a cowherd\\
-who covets another’s cattle –\\
-one experiences none of the benefits\\
-of walking the Way.
+19\\
+Cu toate că insul poate cunoaște\\
+multe despre Dhamma,\\
+dacă insul nu trăiește propice –\\
+asemeni unui văcar\\
+ce râvnește vitele altuia –\\
+insul nu va afla\\
+niciunul din beneficiile\\
+de a umbla Calea.
 
-20.\\
-Knowing only a little about Dhamma\\
-but wholeheartedly according with it,\\
-transforming the passions\\
-of greed, hatred and delusion,\\
-releasing all attachments to here and hereafter,\\
-one will indeed experience for oneself\\
-the benefits of walking the Way.
+20\\
+Cunoscând doar puțin\\
+despre Dhamma,\\
+dar conformându-se cu toată inima,\\
+transformând pasiunile\\
+lăcomiei, urii și decepției\\
+eliberând toate atașamentele\\
+de acum și de apoi,\\
+insul cu siguranță va afla singur\\
+beneficiile de a umbla Calea.

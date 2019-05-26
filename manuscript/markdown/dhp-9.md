@@ -1,95 +1,96 @@
-Evil
+Rău
 ====
 
-116.\\
-Hasten towards doing what is wholesome.\\
-Restrain your mind from evil acts.\\
-The mind that is slow to do good\\
-can easily find pleasure in evil-doing.
+116\\
+Mergi iute spre a face ceea ce e benefic.\\
+Abține-ți mintea de la fapte rele.\\
+Mintea care e înceată în a face bine\\
+poate ușor să găsească plăcere în facerea de rău.
 
-117.\\
-If you perform an evil act,\\
-then do not repeat it.\\
-Avoid finding pleasure in its memory.\\
-The aftermath of evil-doing is painful.
+117\\
+Dacă săvârșești o faptă rea,\\
+atunci nu o repeta.\\
+Evită a găsi plăcere în amintirea ei.\\
+Urmarea facerii de rău e dureroasă.
 
-118.\\
-Having performed a wholesome deed\\
-it is good to repeat it, again and again.\\
-Be interested in the pleasure of wholesomeness.\\
-The fruit of accumulated goodness is\\
-contentment.
+118\\
+Odată săvârșită o faptă benefică\\
+e bine să o repeți iar și iar.\\
+Fii interesat de plăcerea binefacerii.\\
+Fructul bunătății acumulate e împăcarea cu sine.
 
-119.\\
-Even those who perform evil\\
-can experience well-being\\
-so long as their actions\\
-have not yet borne direct fruits.\\
-However, when the results\\
-of their actions ripen,\\
-the painful consequences\\
-cannot be avoided.
+119\\
+Chiar și cei care înfăptuiesc rău\\
+pot trăi în bunăstare\\
+atâta vreme cât acțiunile lor\\
+încă nu și-au produs direct fructele.\\
+În orice caz, când rezultatele\\
+faptelor se maturează,\\
+consecințele dureroase\\
+nu pot fi evitate.
 
-120.\\
-Even those who live wholesome lives\\
-can experience suffering\\
-so long as their acts\\
-have not yet borne direct fruit.\\
-However, when the fruits\\
-of their actions ripen,\\
-the joyful consequences\\
-cannot be avoided.
+120\\
+Chiar și cei care trăiesc vieți tihnite\\
+pot cunoaște suferința\\
+atâta vreme cât acțiunile lor\\
+încă nu și-au produs direct fructele.\\
+În orice caz, când fructele\\
+faptelor se maturează,\\
+consecințele vesele\\
+nu pot fi evitate.
 
-121.\\
-Do not ignore the effects of evil,\\
-saying, “This will come to nothing.”\\
-Just as by the gradual fall of raindrops\\
-the water jar is filled,\\
-so in time fools are corrupted\\
-by evil-doing.
+121\\
+Nu ignora efectele răului,\\
+zicând: „Nu se va alege nimic din asta.”\\
+La fel cum prin căderea treptată a picurilor de ploaie\\
+ulciorul de apă se umple,\\
+astfel, în timp, cei nesăbuiți sunt corupți de facerea de rău.
 
-122.\\
-Do not ignore the effect of right action,\\
-saying, “This will come to nothing.”\\
-Just as by the gradual fall of raindrops\\
-the water jar is filled,\\
-so in time the wise\\
-become replete with good.
+122\\
+Nu ignora efectele faptei drepte,\\
+zicând: „Nu se va alege nimic din asta.”\\
+La fel cum prin căderea treptată a picurilor de ploaie\\
+ulciorul de apă se umple,\\
+astfel, în timp, cei înțelepți\\
+devin preaplini cu bunătate.
 
-123.\\
-As a trader with valuable cargo avoids threats\\
-and those who love life avoid poison,\\
-so you should avoid evil actions.
+123\\
+La fel cum un negustor cu încărcătură prețioasă\\
+evită amenințările\\
+și acei care iubesc viața evită otrava,\\
+așa și tu să eviți faptele rele.\\
 
-124.\\
-A hand without an open wound\\
-can carry poison\\
-and remain free from harm;\\
-likewise, evil has no consequences\\
-for those who do not perform it.
+124\\
+O mână fără o rană deschisă\\
+poate purta otravă\\
+și să rămână \\
+liberă de vătămare;\\
+la fel, răul nu are consecințe\\
+pentru cei ce nu îl fac.
 
-125.\\
-If you intentionally harm\\
-an innocent person,\\
-someone who is pure and blameless,\\
-the harm will come back to you\\
-like fine dust thrown into the wind.
+125\\
+Dacă rănești intenționat\\
+o persoană inocentă,\\
+care e pură și nevinovată,\\
+răul ți se va întoarce,\\
+asemenea prafului fin\\
+aruncat în vânt.
 
-126.\\
-Some are reborn as humans;\\
-evil-doers are reborn in hell.\\
-Doers of good are reborn in bliss\\
-and the pure enter the trackless land.
+126\\
+Unii se reîncarnează în oameni;\\
+răufăcătorii se nasc din nou în iad.\\
+Cei ce fac bine iau ființă-n exaltare,\\
+iar cei puri merg în tărâmul fără urme.
 
-127.\\
-There is no place on earth\\
-where one can hide\\
-from the consequences of evil actions –\\
-not in a mountain cave,\\
-the ocean, nor in the sky.
+127\\
+Nu există loc pe pământ\\
+unde cineva se poate ascunde\\
+de consecințele faptelor rele –\\
+nici într-o peșteră de munte,\\
+nici în ocean, nici în cer.
 
-128.\\
-There is no place on earth\\
-beyond the reach of death –\\
-not in a mountain cave,\\
-the ocean, nor in the sky.
+128\\
+Nu există loc pe pământ\\
+unde moartea să nu ajungă –\\
+nici într-o peșteră de munte,\\
+nici în ocean, nici în cer.

@@ -1,303 +1,283 @@
-Great Being
-===========
+Ființă măreață
+==============
 
-383.\\
-Diligently cut off\\
-the stream of craving\\
-and abandon sensual longings;\\
-knowing the inherent limitations\\
-of all that is formed,\\
-realize the uncreated.
+383\\
+Îndepărtați cu sârguință\\
+șiroiul râvnei\\
+și abandonați năzuințele senzuale;\\
+cunoscând limitările intrinseci\\
+ale tuturor lucrurilor formate,\\
+înțelegeți ceea ce este de necreat.
 
-384.\\
-All chains of confinement fall away\\
-from those who see clearly\\
-beyond the two.
+384\\
+Toate lanțurile limitării cad la pământ\\
+pentru cei ce văd cu limpezime\\
+dincolo de cele două dhamma.
 
-385.\\
-I say a being is great\\
-who stands not on this shore,\\
-nor the other shore,\\
-nor on any shore at all.\\
-Such a being is free from all ties.
+385\\
+Spun că o ființă este măreață\\
+atunci când nu stă nici pe țărmul acesta,\\
+pe țărmul celălalt,\\
+nici pe vreun alt țărm.\\
+O asemenea ființă este liberă de toate legăturile.
 
-386.\\
-I say a being is great\\
-who dwells secluded and at ease,\\
-knowing the heart\\
-free from all pollution,\\
-having completed the task,\\
-purified of all compulsive tendencies\\
-and awake.
+386\\
+Spun că o ființă este măreață\\
+atunci când sălășluiește izolată și în tihnă,\\
+știindu-și inima eliberată de toate impuritățile,\\
+cu sarcina încheiată,\\
+purificată de toate tendințele compulsive\\
+și trează.
 
-387.\\
-The sun shines by day,\\
-the moon shines by night.\\
-But both all day and all night\\
-the Buddha shines\\
-in glorious splendour.
+387\\
+Soarele strălucește ziua,\\
+luna strălucește noaptea.\\
+Însă atât toată ziua, cât și toată noaptea\\
+Buddha strălucește\\
+cu o splendoare glorioasă.
 
-388.\\
-Having transformed evil,\\
-one is called a great being.\\
-Living peacefully,\\
-one is called a contemplative.\\
-Having given up impurity,\\
-one is called a renunciate.
+388\\
+Odată cu transformarea răului,\\
+insul se numește ființă măreață.\\
+Atunci când trăiește pașnic,\\
+insul se numește contemplator.\\
+Odată cu renunțarea la prihănire,\\
+insul se numește cel ce renunță.
 
-389.\\
-Non-retaliation\\
-is the characteristic of great beings.\\
-They do not give way to anger.\\
-Should they be attacked,\\
-it is not in their nature to strike back.
+389\\
+Neluarea revanșei\\
+este specifică ființelor mărețe.\\
+Nu se lasă cuprinse de furie.\\
+Dacă sunt atacate,\\
+nu le stă în fire să contraatace.
 
-390.\\
-Suffering subsides to the degree\\
-that you are free from the intention\\
-to cause harm.\\
-There is no real greatness\\
-if there is no restraint of anger.
+390\\
+Suferința încetează\\
+în măsura în care vă eliberați de intenția de a face rău.\\
+Nu există măreție autentică\\
+acolo unde nu există reținerea furiei.
 
-391.\\
-One who refrains from causing harm\\
-by way of body, speech or mind,\\
-can be called a worthy being.
+391\\
+Insul care se abține de la a face rău\\
+cu trupul, vorba sau mintea\\
+se poate numi ființă vrednică.
 
-392.\\
-Devotion and respect\\
-should be offered to those\\
-who have shown us the Way.
+392\\
+Devotamentul și respectul\\
+trebuie oferite celor care ne-au arătat Calea.
 
-393.\\
-One should not be considered\\
-worthy of respect\\
-because of birth or background,\\
-or any outer sign;\\
-it is purity\\
-and the realization of truth\\
-that determine one’s worth.
+393\\
+Insul nu trebuie considerat a fi\\
+demn de respect\\
+pentru că s-a născut sau pentru formarea sa\\
+sau orice alt semn exterior;\\
+puritatea și înțelegerea adevărului\\
+stabilesc valoarea unui ins.
 
-394.\\
-Your outer adornments\\
-and pseudo-spiritual preoccupations\\
-are irrelevant\\
-if inwardly you remain in disarray.
+394\\
+Podoabele voastre exterioare\\
+și preocupările pseudospirituale\\
+sunt irelevante dacă pe dinăuntru\\
+rămâneți neglijenți.
 
-395.\\
-To be unconcerned\\
-about outer appearance\\
-but committed to\\
-intense relentless practice\\
-makes for greatness.
+395\\
+A nu se preocupa de aspectul exterior,\\
+însă a se dedica cultivării intense și neobosite –\\
+aceasta înseamnă măreția.
 
-396.\\
-No one is noble\\
-merely because of what they inherit.\\
-Nobility comes from cleansing oneself\\
-of all pollutions and attachments.
+396\\
+Niciun ins nu este nobil\\
+numai datorită a ceea ce moștenește.\\
+Nobilitatea provine din curățarea sinelui\\
+de toate impuritățile și atașamentele.
 
-397.\\
-Whoever has cut all that tethers\\
-and found fearlessness,\\
-who is beyond attachments\\
-and defilements,\\
-I recognize as a great being.
+397\\
+Pe cel care a tăiat toate funiile\\
+și a descoperit curajul,\\
+cel care este mai presus de atașamente și pângărire,\\
+pe acela îl recunosc drept ființă măreață.
 
-398.\\
-Whoever severs the ties of hatred,\\
-unbinds the ropes of craving,\\
-undoes the locks of wrong view,\\
-opens the doors of ignorance\\
-and sees truth,\\
-I recognize as a great being.
+398\\
+Pe cel ce desface legăturile urii,\\
+dezleagă frânghiile râvnei,\\
+descuie lacătele perspectivei greșite,\\
+deschide ușile ignoranței și vede adevărul,\\
+pe acela îl recunosc drept ființă măreață.
 
-399.\\
-Strength of patience\\
-is the might of noble beings;\\
-they can be shackled,\\
-endure verbal abuse and beatings,\\
-without resentment.
+\\
+399\\
+Puterea răbdării\\
+este tăria ființelor nobile;\\
+acestea pot fi încătușate,\\
+pot îndura abuz verbal și bătăi\\
+fără ranchiună.
 
-400.\\
-Those who are free from anger,\\
-simply disciplined, virtuous,\\
-well-trained\\
-and have gone beyond rebirth,\\
-these I call great beings.
+400\\
+Pe cei eliberați de furie,\\
+disciplinați cu simplitate, virtuoși,\\
+instruiți corect\\
+și mai presus de renaștere,\\
+pe aceia îi numesc ființe mărețe.
 
-401.\\
-As water slides from a lotus leaf,\\
-so sensual pleasures\\
-do not cling\\
-to a great being.
+401\\
+Așa cum apa alunecă de pe o frunză de lotus,\\
+plăcerile senzuale\\
+nu se prind de o ființă măreață.
 
-402.\\
-Those who know the freedom\\
-of having laid aside\\
-the burden of attachment\\
-to the body-mind,\\
-I call great beings.
+402\\
+Pe cei care cunosc libertatea\\
+de a fi lăsat deoparte\\
+povara atașamentului față de corp-minte,\\
+pe aceia îi numesc ființe mărețe.
 
-403.\\
-Those possessed of deep wisdom,\\
-who see what accords with the Way\\
-and what does not,\\
-those who have attained\\
-to the peak of possibility,\\
-I call great beings.
+403\\
+Pe cei ce posedă o înțelepciune profundă,\\
+care văd ce anume este în conformitate cu Calea și ce nu este,\\
+pe cei care au făcut tot ce le stă în putință,\\
+pe aceia îi numesc ființe mărețe.
 
-404.\\
-Those who are free from attachment\\
-to the company of either householders\\
-or fellow renunciates,\\
-and so wander free from desires\\
-or concern for security of any kind,\\
-are great beings.
+404\\
+Cei eliberați de atașamentul\\
+fie față de laici, fie față de alții care au renunțat,\\
+și astfel hoinăresc fără dorințe\\
+sau fără grijă față de siguranța de orice fel\\
+sunt ființe mărețe.
 
-405.\\
-Those who have renounced\\
-the use of force\\
-in relationship to other beings,\\
-whether weak or strong,\\
-who neither kill\\
-nor cause to be killed,\\
-can be called great beings.
+405\\
+Cei care au renunțat\\
+la a folosi forța în relațiile cu alte ființe,\\
+fie slabe, fie puternice,\\
+care nici nu omoară,\\
+nici nu provoacă omorârea,\\
+aceia se pot numi ființe mărețe.
 
-406.\\
-Those who remain\\
-friendly amid the hostile,\\
-at peace among the aggressive,\\
-and who do not attach themselves\\
-to that upon which others depend\\
-are great beings.
+\\
+406\\
+Cei ce rămân prietenoși printre cei ostili,\\
+pașnici printre cei agresivi\\
+și care nu se atașează de lucrurile\\
+de care alții depind\\
+sunt ființe mărețe.
 
-407.\\
-For a great being,\\
-lust and ill-will,\\
-arrogance and conceit\\
-drop away,\\
-even as a tiny seed would drop\\
-from the tip of a needle.
+407\\
+Pentru o ființă măreață,\\
+voluptatea și rea-voința,\\
+aroganța și îngâmfarea cad\\
+așa cum chiar și cea mai mică sămânță\\
+ar cădea de pe vârful unui ac.
 
-408.\\
-Those who speak truth\\
-and give gentle encouragement,\\
-contending with no-one,\\
-these do I call great beings.
+408\\
+Pe cei ce spun adevărul\\
+și încurajează cu blândețe,\\
+fără a se întrece cu cineva,\\
+pe aceia îi numesc ființe mărețe.
 
-409.\\
-The actions of a great being are pure.\\
-Great beings never\\
-knowingly take for themselves\\
-that which belongs to another.
+409\\
+Acțiunile unei ființe mărețe sunt pure.\\
+Ființele mărețe nu își însușesc niciodată conștient\\
+ceea ce aparține altuia.
 
-410.\\
-The heart of a great being is free.\\
-Great beings no longer pine\\
-for things of this world\\
-or any other world.
+410\\
+Inima unei ființe mărețe este liberă.\\
+Ființele mărețe nu mai tânjesc\\
+după lucrurile din această lume\\
+sau din orice altă lume.
 
-411.\\
-The heart of a great being is free.\\
-With accurate understanding\\
-which is beyond doubt,\\
-great beings have set their feet firmly\\
-in the land of liberation.
+411\\
+Inima unei ființe mărețe este liberă.\\
+Cu o înțelegere precisă,\\
+dincolo de îndoială,\\
+ființele mărețe și-au înfipt bine picioarele\\
+în tărâmul liberării.
 
-412.\\
-Whoever has transcended\\
-all ties of good and bad,\\
-is purified\\
-and free from sorrow,\\
-should be called a great being.
+412\\
+Oricine a depășit\\
+toate legăturile cu binele și răul,\\
+este purificat și eliberat de supărare\\
+trebuie numit o ființă măreață.
 
-413.\\
-Those beings who\\
-are released from all longing\\
-and, like the moon in a cloudless sky,\\
-are pure, clear and serene,\\
-I call great.
+413\\
+Ființele eliberate de năzuință\\
+și care, asemenea lunii pe un cer fără de nori,\\
+sunt pure, calme și senine:\\
+pe acele ființe le numesc mărețe.
 
-414.\\
-There are beings\\
-who travel the difficult path\\
-across the dangerous swamp\\
-of defiling passions,\\
-traverse the ocean of delusion,\\
-through the darkness of ignorance,\\
-and go beyond.\\
-They are sustained\\
-by wise contemplation,\\
-secure in freedom from doubt,\\
-liberated;\\
-such beings are great indeed.
+414\\
+Există ființe\\
+care parcurg drumul greu\\
+de-a lungul mlaștinii periculoase\\
+a pasiunilor pângăritoare,\\
+traversează oceanul decepției\\
+prin întunericul ignoranței\\
+și trec dincolo.\\
+Sunt întărite de contemplare înțeleaptă,\\
+sigure fără de îndoieli, eliberate;\\
+aceste ființe sunt cu adevărat mărețe.
 
-415.\\
-It is a great being\\
-who, having restrained desires\\
-for sensual pleasure,\\
-lives the homeless life\\
-and realizes freedom\\
-from both sensual desire\\
-and perpetual becoming.
+415\\
+O ființă măreață\\
+este aceea care, abținându-se de la dorințele\\
+plăcerii senzuale,\\
+trăiește o viață fără de adăpost\\
+și se eliberează\\
+atât de dorința senzuală,\\
+cât și de devenirea perpetuă.
 
-416.\\
-It is a great being\\
-who, having restrained all craving,\\
-lives the homeless life\\
-and realizes freedom\\
-from both craving\\
-and perpetual becoming.
+416\\
+O ființă măreață\\
+este aceea care, abținându-se de la orice urmă de râvnă,\\
+trăiește în pribegie\\
+și se eliberează\\
+atât de râvnă,\\
+cât și de devenirea perpetuă.
 
-417.\\
-It is a great being\\
-who can see through all obvious delights\\
-as well as subtle pleasures,\\
-to be free from attachment.
+417\\
+O ființă măreață\\
+este aceea care poate vedea dincolo de toate\\
+delectările evidente\\
+precum și de plăcerile subtile\\
+pentru a se elibera de atașament.
 
-418.\\
-One who has ceased\\
-from following like and dislike,\\
-who is cooled,\\
-who is not swayed\\
-by worldly conditions –\\
-I call a great being.
+418\\
+Pe insul care a încetat să urmărească\\
+plăcerile și neplăcerile,\\
+liniștit,\\
+de neclintit de condițiile lumești –\\
+pe acela îl numesc ființă măreață.
 
-419.\\
-I say anyone who understands fully\\
-the passing away and arising of beings,\\
-who remains aware,\\
-non-attached, awake,\\
-who is conscious of\\
-right action at all times,\\
-is a great being.
+419\\
+Spun că oricine înțelege pe deplin\\
+trecerea și reapariția ființelor,\\
+oricine rămâne conștient,\\
+neatașat, treaz,\\
+dându-și mereu seama care este acțiunea corectă,\\
+acela este o ființă măreață.
 
-420.\\
-The condition after death\\
-of great beings is indiscernible;\\
-no trace of passion remains.\\
-They are pure.
+420\\
+Starea de după moarte a ființelor mărețe\\
+este de nedeslușit;\\
+nu rămâne nicio urmă de pasiune.\\
+Acestea sunt pure.
 
-421.\\
-Anyone who lives freed\\
-from habits of clinging\\
-to past, present or future,\\
-attaching to nothing,\\
-is a great being.
+421\\
+Oricine trăiește eliberat\\
+de obiceiurile agățării\\
+de trecut, prezent sau viitor\\
+fără atașamente față de nimic\\
+este o ființă măreață.
 
-422.\\
-A great being is fearless like a bull,\\
-noble, strong, wise, diligent,\\
-sees through delusions,\\
-is clear, attentive and awake.
+422\\
+O ființă măreață este la fel de netemătoare precum un taur,\\
+nobilă, puternică, înțeleaptă, sârguincioasă;\\
+vede dincolo de decepții\\
+și este curată, atentă și trează.
 
-423.\\
-To understand all dimensions\\
-of past existence,\\
-to see accurately into all realms,\\
-to reach the end of rebirths,\\
-to know with insight\\
-that which must be known,\\
-to free the heart from ignorance –\\
-this is truly being made great.
+423\\
+A înțelege toate dimensiunile\\
+existențelor trecute,\\
+a vedea cu acuratețe toate tărâmurile,\\
+a ajunge la finalul renașterilor,\\
+a ști cu introspecție\\
+ceea ce trebuie știut,\\
+a elibera inima de ignoranță –\\
+aceasta înseamnă cu adevărat a fi fost făcut măreț.

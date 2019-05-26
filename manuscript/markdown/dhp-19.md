@@ -1,116 +1,89 @@
-The Just
-========
+Cei drepți
+==========
 
-256.\\
-Making an arbitrary decision\\
-does not amount to justice.\\
-The wise decide the case\\
-after considering arguments\\
-for and against.
+256\\
+Luatul unei decizii arbitrare\\
+nu duce la dreptate.\\
+Cei înțelepți hotărăsc asupra cazului\\
+după ce au în vedere argumentele pentru și împotriva.
 
-257.\\
-By making decisions\\
-based on truth and fairness\\
-one safeguards the law\\
-and is called righteous.
+257\\
+Luând decizii în baza adevărului și echității,\\
+insul protejează legea și se poate numi virtuos.
 
-258.\\
-Those who speak much\\
-are not necessarily possessed of wisdom.\\
-The wise can be seen\\
-to be at peace with life\\
-and free from all enmity and fear.
+258\\
+Cei ce vorbesc mult\\
+nu sunt neapărat înzestrați cu înțelepciune.\\
+Se poate vedea că înțelepții\\
+sunt împăcați cu viața și fără dușmănie și teamă.
 
-259.\\
-Though one’s knowledge\\
-may be limited,\\
-if understanding and conduct\\
-rightly accord with the Way,\\
-one is to be considered\\
-well-versed in Dhamma.
+259\\
+Deși cunoștințele unui ins ar putea fi limitate,\\
+dacă înțelegerea și conduita sunt în conformitate cu Calea,\\
+se consideră că insul este un bun cunoscător al Dhammei.
 
-260.\\
-Having grey hair\\
-does not make you an elder;\\
-ripe in years maybe,\\
-but perhaps pointlessly so.
+260\\
+A avea părul cărunt\\
+nu vă aduce în rândul venerabililor;\\
+sunteți poate copți în privința anilor,\\
+însă posibil fără sens.
 
-261.\\
-One who is truthful,\\
-virtuous, impeccable in conduct,\\
-free from all stains and wise\\
-can be called an elder.
+261\\
+Insul sincer, virtuos, de o conduită impecabilă,\\
+eliberat de toate întinările și înțelept\\
+poate fi numit venerabil.
 
-262 -263.\\
-Those who are envious,\\
-stingy and manipulative\\
-remain unappealing despite\\
-good looks and eloquent speech.\\
-But those who have freed themselves\\
-from their faults\\
-and arrived at wisdom\\
-are attractive indeed.
+262 -263\\
+Cei invidioși, zgârciți și manipulatori\\
+rămân neatrăgători în ciuda înfățișării plăcute și vorbitului elocvent.\\
+Însă cei care s-au eliberat de defecte și au ajuns la înțelepciune\\
+sunt cu adevărat atrăgători.
 
-264.\\
-Shaving your head\\
-does not make you a renunciate\\
-if you are still full of\\
-recklessness and deceit.\\
-How could someone possessed\\
-by craving and lust\\
-be considered a renunciate?
+264\\
+Rasul părului de pe cap\\
+nu vă transformă în cei ce renunță\\
+dacă rămâneți plini de nechibzuință și înșelăciune.\\
+Cum poate cineva posedat de râvnă și voluptate\\
+să fie în rând cu cei care renunță?
 
-265.\\
-You become a monk or nun\\
-by letting go of all evil,\\
-by renouncing all\\
-unwholesomeness,\\
-both great and small.
+265\\
+Deveniți călugări sau călugărițe\\
+abandonând pe deplin răul,\\
+renunțând la tot ce nu e benefic,\\
+atât mare, cât și mic.
 
-266.\\
-You are not a monk or nun\\
-because you depend\\
-on others for food,\\
-but by submitting yourself\\
-wholeheartedly\\
-to the training of body,\\
-speech and mind.
+266\\
+Nu sunteți călugări sau călugărițe\\
+pentru că depindeți de alții pentru mâncare,\\
+ci dedicându-vă cu toată inima\\
+instruirii trupului, vorbitului și minții.
 
-267.\\
-You become a monk or nun\\
-by seeing through this world\\
-with understanding,\\
-by rising above good and bad\\
-and living a life of purity\\
-and contemplation.
+267\\
+Deveniți călugări sau călugărițe\\
+privind prin această lume cu înțelegere,\\
+fiind dincolo de bine și de rău\\
+și trăind o viață pură și contemplativă.
 
-268-269.\\
-Silence does not denote profundity\\
-if you are ignorant and untrained.\\
-Like one holding scales\\
-a sage weighs things up,\\
-wholesome and unwholesome,\\
-and comes to know\\
-both the inner and outer worlds.\\
-Therefore the sage is called wise.
+268-269\\
+Liniștea nu denotă profunzime\\
+dacă sunteți ignoranți și neinstruiți.\\
+Ca și cum ar ține în mână o balanță\\
+un învățat cântărește lucrurile,\\
+prielnice și neprielnice,\\
+și ajunge să cunoască atât lumile interioare, cât și exterioare.\\
+Astfel învățatul se numește înțelept.
 
-270.\\
-Those who still cause harm\\
-to living beings\\
-cannot be considered as attained.\\
-Those who are attained\\
-maintain a harmless demeanour\\
-towards all beings.
+270\\
+Cei ce încă fac rău ființelor vii\\
+nu pot fi considerați nobili.\\
+Cei nobili păstrează o comportare inofensivă față de toate ființele.
 
-271-272.\\
-Do not rest contented\\
-because you keep all the rules and regulations,\\
-nor because you achieve great learning.\\
-Do not feel satisfied because you\\
-attain meditative absorption,\\
-nor because you can dwell in\\
-the bliss of solitude.\\
-Only when you arrive\\
-at the complete eradication\\
-of all ignorance and conceit\\
-should you be content.
+271-272\\
+Nu fiți mulțumiți\\
+doar pentru că respectați toate regulile și normele,\\
+nici pentru că dobândiți învățăminte vaste.\\
+Nu vă simțiți satisfăcuți doar pentru că ați dobândit absorbția în meditație,\\
+nici pentru că vă puteți cufunda în exaltarea solitudinii.\\
+Doar când ajungeți la eradicarea completă\\
+a oricărei urme de ignoranță și trufie\\
+trebuie să fiți satisfăcuți.

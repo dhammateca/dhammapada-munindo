@@ -1,123 +1,117 @@
-Various
+Diverse
 =======
 
-290.\\
-It is wisdom\\
-that enables letting go\\
-of a lesser happiness\\
-in pursuit of a happiness\\
-which is greater.
+290\\
+Înțelepciunea îngăduie renunțarea\\
+la o fericire mai neînsemnată\\
+în căutarea unei fericiri mai însemnate.
 
-291.\\
-You fail\\
-in the pursuit of happiness\\
-if it is at the expense\\
-of others’ well-being.\\
-The snare of ill-will\\
-can still entangle you.
+291\\
+Eșuezi în căutarea fericirii\\
+dacă o cauți cu prețul stării de bineââ
+a altora.\\
+Lațul voinței bolnave te poate strânge în continuare.
 
-292.\\
-To leave undone\\
-that which should be done\\
-and to do that\\
-which should be avoided\\
-leads to carelessness and conceit.\\
-It will increase confusion.
+292\\
+A lăsa nefăcut\\
+ceea ce ar trebui făcut\\
+și a face ceea ce ar trebui evitat\\
+duce la neatenție și trufie.\\
+Iar astfel confuzia va spori.
 
-293.\\
-Confusion ceases\\
-by maintaining\\
-a meditation practice\\
-focused in the body,\\
-by avoiding that\\
-which should not be done\\
-and by mindfully doing\\
-that which should be done.
+293\\
+Confuzia încetează\\
+susținând cultivarea\\
+lucidității cufundate în corp,\\
+evitând ceea ce nu ar trebui făcut\\
+și făcând lucid\\
+ceea ce ar trebui făcut.
 
-294.\\
-By removing craving and conceit,\\
-eradicating wrong views,\\
-and overcoming\\
-the deluded attachments of the sense realm,\\
-the noble being moves freely on.
+294\\
+Prin îndepărtarea râvnei și a îngâmfării,\\
+eradicarea concepțiilor greșite\\
+și scăparea atașamentelor\\
+înșelătoare de sub domnia simțurilor,\\
+ființa nobilă merge liber înainte.
 
-295.\\
-Having cleared\\
-all the hindrances to the Path –\\
-greed, rage, dullness and laziness,\\
-worry, anxiety and doubt –\\
-the noble being freely moves on.
+295\\
+Odată cu îndepărtarea\\
+tuturor obstacolelor către Cale –\\
+lăcomie, furie, trândăvie și lene,\\
+îngrijorare, anxietate și îndoială –\\
+ființa nobilă merge liber înainte.
 
-296.\\
-Disciples of the Buddha\\
-are fully awake,\\
-dwelling both day and night\\
-in contemplation of the Awakened One.
+296\\
+Discipolii lui Buddha sunt pe deplin treji,\\
+sălășluind atât ziua, cât și noaptea\\
+întru contemplarea Celui Trezit.
 
-297.\\
-Disciples of the Buddha\\
-are fully awake,\\
-dwelling both day and night\\
-in contemplation of reality.
+297\\
+Discipolii lui Buddha sunt pe deplin treji,\\
+sălășluind atât ziua, cât și noaptea\\
+întru contemplarea realității.
 
-298.\\
-Disciples of the Buddha\\
-are fully awake,\\
-dwelling both day and night\\
-in contemplation of the communion\\
-of beings who have awakened.
+298\\
+Discipolii lui Buddha sunt pe deplin treji,\\
+sălășluind atât ziua, cât și noaptea\\
+întru contemplarea comuniunii\\
+dintre ființele care s-au trezit.
 
-299.\\
-Disciples of the Buddha\\
-are fully awake,\\
-dwelling both day and night\\
-in contemplation of\\
-the true nature of the body.
+299\\
+Discipolii lui Buddha sunt pe deplin treji,\\
+sălășluind atât ziua, cât și noaptea\\
+întru contemplarea naturii adevărate a corpului.
 
-300.\\
-Disciples of the Buddha\\
-are fully awake\\
-both day and night,\\
-taking delight in compassion.
+300\\
+Discipolii lui Buddha sunt pe deplin treji\\
+atât ziua, cât și noaptea,\\
+delectându-se în compasiune.
 
-301.\\
-Disciples of the Buddha\\
-are fully awake\\
-both day and night,\\
-taking delight\\
-in cultivating the heart.
+301\\
+Discipolii lui Buddha sunt pe deplin treji\\
+atât ziua, cât și noaptea,\\
+delectându-se în cultivarea\\
+inimii.
 
-302.\\
-It is hard to live\\
-the life of renunciation;\\
-its challenges\\
-are difficult to find pleasant.\\
-Yet it is also hard to live\\
-the householder’s life;\\
-there is pain\\
-when associating with those\\
-among whom one feels no companionship.\\
-To wander uncommitted\\
-is always going to be difficult;\\
-why not renounce\\
-the deluded pursuit of pain?
+302\\
+O viață a renunțării\\
+este greu de trăit;\\
+încercările sale\\
+sunt greu de socotit drept\\
+plăcute.\\
+Totuși, și viața de gospodar\\
+este greu de trăit;\\
+e durere asocierea\\
+cu cei alături de care\\
+insul nu consideră că merge în tovărășie.\\
+Pribegitul fără angajament\\
+va fi mereu greu;\\
+de ce să nu renunțați\\
+la căutarea înșelătoare a\\
+durerii?
 
-303.\\
-A traveller possessed of virtue,\\
-disciplined and committed to right conduct,\\
-will be received with honour;\\
-such a one can be recognized\\
-and can travel with confidence.
+303\\
+Un călător înzestrat cu virtute,\\
+disciplinat și dedicat\\
+conduitei corecte,\\
+va fi primit cu onoare;\\
+un asemenea ins poate fi\\
+recunoscut și poate călători\\
+încrezător.
 
-304.\\
-The good are seen even from afar.\\
-They shine like the distant\\
-Himalayan peaks.\\
-The untrained simply disappear\\
-like arrows shot into the dark.
+304\\
+Cei buni se deslușesc încă\\
+de la distanță.\\
+Strălucesc asemenea\\
+vârfurilor îndepărtate din Himalaya.\\
+Cei neinstruiți dispar pur și simplu\\
+asemenea săgeților trase în\\
+întuneric.
 
-305.\\
-With enthusiasm establish yourself\\
-in solitary practice –\\
-sit alone, sleep alone, walk alone\\
-and delight as if secluded in the forest.
+305\\
+Consacrați-vă cu entuziasm\\
+cultivării solitudinii –\\
+ședeți singuri, dormiți\\
+singuri, umblați singuri\\
+și delectați-vă ca și cum\\
+ați fi izolați în pădure.

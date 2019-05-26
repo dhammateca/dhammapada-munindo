@@ -1,78 +1,84 @@
-The Mind
+Mintea
 ========
 
-33.\\
-Just as a fletcher shapes an arrow,\\
-so the wise develop the mind,\\
-so excitable, uncertain\\
-and difficult to control.
+33\\
+La fel cum un făurar\\
+dă forma unei săgeți,\\
+așa cei înțelepți își cultivă mintea,\\
+atât de excitabilă, incertă\\
+și dificil de controlat.
 
-34.\\
-As a fish which on being dragged\\
-from its home in the water\\
-and tossed on dry land\\
-will thrash about,\\
-so will the heart tremble\\
-when withdrawing from the current of Mara.
+34\\
+Asemeni unui pește care\\
+fiind târât din casa-i în apă\\
+și aruncat pe teren uscat\\
+se va zbate,\\
+astfel inima va tremura\\
+când se retrage din curentul Marei.
 
-35.\\
-The active mind is difficult to tame,\\
-flighty and wandering wherever it wills:\\
-taming it is essential,\\
-leading to the joy of well-being.
+35\\
+Mintea activă e dificil de domesticit,\\
+zburdalnică și hoinărind oriunde vrea;\\
+domesticirea ei e esențială,\\
+călăuzind la bucuria bunăstării.
 
-36.\\
-The protected and guarded mind\\
-leads to ease of being.\\
-Though this mind is subtle,\\
-elusive and difficult to see,\\
-one who is alert should tend\\
-and watch over it.
+36\\
+Mintea protejată și păzită\\
+duce la trai ușor.\\
+Cu toate că mintea aceasta e subtilă,\\
+evazivă și dificil de văzut,\\
+insul care e atent\\
+trebuie să se îngrijească\\
+și să vegheze asupra ei.
 
-37.\\
-Wandering far and wide on its own,\\
-without form,\\
-the mind lies in the heart-cavern within.\\
-To bring it under control\\
-is to be freed from the bonds of ignorance.
+37\\
+Hoinărind de capul ei de colo colo,\\
+fără formă,\\
+mintea se așterne în caverna inimii din interior.\\
+Să pui stăpânire pe ea\\
+e eliberare din înlănțuirea ignoranței.
 
-38.\\
-In one whose mind is unsteady,\\
-whose heart is not prepared\\
-with true teachings,\\
-whose faith is not matured,\\
-the fullness of wisdom is not yet manifest.
+38\\
+În acela a cărui minte e nestatornică,\\
+a cărui inimă e nepregătită\\
+cu învățături adevărate,\\
+a cărui credință nu e matură,\\
+plenitudinea înțelepciunii încă nu se manifestă.
 
-39.\\
-There is no fear\\
-if the heart is uncontaminated\\
-by the passions\\
-and the mind is free from ill-will.\\
-Seeing beyond good and evil,\\
-one is awake.
+39\\
+Nu există frică\\
+dacă inima e necontaminată\\
+de pasiuni\\
+și mintea e liberă de voință bolnavă.\\
+Văzând dincolo de bine și rău,\\
+acela e treaz.
 
-40.\\
-Seeing this body to be as fragile as a clay vessel,\\
-and fortifying the heart like a city wall,\\
-one can confront Mara\\
-with the weapon of insight.\\
-Having the advantage of non-attachment,\\
-one protects what has already been gained.
+40\\
+Văzând acest corp fragil\\
+ca un vas de lut,\\
+și fortificând inima precum zidurile unui oraș,\\
+insul o poate confrunta pe Mara\\
+cu arma introspecției.\\
+Având avantajul detașării,\\
+insul protejează ce a fost deja dobândit.
 
-41.\\
-Certainly this body will soon lie lifeless:\\
-cast aside on the ground,\\
-devoid of consciousness\\
-and as useless as a burnt-out log.
+41\\
+Cu siguranță acest corp\\
+curând va sta fără viață\\
+aruncat\\
+încolo pe sol\\
+vidat de conștiință\\
+și la fel de inutil\\
+precum un butuc ars.
 
-42.\\
-More than a thief,\\
-more than an enemy,\\
-a misdirected heart\\
-brings one to harm.
+42\\
+Mai mult decât un hoț,\\
+Mai mult decât un inamic,\\
+o inimă îndrumată greșit\\
+îl duce pe ins la necaz.
 
-43.\\
-Neither mother, father\\
-nor any member of a family\\
-can give you the blessings generated\\
-by your own well-directed heart.
+43\\
+Nici mama, nici tata\\
+nici un alt membru al unei familii\\
+nu îți poate oferi binecuvântările\\
+generate de propria inimă bine îndrumată.

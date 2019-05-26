@@ -1,96 +1,98 @@
-Hell
-====
+Iad
+===
 
-306.\\
-Lying leads to sorrow.\\
-Concealing wrong actions\\
-leads to sorrow.\\
-These two acts of deceit\\
-take beings\\
-to the same state of woe.
+306\\
+Minciuna duce la supărare.\\
+Tăinuirea acțiunilor greșite\\
+duce la supărare.\\
+Aceste două fapte de înșelăciune\\
+duc ființele\\
+la aceeași stare de suferință.
 
-307.\\
-Those who wear\\
-the robes of a renunciate,\\
-yet harbour evil\\
-and are unrestrained,\\
-go to a sorrowful state.
+307\\
+Cei ce poartă robele\\
+unuia care a renunțat,\\
+dar nutresc rău și sunt nestăpâniți\\
+trec la o stare de supărare.
 
-308.\\
-It would be better for a renunciate\\
-to swallow molten iron\\
-than to live on offerings\\
-deceitfully gained.
+308\\
+Celui ce a renunțat\\
+i-ar fi mai bine înghițind fier topit\\
+decât să trăiască din ofrande\\
+dobândite necinstit.
 
-309.\\
-Accumulated sadness,\\
-troubled sleep,\\
-blame and remorse\\
-are an adulterer’s lot.
+309\\
+Tristețea adunată,\\
+somnul neliniștit,\\
+vinovăția și remușcarea\\
+sunt povara celui adulter.
 
-310.\\
-Brief is the delight\\
-of the fearful adulterous couple,\\
-for only painful consequences can follow.
+\\
+310\\
+Scurtă este încântarea\\
+cuplului adulter temător\\
+căci nu pot urma decât consecințe dureroase.
 
-311.\\
-As *kusa* grass wrongly grasped\\
-wounds the hand that holds it,\\
-so the renunciate life\\
-hurts those who train in it wrongly.
+\\
+311\\
+Așa cum iarba kusa prinsă nepotrivit\\
+rănește mâna celui ce o apucă,\\
+la fel traiul unuia care a renunțat\\
+îi rănește pe cei ce se instruiesc nepotrivit.
 
-312.\\
-Acts carelessly done,\\
-practices corruptly performed,\\
-the holy life lived perversely,\\
-lead to little or no benefit at all.
+312\\
+Faptele comise nechibzuit,\\
+practicile făcute greșit,\\
+viața sfântă trăită cu depravare\\
+aduc puține beneficii sau niciunul.
 
-313.\\
-If anything is to be done,\\
-do it well,\\
-with energy and devotion;\\
-the renunciate life led heedlessly\\
-just stirs up the dust.
+313\\
+Dacă aveți ceva de făcut,\\
+faceți-o cum se cuvine,\\
+cu energie și dedicare;\\
+viața unuia ce a renunțat\\
+trăită fără băgare de seamă\\
+nu face decât să ridice praful.
 
-314.\\
-Hurtful deeds\\
-are better left undone\\
-as they always lead to remorse.\\
-Harmless deeds are better done\\
-as no regret will follow.
+314\\
+Faptele dureroase\\
+mai bine rămân nefăcute\\
+deoarece conduc mereu la remușcări.\\
+Faptele inofensive\\
+e mai bine să fie făcute\\
+deoarece nu vor fi urmate de regrete.
 
-315.\\
-As a border city must be carefully protected,\\
-so guard yourself both within and without;\\
-build your defences wisely and in time.\\
-If these things are not attended to\\
-at the right moment,\\
-great sadness will come.
+315\\
+Așa cum un oraș de graniță trebuie apărat cu grijă,\\
+păziți-vă atât pe dinăuntru, cât și pe dinafară;\\
+clădiți-vă o apărare cu înțelepciune și în timp.\\
+Dacă nu vă îngrijiți la momentul cuvenit de aceste lucruri,\\
+va urma o tristețe mare.
 
-316.\\
-Distorted views\\
-which create feelings of shame\\
-about that which is not shameful,\\
-or indifference\\
-to that which is shameful,\\
-can cause beings to descend into hell.
+316\\
+Percepțiile denaturate\\
+care nasc stări de rușine\\
+față de ceea ce nu e rușinos\\
+sau indiferență\\
+față de ceea ce e rușinos\\
+pot duce la coborârea ființelor în iad.
 
-317.\\
-Distorted views\\
-which create feelings of fear\\
-towards what is not actually threatening,\\
-or indifference in the face\\
-of that which is threatening,\\
-can cause beings to descend into hell.
+317\\
+Percepțiile denaturate\\
+care nasc stări de teamă\\
+față de ceea ce nu e amenințător\\
+sau indiferență în fața\\
+a ceea ce e amenințător\\
+pot duce la coborârea ființelor în iad.
 
-318.\\
-Distorted views\\
-which give rise to seeing right as wrong\\
-and wrong as right,\\
-cause beings to disintegrate.
+318\\
+Percepțiile denaturate\\
+care duc la vederea binelui drept rău\\
+și a răului drept bine\\
+duc la dezintegrarea ființelor.
 
-319.\\
-The clear seeing which knows\\
-that which is flawed as flawed\\
-and that which is pure as pure\\
-can lead beings to transcend misery.
+319\\
+Cel ce vede limpede\\
+și distinge ceea ce e greșit drept greșit\\
+și ceea ce e pur drept pur\\
+poate duce ființele dincolo de obidă.

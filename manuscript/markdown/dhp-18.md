@@ -1,133 +1,115 @@
-Pollution
-=========
+Impurități
+==========
 
-235.\\
-Resembling a withered leaf,\\
-you have the messenger\\
-of death at your side.\\
-Although a long journey lies ahead,\\
-you have still made no provision.
+235\\
+Asemenea unei frunze veștejite,\\
+aveți mesagerul morții alături.\\
+Chiar dacă urmează o călătorie lungă,\\
+încă nu ați făcut nicio provizie.\\
+ \\
+236\\
+Grăbiți-vă întru cultivarea înțelepciunii;\\
+clădiți-vă o insulă.\\
+Scăpați de întinare și pângărire,\\
+veți deveni ființe nobile.
 
-236.\\
-Hasten to cultivate wisdom;\\
-make an island for yourself.\\
-Freed from stain and defilement,\\
-you will enter noble being.
+237\\
+A sosit momentul să vă aflați\\
+în prezența domniei sale, Moartea.\\
+Nu e răgaz de odihnă în timpul călătoriei,\\
+și totuși ce provizii v-ați făcut?
 
-237.\\
-It is time for you to come\\
-into the presence of the Lord of Death.\\
-There is no time for rest on this journey,\\
-yet what provision have you made?
+238\\
+Grăbiți-vă întru cultivarea înțelepciunii;\\
+clădiți-vă o insulă.\\
+Scăpați de întinare și pângărire,\\
+veți fi eliberați de naștere și de moarte.
 
-238.\\
-Hasten to cultivate wisdom;\\
-make an island for yourself.\\
-Freed from stain and defilement,\\
-you are released from birth and death.
+239\\
+Treptat, treptat,\\
+clipă cu clipă,\\
+înțelepții își înlătură propriile impurități\\
+așa cum un aurar înlătură zgura.
 
-239.\\
-Gradually, gradually,\\
-a moment at a time,\\
-the wise remove their own impurities\\
-as a goldsmith removes the dross.
+240\\
+Așa cum fierul e distrus de rugina pe care o produce,\\
+cei care înfăptuiesc rău sunt corodați de propriile acțiuni.
 
-240.\\
-As iron is destroyed by the rust it produces,\\
-so those who perform evil are corroded\\
-by their own action.
+241\\
+Lipsa studiului duce la uitarea învățăturilor;\\
+neglijarea atrage stricăciunea căminului;\\
+lenea duce la pierderea frumuseții;\\
+nebăgarea de seamă nimicește atenția.
 
-241.\\
-Lack of study leads\\
-to forgetting the teachings;\\
-neglect spoils the home;\\
-laziness leads to loss of beauty;\\
-heedlessness ruins attention.
+242\\
+Desfrânarea\\
+îi înjosește pe cei ce o practică;\\
+zgârcenia îi înjosește pe cei ce ar putea dărui.\\
+Faptele care își înjosesc făptuitorul\\
+sunt cu siguranță întinări.
 
-242.\\
-Sexual misconduct\\
-diminishes those who perform it;\\
-stinginess diminishes\\
-those who could give.\\
-Acts that diminish their doer\\
-are stains indeed.
+243\\
+Însă cea mai gravă întinare dintre toate este ignoranța.\\
+Purificați-vă de aceasta și veți fi liberi.
 
-243.\\
-But the worst stain of all\\
-is ignorance.\\
-Be purified of this\\
-and you are free.
+244\\
+Viața pare să fie ușoară\\
+pentru insul căruia îi lipsește rușinea,\\
+care este la fel de neobrăzat precum o cioară,\\
+arogant, agresiv, băgăreț și viciat.
 
-244.\\
-Life is apparently easy\\
-for one who lacks shame,\\
-who is as impudent as a crow,\\
-who is arrogant, aggressive,\\
-intrusive and corrupt.
+245\\
+Viața nu este ușoară pentru cei ce au simțul rușinii,\\
+cei modești, cu mintea pură și detașați,\\
+drepți și contemplativi.
 
-245.\\
-Life is not easy for those\\
-who have a sense of shame,\\
-who are modest,\\
-pure-minded and detached,\\
-morally upright and reflective.
+246-247\\
+Insul care distruge viața, nu ține seama de adevăr,\\
+iresponsabil sexual,\\
+care ia ceea ce de drept nu îi aparține\\
+și se lasă fără băgare de seamă în voia drogurilor\\
+își distruge tocmai rădăcinile propriei vieți.
 
-246-247.\\
-Whoever destroys life,\\
-disregards truth,\\
-is sexually irresponsible,\\
-takes what is not rightfully theirs,\\
-and heedlessly indulges in drugs\\
-destroys the very roots\\
-of their own life.
+248\\
+Insul cufundat în bunătate\\
+trebuie să știe cele ce urmează:\\
+lipsa stăpânirii de sine e dezastruoasă.\\
+Nu permiteți lăcomiei și purtării nepotrivite să vă prelungească agonia.
 
-248.\\
-Whoever is intent on goodness\\
-should know this:\\
-a lack of self-restraint is disastrous.\\
-Do not allow greed and misconduct\\
-to prolong your misery.
+249-250\\
+Pe oameni îi inspiră să fie generoși\\
+credința lor și încrederea.\\
+Dacă ajungem nemulțumiți de ceea ce ni s-a dat,\\
+meditația noastră va fi stăpânită de aflicțiune mintală nesfârșită;\\
+însă dacă suntem liberi de această nemulțumire, meditația noastră e plină de pace.
 
-249-250.\\
-People are inspired to be generous\\
-according to their faith and trust.\\
-If we become discontented\\
-with what we have been given,\\
-our meditation will be filled\\
-with endless mental affliction;\\
-but if we are free from this discontent,\\
-our meditation is full of peace.
+251\\
+Nu există niciun alt foc precum voluptatea,\\
+nicio obstrucție precum ura,\\
+nicio capcană precum decepția\\
+și nicio vâltoare precum râvna.
 
-251.\\
-There is no fire like lust,\\
-no obstruction like hatred,\\
-no trap like delusion,\\
-and no vortex like craving.
+252\\
+E ușor a vedea defectele altora,\\
+însă e nevoie de curaj pentru a privi la cele proprii.\\
+Cum se întâmplă cu pleava,\\
+un ins ar putea alege neajunsurile altora,\\
+în timp ce și le ascunde pe cele proprii;\\
+așa cum un vânător șiret\\
+s-ar putea ascunde de pradă.\\
+ \\
+253\\
+Cei ce sunt mereu în căutarea defectelor altora –\\
+prejudecățile lor sporesc și se află departe de libertate.
 
-252.\\
-It is easy to see the faults of others,\\
-but it takes courage to look at one’s own.\\
-As with chaff,\\
-one might winnow others’ shortcomings\\
-while hiding one’s own;\\
-as a stealthy hunter\\
-might conceal himself from his prey.
+254\\
+În aer nu se găsesc drumuri,\\
+nu există o altă liberare în afară de Cale.\\
+Majoritatea se dedau proliferării,\\
+de care Cei Treziți sunt eliberați.
 
-253.\\
-Those who always look for\\
-the faults of others –\\
-their corruptions increase\\
-and they are far from freedom.
-
-254.\\
-No tracks are found in the air,\\
-there is no liberation apart from the Way.\\
-Most people tend to indulge in proliferation,\\
-from which Awakened Ones are free.
-
-255.\\
-No tracks are found in the air,\\
-there is no liberation apart from the Way.\\
-There are no conditioned things\\
-that are permanent,\\
-and yet the Buddhas remain unperturbed.
+255\\
+În aer nu se găsesc drumuri,\\
+nu există o altă liberare în afară de Cale.\\
+Nu există lucruri condiționate care să fie permanente,\\
+și totuși Budhha rămân neperturbați.

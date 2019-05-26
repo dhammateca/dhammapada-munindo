@@ -1,96 +1,106 @@
-The Thousands
-=============
+Miile
+=====
 
-100.\\
-A single word of truth\\
-which calms the mind\\
-is better to hear than a thousand\\
-irrelevant words.
+100\\
+Un singur cuvânt cu adevăr\\
+care calmează mintea\\
+e mai bine a fi auzit decât o mie\\
+de cuvinte irelevante.
 
-101.\\
-A single verse of truth\\
-which calms the mind\\
-is better to hear than a thousand\\
-irrelevant verses.
+101\\
+Un singur vers cu adevăr\\
+care calmează mintea\\
+e mai bine a fi auzit decât o mie\\
+de versuri irelevante.
 
-102.\\
-Reciting a single verse of truth\\
-which calms the mind\\
-is better than reciting\\
-a hundred meaningless verses.
+102\\
+Recitarea unui singur vers cu adevăr\\
+care calmează mintea\\
+e mai bine decât a recita\\
+o mie de versuri fără sens.
 
-103.\\
-One might defeat alone in battle\\
-a thousand-thousand men,\\
-but one who gains self-mastery\\
-is by far the greater hero.
+103\\
+Cineva ar putea învinge singur\\
+în bătălie\\
+o mie de mii de oameni,\\
+dar cine dobândește\\
+stăpânirea de sine\\
+e de departe eroul superior.
 
-104-105.\\
-Self-mastery is the supreme victory –\\
-much more to be valued\\
-than winning control over others.\\
-It is a victory\\
-that no other being whatsoever\\
-can distort or take away.
+104-105\\
+Stăpânirea de sine e victoria supremă –\\
+de prețuit mai mult\\
+decât dobândirea controlului\\
+asupra altora.\\
+E o victorie pe care nicio altă ființă\\
+nu o poate distorsiona sau înlătura.
 
-106.\\
-To honour, even for a single moment,\\
-one who has attained self-mastery\\
-is of greater merit\\
-than making countless offerings\\
-to those who are unworthy.
+106\\
+A onora, chiar și pentru un singur moment,\\
+pe unul care a ajuns la stăpânirea de sine\\
+e un merit mai mare\\
+decât a aduce ofrande nenumărate\\
+celor nevrednici.
 
-107.\\
-To honour, even for a single moment,\\
-one who has attained self-mastery\\
-is of greater benefit than a hundred years\\
-spent habitually performing ceremonies\\
-based on wrong understanding.
+107\\
+A onora, chiar și pentru un singur moment,\\
+pe unul care a ajuns la măiestria sinelui\\
+e mai prielnic decât o mie de ani\\
+petrecuți îndeplinind formal ceremonii\\
+bazate pe înțelegere greșită.
 
-108.\\
-Even if one should spend\\
-an entire year\\
-making gestures of offering\\
-for the sake of self-gain,\\
-all this is not worth one quarter the value\\
-of offering veneration to a noble being.
+108\\
+Chiar și dacă insul petrece\\
+un an întreg\\
+aducând ofrande\\
+de dragul câștigului propriu,\\
+toate acestea nu vor cântări un sfert din valoarea\\
+aducerii de venerare unei ființe nobile.
 
-109.\\
-For one who always honours and respects\\
-those of greater years\\
-there are four blessings:\\
-long life, beauty, happiness and strength.
+109\\
+Pentru insul care îi onorează și respectă mereu\\
+pe aceia cu ani mulți\\
+există patru binecuvântări:\\
+viață lungă, frumusețe, fericire și putere.
 
-110.\\
-A single day lived\\
-with conscious intention and virtue\\
-is of greater value than a hundred years\\
-lived devoid of discipline and right restraint.
+110\\
+O singură zi trăită\\
+cu intenție conștientă și virtute\\
+e de valoare\\
+mai mare decât o sută de ani trăiți\\
+privați de disciplină și abținere dreaptă.
 
-111.\\
-A single day lived\\
-with conscious intention and wisdom\\
-is of greater value than a hundred years\\
-lived devoid of discipline and wisdom.
+111\\
+O singură zi trăită\\
+cu intenție conștientă și înțelepciune\\
+e de valoare\\
+mai mare decât o sută de ani trăiți\\
+privați de disciplină și înțelepciune.
 
-112.\\
-A single day lived\\
-with conscious intention and profound effort\\
-is of greater value than a hundred years\\
-lived in lazy passivity.
+112\\
+O singură zi trăită\\
+cu intenție conștientă și efort temeinic\\
+e de valoare\\
+mai mare decât o sută de ani\\
+trăiți în pasivitate leneșă.
 
-113.\\
-A single day lived in awareness\\
-of the transient nature of life\\
-is of greater value than a hundred years\\
-lived unaware of birth and death.
+113\\
+O singură zi trăită\\
+în conștiința tranzienței naturii vieții\\
+e de valoare\\
+mai mare decât o sută de ani trăiți\\
+trăiți inconștient de naștere și moarte.
 
-114.\\
-A single day lived awake to the undying state\\
-is of greater value than a hundred years\\
-lived without recognizing deathlessness.
+114\\
+O singură zi trăită\\
+trezit la starea nemuririi\\
+e de valoare\\
+mai mare decât o sută de ani\\
+trăiți fără a recunoaște nemurirea.
 
-115.\\
-A single day lived awake to profound truth\\
-is of greater value than a hundred years\\
-lived unawakened.
+115\\
+O singură zi trăită\\
+trezit la adevărul profund\\
+e de valoare\\
+mai mare decât o sută de ani\\
+trăiți netrezit.

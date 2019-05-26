@@ -1,14 +1,14 @@
 # Epub and Mobi
 # =============
 
-bookid: "ADhammapadaForContemplation"
+bookid: "DhammapadaPentruContemplatie"
 
-date: 2017-02-05
-version: v3.0
+date: 2019-05-26
+version: v1.0
 
-lang: en
+lang: ro
 
-section_names: [ "Chapter", "", "" ]
+section_names: [ "Capitol", "", "" ]
 
 show_chapter_name: true
 chapter_number_format: roman
@@ -17,17 +17,17 @@ show_toc_chapter_numbers: true
 
 toc:
   - { the_matter: frontmatter }
-  - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
+  - { title: "Coperta", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
   #- { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
-  - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
-  - { title: "Preface to the first edition (2000)", src: 'preface-1st.md' }
-  - { title: "Preface to the second edition (2006)", src: 'preface-2nd.md' }
-  - { title: "Preface to the third edition (2010)", src: 'preface-3rd.md' }
-  - { title: "Preface to the fourth edition (2015)", src: 'preface-4th.md' }
-  - { title: "Preface to the fifth edition (2017)", src: 'preface-5th.md' }
+  - { title: "Cuprins", src: 'toc.xhtml.erb', target: epub, type: toc }
+  - { title: "Prefața primei ediții (2000)", src: 'preface-1st.md' }
+  - { title: "Prefața ediției a doua (2006)", src: 'preface-2nd.md' }
+  - { title: "Prefața ediției a treia (2010)", src: 'preface-3rd.md' }
+  - { title: "Prefața ediției a patra (2015)", src: 'preface-4th.md' }
+  - { title: "Prefața ediției a cincea (2017)", src: 'preface-5th.md' }
   - introduction.md
-  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
-  - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
+  - { title: "Titlu", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
+  - { title: "Cuprins", src: 'toc.xhtml.erb', target: mobi, type: toc }
   - { the_matter: mainmatter, section_number: 1 }
   - dhp-1.md
   - dhp-2.md
@@ -56,7 +56,6 @@ toc:
   - dhp-25.md
   - dhp-26.md
   - { the_matter: backmatter }
-  - note-on-the-text.md
   - copyright.md.erb
 
 cover_image: "cover.jpg"
@@ -83,4 +82,3 @@ book_atag: "<a href='http://fsbooks.org/' target='_blank'>www.fsbooks.org</a>"
 #  - edt: Other Lastname, Name
 #  - cov: Lastname, Name
 #  - trl: Lastname, Name
-

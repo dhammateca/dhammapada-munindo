@@ -1,69 +1,69 @@
-The Self
-========
+Sinele
+======
 
-157.\\
-If we hold ourselves dear,\\
-then we maintain careful self-regard\\
-both day and night.
+157\\
+Dacă ținem la noi,\\
+atunci ne dăm în propria paza\\
+atât ziua, cât și noaptea.
 
-158.\\
-It is wise\\
-to set ourselves right\\
-before instructing others.
+158\\
+E înțelept\\
+a ne îndrepta pe sine\\
+înainte de a-i instrui pe alții.
 
-159.\\
-One’s own self is the hardest to discipline.\\
-You should act as you teach:\\
-tame yourself\\
-before trying to tame others.
+159\\
+Sinele insului e cel mai greu de disciplinat.\\
+Să faci ceea ce spui:\\
+îmblânzește-te\\
+înainte de a încerca să-i îmblânzești pe alții.
 
-160.\\
-Truly it is ourselves\\
-that we depend upon;\\
-how could we really\\
-depend upon another?\\
-When we reach the state\\
-of self-reliance\\
-we find a rare refuge.
+160\\
+Sincer suntem noi\\
+cei de care depindem;\\
+cum am putea realmente\\
+să depindem de altcineva?\\
+Când ajungem\\
+la starea de autosuficiență\\
+găsim un refugiu rar.
 
-161.\\
-As a diamond can cut through\\
-the stone that once housed it,\\
-so your own evil can grind you down.
+161\\
+La fel cum diamantul poate tăia\\
+prin piatra ce odată l-a adăpostit,\\
+astfel și propriul rău te poate măcina.
 
-162.\\
-Committed evil-doers\\
-behave towards themselves\\
-like their own worst enemies.\\
-They are like creepers\\
-that strangle the trees\\
-which support them.
+162\\
+Răufăcătorii dedicați\\
+se comportă față de ei\\
+precum inamicii lor cei mai mari.\\
+Sunt precum târâtoarele\\
+care strangulează copacii\\
+care le suștin.
 
-163.\\
-It is easy to do that which is\\
-of no real benefit to oneself,\\
-but it is difficult indeed to do that\\
-which is truly beneficial and good.
+163\\
+E ușor a face ce e fără de real folos\\
+pentru sine,\\
+dar e firește dificil să faci\\
+ceea ce e într-adevăr benefic și bun.
 
-164.\\
-Like the bamboo\\
-which destroys itself as it bears fruit,\\
-so fools harm themselves\\
-by holding to wrong views\\
-and deriding those worthy ones\\
-who live in harmony with the Way.
+164\\
+Precum bambusul\\
+care se distruge dând roade,\\
+la fel se rănesc și cei necopți\\
+având perspective greșite\\
+și luându-i în derâdere pe cei vrednici\\
+care trăiesc în armonie cu Calea.
 
-165.\\
-By ourselves we do evil\\
-and by ourselves we are made impure.\\
-By ourselves we avoid evil\\
-and by ourselves we are made pure.\\
-The matter of purity is our own affair.\\
-No other can be responsible.
+165\\
+Noi înșine facem rău\\
+și noi înșine suntem făcuți impuri.\\
+Noi înșine evităm răul\\
+și noi înșine suntem făcuți puri.\\
+Aspectul purității e grija noastră.\\
+Nimeni altcineva nu poate fi responsabil.
 
-166.\\
-Knowing the Way for oneself,\\
-walk it thoroughly.\\
-Do not allow the needs of others,\\
-however demanding,\\
-to bring about distraction.
+166\\
+Cunoscând Calea pentru sine,\\
+parcurge-o temeinic.\\
+Nu îngădui nevoilor altora,\\
+oricât de insistente,\\
+să ivească confuzie.

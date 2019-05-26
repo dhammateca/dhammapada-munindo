@@ -1,99 +1,97 @@
-Affection
+Afecțiune
 =========
 
-209.\\
-There are those who pursue\\
-that which should be avoided\\
-and avoid that which\\
-should be pursued.\\
-Caught up in the senses\\
-they lose their way,\\
-and later envy\\
-those who know the truth.
+209\\
+Sunt ființe pe urma\\
+a ceea ce ar trebui evitat\\
+și care evită\\
+ceea ce ar trebui urmărit.\\
+Cufundați în simțuri își pierd calea,\\
+iar mai apoi îi invidiază\\
+pe cei ce cunosc adevărul.
 
-210.\\
-To lose the company\\
-of those with whom\\
-one feels at home is painful,\\
-to be associated with those\\
-whom you dislike is even worse;\\
-so do not abandon yourselves\\
-either to the company of those\\
-with whom you feel at home\\
-or those whom you dislike.
+210\\
+A pierde compania celor\\
+alături de care ne simțim în largul nostru\\
+e dureros,\\
+iar asocierea cu cei care ne displac\\
+e chiar mai neplăcută;\\
+așadar, nu vă lăsați\\
+nici în voia companiei\\
+celor cu care vă simțiți în largul vostru,\\
+nici celor care vă displac.
 
-211.\\
-Beware of the attachment\\
-that springs from fondness,\\
-for separation from those\\
-one holds dear is painful,\\
-while if you take sides\\
-neither for nor against fondness,\\
-there will be no ties that bind.
+211\\
+Fiți prevăzători cu atașamentul\\
+ce izvorăște din afecțiune,\\
+căci despărțirea de cei dragi e dureroasă;\\
+atunci când nu vă aliniați\\
+nici de partea, nici împotriva afecțiunii,\\
+nu vor exista legături care să constrângă.
 
-212.\\
-From endearment springs grief.\\
-From endearment springs fear of loss.\\
-Yet, if one is free from endearment\\
-there is no grief\\
-so how could there be any fear?
+212\\
+Din îndrăgire izvorăște mâhnirea.\\
+Din îndrăgire izvorăște teama de a pierde.\\
+Iar dacă insul nu îndrăgește\\
+nu există mâhnire –\\
+cum ar putea fi prezentă, astfel, teama?
 
-213.\\
-Becoming lost in affection\\
-brings sorrow;\\
-becoming lost in affection\\
-brings fear.\\
-Being free from affection\\
-means sorrow ceases,\\
-so how could there be any fear?
+213\\
+A se pierde în afecțiune\\
+aduce supărare;\\
+a se pierde în afecțiune\\
+aduce teamă.\\
+Eliberarea de afecțiune\\
+înseamnă încetarea supărării –\\
+cum ar putea fi prezentă, astfel, teama?
 
-214.\\
-Becoming lost in enjoyment\\
-brings sorrow;\\
-becoming lost in enjoyment\\
-brings fear.\\
-Being free in your experience of enjoyment\\
-means sorrow ceases,\\
-so how could there be any fear?
+214\\
+A se pierde în desfătare\\
+aduce supărare;\\
+a se pierde în desfătare\\
+aduce teamă.\\
+A se elibera de resimțirea oricărei desfătări\\
+înseamnă încetarea supărării –\\
+cum ar putea fi prezentă, astfel, teama?
 
-215.\\
-Becoming lost in lust\\
-brings sorrow;\\
-becoming lost in lust\\
-brings fear.\\
-Not being lost in lust\\
-means sorrow ceases,\\
-so how could there be any fear?
+215\\
+A se pierde în voluptate\\
+aduce supărare;\\
+a se pierde în voluptate\\
+aduce teamă.\\
+A nu se pierde în voluptate\\
+înseamnă încetarea supărării –\\
+cum ar putea fi prezentă, astfel, teama?
 
-216.\\
-Becoming lost in craving\\
-brings sorrow;\\
-becoming lost in craving\\
-brings fear.\\
-Being free from craving\\
-means sorrow ceases,\\
-so how could there be any fear?
+216\\
+A se pierde în râvnă\\
+aduce supărare;\\
+a se pierde în râvnă\\
+aduce teamă.\\
+Eliberarea de râvnă  \\
+înseamnă încetarea supărării –\\
+cum ar putea fi prezentă, astfel, teama?
 
-217.\\
-Naturally held dear are those\\
-who live with right action\\
-and have found the Way,\\
-and through insight\\
-have become established in the truth.
+217\\
+Cei îndrăgiți în mod firesc\\
+sunt cei ce trăiesc săvârșind fapte drepte\\
+și au descoperit Calea,\\
+iar prin introspecție\\
+au devenit consacrați adevărului.
 
-218.\\
-Those who long\\
-for the undefinable,\\
-with hearts filled with inspiration,\\
-whose minds are freed\\
-from sensual longing,\\
-are called\\
-“those bound for freedom”.
+218\\
+Cei care tânjesc\\
+după ceea ce nu se poate defini,\\
+cu inimile pline de inspirație,\\
+cu mințile eliberate\\
+de râvna senzuală,\\
+se numesc\\
+„cei destinați eliberării”.
 
-219-220.\\
-Just as family and friends\\
-joyfully welcome home\\
-loved ones returned from afar,\\
-so their own good deeds\\
-welcome those who have done them\\
-as they go from this life to the next.
+219-220\\
+Așa cum familia și prietenii\\
+îi întâmpină cu bucurie\\
+pe cei dragi ce se întorc acasă de departe,\\
+la fel propriile lor fapte bune\\
+îi întâmpină pe cei care le-au făcut\\
+atunci când trec de la viața aceasta la următoarea.

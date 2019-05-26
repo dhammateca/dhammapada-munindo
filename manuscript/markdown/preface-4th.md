@@ -1,26 +1,11 @@
-Preface
+Prefața
 =======
+*ediției a patra (2015)*
 
-*To the fourth edition (2015)*
-
-We continue to receive requests for copies of this *Dhammapada for
-Contemplation* and are grateful to our good friends in Malaysia for
-making a reprint possible.
-
-As well as using resources mentioned above in earlier editions, in
-adjusting some verses I have had the benefit of translations by Bhikkhu
-Thanissaro and Acharya Buddharakkhita (see
-[www.accesstoinsight.org](http://accesstoinsight.org)).
-
-For those who are interested, these are the verses I have significantly
-reworked: 1, 2, 36, 78, 95, 123, 141, 183, 198, 223, 231, 232, 233, 244,
-331, 332, 333, 383, 384, 421. Otherwise, the text of this rendering of
-the Dhammapada remains mostly the same as previous editions.
-
-As before, I encourage readers to refer to other versions of the
-Dhammapada, particularly those mentioned as resources for this book.
+Primim în continuare cereri pentru copii ale *Dhammapada pentru Contemplație* și suntem recunoscători bunilor prieteni din Malaezia care au făcut posibilă retipărirea. Pe lângă folosirea resurselor menționate mai sus în edițiile anterioare, în adaptarea unor versuri am beneficiat de traducerile lui Bhikkhu Thanissaro și Acharya Buddharakkhita (vezi [www.accesstoinsight.org](http://accesstoinsight.org)). Pentru cei interesați, acestea sunt versurile pe care le-am modificat considerabil: 1, 2, 36, 78, 95, 123, 141, 183, 198, 223, 231, 232, 233, 244, 331, 332, 333, 383, 384, 421. În rest, textul acestei interpretări a Dhammapada rămâne în mare parte la fel ca ediția anterioară.
+La fel ca mai devreme, încurajez cititorii să consulte și alte versiuni ale Dhammapada, în mod special cele menționate ca resurse pentru această carte.
 
 Bhikkhu Munindo\\
-Aruna Ratanagiri Buddhist Monastery\\
+Mănăstirea Budistă Aruna Ratanagiri\\
 Northumberland, UK\\
-Winter Retreat 2015
+Asceza de iarnă 2015

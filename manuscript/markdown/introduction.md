@@ -1,31 +1,8 @@
-Introduction
+Introducere
 ============
 
-The book you hold is a sparkling basket of light, full of illumination
-of the human situation. It is a version of the Buddhist classic, the
-Dhammapada; not a line-by-line translation but a free rendering that
-aims to communicate the living spirit of the text, unencumbered by rigid
-adherence to formal exactness. The intention of the author, Ajahn
-Munindo, was to present a contemporary version of the text for readers
-to use in their investigation of the Way. Hence its title is *A
-Dhammapada for Contemplation*, indicating that the work is not to be
-considered as a definitive translation, but as an invitation to
-encounter and to contemplate the Buddha’s wisdom.
-
-It is a life of contemplation that is the context for this rendering.
-Ajahn Munindo, who was born in New Zealand, was ordained as a bhikkhu or
-monk of the Theravadan tradition in Thailand twenty-five years ago. He
-now resides in a small spiritual community in Northumberland, England,
-where he lives under a code of discipline going back to the Buddha,
-which encourages simplicity and right attention. Transplanting this
-Buddhist monastic way of life from the eastern countries where Buddhism
-has been long established into the West has meant a process of
-translation involving language, practices and rituals, such that the
-Theravadan tradition, along with others, is now established within the
-Western cultural ambience. *A Dhammapada for Contemplation*, therefore,
-although a free rendering by scholarly standards, aims to communicate a
-precise translation of values — the spiritual values of the living
-Buddhist tradition.
+Cartea pe care o ai în față e un coș strălucitor de lumină, iluminând din plin condiția umană. E o versiune a operei clasice budiste Dhammapada; nu e o traducere mot à mot ci o interpretare liberă cu scopul de a comunica spiritul viu al textului, nestânjenită de atașamentul de exactitatea formală. Intenția autorului, Ajahn Munindo, a fost să prezinte o versiune contemporană a textului pe care cititorii să o folosească în investigația lor a Căii. Prin urmare titlul este „Dhammapada pentru Contemplație”, sugerând că lucrarea nu trebuie considerată o traducere categorică ci o invitație la a întâlni și contempla înțelepciunea lui Buddha.
+O viață a contemplării e contextul acestei interpretări. Ajahn Munindo, născut în Noua Zeelandă, a fost hirotonisit ca bhikku sau călugăr al tradiției Theravada din Thailanda în urmă cu douăzeci și cinci de ani. El s-a stabilit acum într-o mică comunitate spirituală în Northumberland, Anglia, unde trăiește sub auspiciul unui cod de disciplină care își are originile din vremurile lui Buddha, care încurajează simplitatea și atenția corectă. Transplantarea acestui mod de viață budist monahal din Orient – unde budismul e adânc înrădăcinat – în Vest a însemnat un proces de traducere care implică limbaj, obiceiuri și ritualuri, astfel încât tradiția Theravada, alături de altele, e acum stabilită în ambientul cultural al Occidentului. Prin urmare, „Dhammapada pentru Contemplație”, cu toate că e o interpretare liberă, după standarde scolastice, urmărește să comunice o traducere precisă a valorilor – valorile spirituale ale tradiției budiste vii.
 
 Thomas Jones Ph.D.\\
-Cambridge, April 2000
+Cambridge, aprilie 2000

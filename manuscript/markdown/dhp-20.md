@@ -1,120 +1,120 @@
-The Path
-========
+Calea
+=====
 
-273.\\
-The Eightfold Path\\
-is the most honourable way,\\
-the Four Noble Truths\\
-the most honourable utterance,\\
-freedom from craving\\
-the most honourable state,\\
-and the all-seeing Buddha\\
-the most honourable being.
+273\\
+Calea cu opt brațe\\
+este cel mai onorabil drum,\\
+cele patru Adevăruri Nobile\\
+cele mai onorabile enunțuri,\\
+libertatea de râvnă\\
+cea mai onorabilă stare,\\
+iar Buddha atotvăzător\\
+cea mai onorabilă ființă.
 
-274.\\
-This is the only Way;\\
-there is no other\\
-that leads to clear seeing.\\
-Follow this Way\\
-and Mara becomes disoriented.
+274\\
+Aceasta este singura Cale;\\
+nu există alta\\
+care să conducă la o viziune limpede.\\
+Urmați această Cale,\\
+iar Mara va fi dezorientată.
 
-275.\\
-If you walk the path\\
-you will arrive at the end of suffering.\\
-Having beheld this myself,\\
-I proclaim the Way\\
-which removes all thorns.
+275\\
+Dacă umblați pe cale\\
+veți ajunge la capătul suferinței.\\
+Văzând chiar eu acest lucru,\\
+proclam Calea care înlătură\\
+toți spinii.
 
-276.\\
-The Awakened Ones\\
-can but point the way;\\
-we must make the effort ourselves.\\
-Those who reflect wisely\\
-and enter the path are freed\\
-from the fetters of Mara.
+276\\
+Cei Treziți\\
+nu pot decât să indice calea;\\
+efortul trebuie să îl depunem noi înșine.\\
+Cei ce reflectă cu înțelepciune\\
+și intră pe cale sunt eliberați\\
+din lanțurile Marei.
 
-277.\\
-“All conditioned things\\
-are impermanent”;\\
-when we see this with insight\\
-we will tire of this life of suffering.\\
-This is the Way to purification.
+277\\
+„Toate lucrurile condiționate sunt\\
+nepermanente”;\\
+când vom vedea acest lucru prin introspecție\\
+ne vom sătura de această viață a suferinței.\\
+Aceasta este Calea către purificare.
 
-278.\\
-“All conditioned things\\
-are inherently lacking”;\\
-when we see this with insight\\
-we will tire of this life of suffering.\\
-This is the Way to purification.
+278\\
+„Toate lucrurile condiționate\\
+sunt incomplete”;\\
+când vom vedea acest lucru prin introspecție\\
+ne vom sătura de această viață a suferinței.\\
+Aceasta este Calea către purificare.
 
-279.\\
-“All realities are devoid\\
-of an abiding self”;\\
-when we see this with insight\\
-we will tire of this life of suffering.\\
-This is the Way to purification.
+279\\
+„Toate realitățile\\
+sunt lipsite de un sine statornic”;\\
+când vom vedea acest lucru prin introspecție\\
+ne vom sătura de această viață a suferinței.\\
+Aceasta este Calea către purificare.
 
-280.\\
-If, while still young and strong,\\
-you procrastinate\\
-when you should act,\\
-indulging in heedless fantasies,\\
-the Way and its wisdom\\
-will never become clear.
+280\\
+Dacă, pe când încă sunteți țineri și în putere,\\
+amânați atunci când trebuie să acționați,\\
+dedându-vă fanteziilor fără băgare de seamă,\\
+Calea și înțelepciunea sa\\
+nu vor fi niciodată limpezi.
 
-281.\\
-Be careful in what you say,\\
-restrained in what you think,\\
-and impeccable in how you act.\\
-Purifying these three ways of behaviour\\
-will take you along the Way of the sages.
+281\\
+Vorbiți cu atenție,\\
+gândiți cu abținere,\\
+și acționați fără cusur.\\
+Purificarea acestor trei mijloace de a vă purta\\
+vă va conduce pe Calea înțelepților.
 
-282.\\
-To contemplate life leads to wisdom;\\
-without contemplation wisdom wanes.\\
-Recognize how wisdom\\
-is cultivated and destroyed,\\
-and walk the Way of increase.
+282\\
+A contempla viața conduce la înțelepciune;\\
+înțelepciunea apune fără contemplare.\\
+Recunoașteți cum se cultivă\\
+și distruge înțelepciunea\\
+și umblați pe Calea înălțării.
 
-283.\\
-Clear away the forests of craving,\\
-but do not attack and destroy the trees.\\
-Clear the entire forest of craving\\
-and you will see the Way to freedom.
+283\\
+Îndepărtați pădurile râvnei,\\
+însă fără a ataca și distruge copacii.\\
+Îndepărtați întreaga pădure a râvnei\\
+și veți vedea Calea către libertate.
 
-284.\\
-So long as sexual attraction\\
-has not been cleared away,\\
-if even the slightest trace remains,\\
-the heart is held in dependence\\
-like a suckling calf to a cow.
+284\\
+Cât timp atracția sexuală\\
+nu a fost îndepărtată\\
+și dacă nu dispare chiar și\\
+cea mai mică urmă,\\
+inima rămâne dependentă\\
+asemenea unui vițel alăptat\\
+de vacă.
 
-285.\\
-Remove the bonds of affection\\
-as one might pluck an autumn flower.\\
-Walk the Way that leads to liberation,\\
-explained by the Awakened One.
+285\\
+Îndepărtați înlănțuirile afecțiunii\\
+așa cum ați smulge o floare de toamnă.\\
+Umblați pe Calea care conduce către liberare,\\
+elucidată de Cel Trezit.
 
-286.\\
-It is a fool\\
-who indulges in dreaming\\
-about the most comfortable\\
-place to live, saying,\\
-“Here it will be warm,\\
-there it will be cool” –\\
-unaware of impending death.
+286\\
+Un necopt\\
+este cel ce se dedă visării\\
+privind cel mai comod loc\\
+de trai, spunând\\
+„Aici va fi cald,\\
+acolo va fi răcoare” –\\
+inconștient de iminența morții.
 
-287.\\
-As a flood could sweep away\\
-an entire village,\\
-those who are caught up\\
-in relationships and possessions\\
-will be carried away by death.
+287\\
+Așa cum o inundație\\
+poate mătura din cale un sat întreg,\\
+cei cufundați în relații și posesii\\
+vor fi purtați de moarte.
 
 288-289.\\
-As you approach death\\
-none of your fond attachments\\
-will protect you.\\
-See this, then with wise restraint\\
-and unwavering effort,\\
-hasten to clear your path to liberation.
+Pe când vă apropiați de moarte\\
+nu vă va proteja niciunul\\
+dintre atașamentele îndrăgite.\\
+Vedeți asta, iar apoi,\\
+Cu abținere înțeleaptă și efort de neclintit,\\
+grăbiți-vă să vă croiți drumul către liberare.

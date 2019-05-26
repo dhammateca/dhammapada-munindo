@@ -1,179 +1,173 @@
-Craving
-=======
+Râvnă
+=====
 
-334.\\
-Uncontained craving\\
-grows like a creeper in the forest.\\
-Being lost in it,\\
-one leaps around\\
-like a tree-dwelling ape looking for fruit.
+334\\
+Râvna descătușată\\
+crește precum o târâtoare în pădure.\\
+Pierdut în aceasta,\\
+insul saltă dintr-o parte într-alta\\
+precum o maimuță de copac în căutare de fructe.
 
-335.\\
-Fostering habits\\
-such as craving and clinging\\
-is like fertilizing noxious weeds.
+335\\
+Cultivarea obiceiurilor\\
+precum râvna și agățatul\\
+se aseamănă cu fertilizarea buruienilor nocive.
 
-336.\\
-As water falls from a lotus leaf,\\
-so sorrow drops from those\\
-who are free of toxic craving.
+336\\
+Așa cum apa cade de pe o frunză de lotus,\\
+la fel supărarea se desprinde de cei\\
+eliberați de râvnă toxică.
 
-337.\\
-Torrential rains can destroy crops.\\
-Mara can destroy you.\\
-Thus I implore you –\\
-dig up the roots of all craving.\\
-I give you my blessing\\
-for this work.
+337\\
+Ploile torențiale pot distruge recolte.\\
+Mara te poate distruge pe tine.\\
+Astfel te implor –\\
+smulge toate rădăcinile râvnei.\\
+Te binecuvântez\\
+pentru lucrarea aceasta.
 
-338.\\
-If the roots are not removed,\\
-a tree grows again and again;\\
-suffering returns to us\\
-so long as craving remains.
+338\\
+Dacă rădăcinile nu sunt smulse,\\
+un copac crește iar și iar;\\
+suferința se întoarce la noi\\
+cât timp râvna rămâne.
 
-339.\\
-When the streams\\
-of sensual pleasure run strong\\
-they can generate\\
-a torrent of longing.
+339\\
+Când șiroaiele plăcerii senzuale se reped\\
+pot provoca un torent de năzuință.
 
-340.\\
-The streams of craving flow everywhere.\\
-The wild creeper of craving\\
-spreads and entangles.\\
-Discerning this creeper with insight,\\
-dig it out.
+340\\
+Șiroaiele râvnei curg peste tot.\\
+Târâtoarea sălbatică a râvnei\\
+se întinde și prinde în mreje.\\
+Prin discernerea târâtoarei cu introspecție,\\
+îndepărtați-o.
 
-341.\\
-Beings naturally experience pleasure;\\
-but when pleasure is\\
-contaminated with craving,\\
-not releasing it creates frustration\\
-and tedious suffering follows.
+341\\
+Ființele resimt plăcerea natural;\\
+însă când plăcerea este contaminată cu râvnă\\
+a nu o elibera duce la frustrare,\\
+iar suferința searbădă urmează.
 
-342.\\
-Trapped in habits of craving,\\
-people panic\\
-like rabbits caught in a snare.\\
-Their reactions reinforce the pain\\
-of their entrapment.
+342\\
+Captivi în obiceiurile râvnei,\\
+oamenii intră în panică\\
+asemenea iepurilor prinși într-o cursă.\\
+Reacțiile lor fortifică durerea\\
+capturării.
 
-343.\\
-Trapped in habits of craving,\\
-people panic\\
-like rabbits caught in a snare.\\
-If you wish to be free from entrapment,\\
-craving itself must be removed.
+343\\
+Captivi în obiceiurile râvnei,\\
+oamenii intră în panică\\
+asemenea iepurilor prinși într-o cursă.\\
+Dacă doriți să vă eliberați de capturare,\\
+râvna însăși trebuie eliminată.
 
-344.\\
-There are those who have begun\\
-on the path to freedom,\\
-yet out of desire return to being chained.
+344\\
+Sunt inși care au început să parcurgă\\
+calea către libertate,\\
+însă pe seama dorinței se întorc la înlănțuire.
 
-345-346.\\
-Wisdom sees\\
-that being held behind bars\\
-or bound by chains\\
-is less limiting\\
-than infatuation with possessions\\
-and obsession with relationships.\\
-These bonds, though not so obvious,\\
-are strong and hold us down.\\
-To renounce attachment\\
-to the world of the senses\\
-is to be free from the prison of craving.
+345-346\\
+Prin înțelepciune,\\
+devine limpede că a fi ținut după gratii\\
+sau a fi înlănțuit\\
+nu limitează la fel de tare\\
+precum dragostea față de posesii\\
+și obsesia față de relații.\\
+Aceste legături, deși nu la fel de evidente,\\
+sunt puternice și ne rețin.\\
+A renunța la atașamentul\\
+față de lumea simțurilor\\
+înseamnă a fi eliberat din temnița râvnei.
 
-347.\\
-Like a spider caught in its own web,\\
-a being enwrapped in sensual craving\\
-must be released from its own longings\\
-before it can walk free.
+347\\
+Asemenea unui păianjen prins în propria pânză,\\
+o ființă învăluită în râvnă senzuală\\
+trebuie eliberată de propriile năzuințe\\
+înainte ca aceasta să poată umbla nestingherită.
 
-348.\\
-Let go of the past.\\
-Let go of the future.\\
-Let go of the present.\\
-With a heart that is free,\\
-cross over to that shore\\
-which is beyond suffering.
+348\\
+Renunțați la trecut.\\
+Renunțați la viitor.\\
+Renunțați la prezent.\\
+Cu o inimă liberă,\\
+traversați pe țărmul\\
+aflat dincolo de suferință.
 
-349.\\
-The bonds\\
-of deluded habits and craving\\
-are strengthened\\
-by one who lets the mind heedlessly dwell\\
-on objects of desire.
+349\\
+Legăturile obiceiurilor și râvnei amăgitoare\\
+sunt întărite când insul își lasă mintea,\\
+fără băgare de seamă, să stăruie asupra\\
+obiectelor dorinței.
 
-350.\\
-But one who delights\\
-in calming sensual thoughts,\\
-who is alert\\
-and cultivates awareness\\
-of the loathsome\\
-aspects of the body,\\
-breaks through craving\\
-and unbinds deluded habits.
+350\\
+Însă cel ce se delectează\\
+în potolirea gândurilor senzuale,\\
+alert și cultivând conștiința\\
+privind aspectele respingătoare ale corpului,\\
+se eliberează de râvnă\\
+și dezleagă obiceiurile amăgitoare.
 
-351.\\
-No more need is there to re-form\\
-for those who have reached the goal;\\
-they are free from fear and longing.\\
-The thorns of existence have been removed.
+351\\
+Nu mai este nevoie de îndreptare\\
+pentru cei care și-au atins țelul;\\
+sunt eliberați de teamă și năzuință.\\
+Spinii existenței au fost scoși.
 
-352.\\
-A master is one who has let go\\
-of all craving and clinging to the world;\\
-who has seen\\
-the truth beyond forms,\\
-yet is possessed of\\
-a profound knowledge of words.\\
-Such a great being can be said\\
-to have finished the task.
+352\\
+Un călăuzitor este acela care a renunțat\\
+la toată râvna și la a se agăța de lume;\\
+care a văzut\\
+adevărul dincolo de forme,\\
+și totuși posedă o cunoaștere desăvârșită\\
+a cuvintelor.\\
+Se poate spune despre o asemenea ființă măreață\\
+că și-a îndeplinit sarcina.
 
-353.\\
-I do not declare another as my teacher,\\
-since by myself have I arrived\\
-at the wisdom that overcomes all,\\
-realizes all, renounces all.\\
-Wholly liberated am I from all craving.
+353\\
+Nu declar pe altcineva drept dascălul meu,\\
+căci de unul singur am ajuns\\
+la înțelepciunea care depășește totul,\\
+înțelege totul, renunță la tot.\\
+Sunt pe deplin eliberat de toată râvna.
 
-354.\\
-The gift of truth excels all gifts.\\
-The flavour of reality\\
-surpasses all flavours.\\
-The delight of truth\\
-transcends all delights.\\
-Freedom from craving\\
-is the end of all suffering.
+354\\
+Darul adevărului este cel mai mare dintre daruri.\\
+Savoarea realității\\
+depășește orice alte savoare.\\
+Încântarea adevărului\\
+transcende toate încântările.\\
+Eliberarea de râvnă\\
+pune capăt tuturor suferințelor.
 
-355.\\
-Riches mostly ruin the foolish,\\
-but not those who seek the beyond.\\
-Just as they dismiss\\
-the well-being of others and cause harm,\\
-fools also ruin themselves.
+355\\
+Bogățiile îi ruinează mai ales pe cei necopți,\\
+însă nu și pe cei ce caută eternitatea.\\
+La fel cum nu se gândesc la binele celorlalți\\
+și provoacă rău,\\
+necopții se distrug și pe sine.
 
-356.\\
-Weeds cause damage in fields.\\
-Lust causes damage to all beings.\\
-Support those who are free from lust;\\
-the gift will yield great benefit.
+356\\
+Buruienile provoacă stricăciuni pe câmpuri.\\
+Voluptatea provoacă stricăciuni tuturor ființelor.\\
+Sprijiniți-i pe cei eliberați de voluptate;\\
+darul va duce la roade însemnate.
 
-357.\\
-Weeds cause damage in fields.\\
-Hatred causes damage to all beings.\\
-Support those who are free from hatred;\\
-the gift will yield great benefit.
+357\\
+Buruienile provoacă stricăciuni pe câmpuri.\\
+Ura provoacă stricăciuni tuturor ființelor.\\
+Sprijiniți-i pe cei eliberați de ură;\\
+darul va duce la roade însemnate.
 
-358.\\
-Weeds cause damage in fields.\\
-Confusion causes damage to all beings.\\
-Support those who are free from confusion;\\
-the gift will yield great benefit.
+358\\
+Buruienile provoacă stricăciuni pe câmpuri.\\
+Confuzia provoacă stricăciuni tuturor ființelor.\\
+Sprijiniți-i pe cei eliberați de confuzie;\\
+darul va duce la roade însemnate.
 
-359.\\
-Weeds cause damage in fields.\\
-Envy causes damage to all beings.\\
-Encourage those who are free from envy\\
-and there will be great benefit.
+359\\
+Buruienile provoacă stricăciuni pe câmpuri.\\
+Invidia provoacă stricăciuni tuturor ființelor.\\
+Sprijiniți-i pe cei eliberați de invidie,\\
+iar roadele vor fi însemnate.

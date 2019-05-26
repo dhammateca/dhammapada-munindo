@@ -1,113 +1,113 @@
-The Buddha
-==========
+Buddha
+======
 
-179.\\
-The Buddha’s perfection is complete;\\
-there is no more work to be done.\\
-No measure is there for his wisdom;\\
-no limits are there to be found.\\
-In what way could he be distracted\\
-from truth?
+179\\
+Perfecțiunea lui Buddha e completă;\\
+nu mai există muncă de făcut.\\
+Nu există măsură pentru înțelepciunea lui;\\
+limitele sunt de negăsit.\\
+În ce fel poate fi el distras\\
+de la adevăr?
 
-180.\\
-The Buddha’s perfection is complete;\\
-in him there is no craving\\
-that could drag him down.\\
-No measure is there for his wisdom;\\
-no limits are there to be found.\\
-In what way could he be distracted\\
-from truth?
+180\\
+Perfecțiunea lui Buddha e completă;\\
+în el nu există râvnă\\
+care să-l poată trage în jos.\\
+Nu există măsură pentru înțelepciunea lui;\\
+limitele sunt de negăsit.\\
+În ce fel poate fi el distras\\
+de la adevăr?
 
-181.\\
-Celestial beings treasure\\
-the Awakened Ones\\
-who have fully seen the Way,\\
-who are devoted to meditation\\
-and delight in the peace\\
-of renunciation.
+181\\
+Ființele celeste îi prețuiesc\\
+pe Cei Treziți\\
+care au văzut Calea pe deplin,\\
+care sunt devotați meditației\\
+și se încântă în pacea\\
+renunțării.
 
-182.\\
-It is not easy to be born as a human being\\
-and to live this mortal life.\\
-It is not easy to have the opportunity\\
-to hear Dhamma\\
-and rare for a Buddha to arise.
+182\\
+Nu e ușor să fii născut ca ființă omenească\\
+și să trăiești această viață de muritor.\\
+Nu e ușor a găsi oportunitatea\\
+de a auzi Dhamma\\
+și e rar ca un Buddha să apară.
 
-183.\\
-Refrain from doing evil,\\
-cultivate that which is good,\\
-purify the heart.\\
-This is the Way of the Awakened Ones.
+183\\
+Înfrână-te de la a face rău,\\
+cultivă ceea ce e bun,\\
+purifică-ți inima.\\
+Aceasta e Calea Celor Treziți.
 
-184.\\
-A renunciate does not\\
-oppress anyone.\\
-Patient endurance\\
-is the ultimate asceticism.\\
-Profound liberation,\\
-say the Buddhas,\\
-is the supreme goal.
+184\\
+Cel care a renunțat\\
+nu oprimă pe nimeni.\\
+Răbdarea perseverentă\\
+e ascetismul superior.\\
+Eliberarea profundă,\\
+spun Buddha,\\
+e țelul suprem.
 
-185.\\
-Not insulting, not harming,\\
-cultivating restraint,\\
-with respect for the training,\\
-modesty in eating and contentment\\
-with one’s dwelling place,\\
-devotion to mindful intent:\\
-this is the teaching of the Buddha.
+185\\
+A nu insulta, a nu vătăma,\\
+cultivarea abținerii,\\
+cu respect față de disciplină,\\
+mâncatul cu modestie și împăcarea\\
+cu locul unde insul sălășluiește,\\
+devotament față de intenția lucidă:\\
+aceasta e învățătura lui Buddha.
 
-186-187.\\
-Not in great wealth\\
-is there contentment,\\
-nor in sensual pleasure,\\
-gross or refined.\\
-But in the extinction of craving\\
-is joy to be found\\
-by a disciple of the Buddha.
+186-187\\
+Nu în avere mare\\
+e împăcarea cu sine,\\
+nici în plăceri senzuale,\\
+grosolane sau rafinate.\\
+Dar în dispariția râvnei\\
+e de găsit bucuria\\
+de către un discipol al lui Buddha.
 
-188-189.\\
-To many places beings withdraw\\
-to escape from fear:\\
-to mountains, forests,\\
-parklands and gardens;\\
-sacred places as well.\\
-But none of these places\\
-offer true refuge,\\
-none of them can free us from fear.
+188-189\\
+Spre multe locuri ființele se retrag\\
+pentru a scăpa de frică:\\
+în munți, păduri,\\
+câmpii și grădini;\\
+la fel și locuri sfinte.\\
+Dar niciunul dintre aceste locuri\\
+nu oferă refugiu adevărat,\\
+niciunul dintre ele nu ne poate elibera de frică.
 
-190-191.\\
-One who finds refuge in the Buddha\\
-in the Dhamma and in the Sangha\\
-sees with penetrating insight:\\
-suffering, its cause, its release\\
-and the Way leading to true freedom.
+190-191\\
+Insul care-și găsește refugiul în Buddha\\
+în Dhamma și în Sangha\\
+vede cu introspecție penetrantă:\\
+suferința, cauza ei, izbăvirea ei\\
+și Calea care duce spre libertate adevărată.
 
-192.\\
-The Buddha, the Dhamma, the Sangha:\\
-these are the true refuge;\\
-these are supreme;\\
-these lead to Liberation.
+192\\
+Buddha, Dhamma și Sangha:\\
+acestea sunt refugiile adevărate;\\
+acestea sunt supreme;\\
+acestea duc la Eliberare.
 
-193.\\
-It is hard to find\\
-a being of great wisdom;\\
-rare are the places\\
-in which they are born.\\
-Those who surround them\\
-when they appear\\
-know good fortune indeed.
+193\\
+E greu a găsi\\
+o ființă cu înțelepciune măreață;\\
+rare sunt locurile\\
+în care se naște.\\
+Cei aflați în preajma sa\\
+când apare\\
+au într-adevăr noroc.
 
-194.\\
-Blessed is the arising of a Buddha;\\
-blessed is the revealing of the Dhamma;\\
-blessed is the concord of the Sangha;\\
-delightful is harmonious communion.
+194\\
+Binecuvântată e apariția unui Buddha;\\
+binecuvântată e revelarea Dhammei;\\
+binecuvântată e concordia Sanghăi;\\
+încântătoare e comuniunea armonioasă.
 
-195-196.\\
-Immeasurable is the benefit\\
-obtained from honouring those\\
-who are pure and beyond fear.\\
-Beings who have found freedom\\
-from sorrow and grieving\\
-are worthy of honour.
+195-196\\
+Nemăsurat e beneficiul\\
+obținut din cinstirea celor\\
+ce sunt puri și dincolo de frică.\\
+Ființele care au descoperit eliberarea\\
+de supărare și mâhnire\\
+sunt demne de onoare.

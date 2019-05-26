@@ -1,100 +1,100 @@
-The Elephant
-============
+Elefantul
+=========
 
-320.\\
-As an elephant in battle\\
-withstands arrows,\\
-I choose to endure\\
-verbal attacks from others.
+320\\
+Așa cum un elefant în luptă\\
+ține piept săgeților,\\
+aleg să îndur\\
+atacurile verbale din partea celorlalți.
 
-321.\\
-Well-trained horses\\
-can be trusted in crowds,\\
-and are to be mounted by kings.\\
-Individuals who have trained\\
-themselves to withstand abuse\\
-will be valuable everywhere.
+321\\
+Caii dresați cum se cuvine\\
+pot fi de încredere în mulțimi\\
+și sunt destinați a fi călăriți de regi.\\
+Indivizii care s-au instruit să îndure abuzul\\
+vor fi de prețuit pretutindeni.
 
-322.\\
-Impressive are horses or elephants\\
-which have been well-trained;\\
-but more impressive\\
-are individuals\\
-who have tamed themselves.
+322\\
+Caii sau elefanții dresați cum se cuvine\\
+sunt impresionați;\\
+însă mult mai impresionați\\
+sunt indivizii care s-au îmblânzit.
 
-323.\\
-It is not on a well-trained animal\\
-that you can ride\\
-to the land of liberation;\\
-it is only on the vehicle\\
-of a well-trained self\\
-that you will arrive there.
+323\\
+Nu pe un animal bine dresat\\
+veți putea călări către tărâmul liberării;\\
+numai purtați de un autocontrol bine instruit\\
+veți ajunge acolo.
 
-324.\\
-When captured and bound and in rut,\\
-a wild elephant is restless, uncontrollable,\\
-not eating its food.\\
-It longs for its native forest home.
+324\\
+Când este capturat, legat și în călduri,\\
+elefantul sălbatic este agitat,\\
+de necontrolat și nu își mănâncă mâncarea.\\
+Tânjește după pădurea nativă de unde se trage.
 
-325.\\
-It is a fool who overeats\\
-and indulges in laziness,\\
-then, feeling drowsy,\\
-wallows in sleep like an oversized pig;\\
-this forebodes perpetual suffering.
+325\\
+Necopt e acela care mănâncă în exces\\
+și se dedă lenei, iar apoi,\\
+simțindu-se vlăguit,\\
+se lăfăie dormind asemenea unui\\
+porc supradimensionat;\\
+acest lucru prevestește suferința perpetuă.
 
-326.\\
-My mind which was once\\
-wild and unruly,\\
-wandering as it wished,\\
-I hold now in check\\
-as the mahout with his hook\\
-controls an elephant in rut.
+326\\
+Mintea mea, cândva sălbatică și de nestăpânit –\\
+acum o controlez\\
+așa cum un conducător de elefanți\\
+controlează cu cârligul său\\
+un elefant în călduri.
 
-327.\\
-As an elephant\\
-resolutely drags itself from a swamp,\\
-uplift yourself with the inspiration\\
-of cultivated attention.
+327\\
+Așa cum un elefant\\
+se urnește cu hotărâre dintr-o mlaștină,\\
+înălțați-vă având drept inspirație\\
+atenția cultivată.
 
-328.\\
-If you find a good companion,\\
-of integrity and wisdom,\\
-you will overcome all dangers\\
-in joyous and caring company.
+328\\
+Dacă găsești un companion de nădejde,\\
+integru și înțelept,\\
+vei depăși toate pericolele\\
+în companie veselă și grijulie.
 
-329.\\
-But if you cannot find\\
-a good companion\\
-of integrity and wisdom,\\
-then, like a king departing\\
-a conquered land,\\
-or an elephant wandering\\
-alone in the forest,\\
-walk alone.
+329\\
+Însă dacă nu poți găsi\\
+un companion de nădejde,\\
+integru și înțelept,\\
+atunci, asemenea unui rege\\
+ce lasă în urmă un tărâm părăsit\\
+sau unui elefant ce rătăcește de unul\\
+singur în pădure,\\
+înaintează singur.
 
-330.\\
-A harmless solitary life\\
-lived at ease,\\
-like that of the lone elephant in the forest,\\
-is better than\\
-the unnecessary company of fools.
+330\\
+O viață singuratică inofensivă\\
+trăită în tihnă,\\
+asemenea celei a elefantului retras în pădure,\\
+este mai bună\\
+decât compania zădarnică a necopților.
 
-331.\\
-The timely company of friends is goodness.\\
-Fewness of needs is goodness.\\
-Having accumulated virtue\\
-at life’s end is goodness.\\
-Having dispensed\\
-with all suffering is goodness.
+331\\
+Compania potrivită a prietenilor înseamnă\\
+bunătate.\\
+Puținătatea nevoilor înseamnă bunătate.\\
+Strângerea de virtute\\
+până la sfârșitul vieții înseamnă bunătate.\\
+A se lipsi\\
+de toată suferința înseamnă bunătate.
 
-332.\\
-Rightly serving one’s parents is goodness.\\
-Supporting renunciates is goodness.\\
-Honouring awakened beings is goodness.
+332\\
+A-și deservi cu cinste părinții înseamnă\\
+bunătate.\\
+Ajutorarea celor ce renunță înseamnă bunătate.\\
+Cinstirea ființelor trezite înseamnă bunătate.
 
-333.\\
-Sustaining virtue into old age is goodness.\\
-Sustaining sound faith is goodness.\\
-The arising of insight is goodness.\\
-Renouncing evil is goodness.
+333\\
+Păstrarea virtuții până la bătrânețe\\
+înseamnă bunătate.\\
+Păstrarea unei credințe autentice înseamnă\\
+bunătate.\\
+Apariția introspecției înseamnă bunătate.\\
+Renunțarea la rău înseamnă bunătate.

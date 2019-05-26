@@ -1,21 +1,11 @@
-Preface
+Prefața
 =======
+*ediției a doua (2006)*
 
-*To the second edition (2006)*
-
-Over five years have passed since we printed the first edition of this
-*Dhammapada for Contemplation*. I am happy that the first edition was
-met with so much appreciation. Now, on the occasion of celebrating 25
-years since the establishing of Aruna Ratanagiri Monastery here on
-Harnham Hill, it is a joy to have an opportunity for a reprint. It has
-also been an opportunity to re-craft some of the verses.
-
-I am indebted to Thanissaro Bhikkhu for his new translation of *The
-Dhammapada* (Dhamma Dana Pubs. Barre, MA.1998) which was usefully
-consulted. I am most grateful to all those who offered comments on this
-new edition.
+Au trecut peste cinci ani de când am tipărit prima ediție a acestei *Dhammapada pentru Contemplație*. Sunt fericit că prima ediție a fost primită cu atât de multă apreciere. Acum, cu ocazia aniversării a 25 de ani de la înființarea Mănăstirii Aruna Ratanagiri aici la Harnham Hill, este o bucurie că există oportunitatea unei retipăriri. A fost, de asemenea, o oportunitate de a rafina unele versuri.
+Îi sunt îndatorat lui Thanissaro Bhikkhu pentru noua lui traducere a Dhammapadei (Dhamma Dana Pubs. Barre, MA. 1998) a cărei consultare s-a dovedit utilă. Sunt foarte recunoscător tuturor celor care au oferit comentarii pe marginea acestei noi ediții.
 
 Bhikkhu Munindo\\
 Aruna Ratanagiri Buddhist Monastery\\
 Northumberland, UK\\
-16th April 2006
+16 aprilie 2006

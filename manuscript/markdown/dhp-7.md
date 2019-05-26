@@ -1,72 +1,72 @@
-The Awakened One
-================
+Cei treziți
+===========
 
-90.\\
-There is no tension\\
-for those who have completed their journey\\
-and have become free\\
-from the distress of all binding ties.
+90\\
+Nu există tensiune\\
+pentru cei care au ajuns la capătul călătoriei\\
+și au fost eliberați\\
+din dezastrul tuturor legăturilor încolăcite.\\
+91\\
+Atenți la nevoile călătoriei,\\
+cei pe calea conștiinței,\\
+precum lebedele, curg ușor,\\
+lăsând în urmă vechile locuri de odihnă.
 
-91.\\
-Alert to the needs of the journey,\\
-those on the path of awareness,\\
-like swans, glide on,\\
-leaving behind their former resting places.
+92\\
+La fel ca păsările care nu lasă urme în aer\\
+sunt cei a căror minte nu se agață\\
+de tentațiile care le sunt oferite.\\
+Centrul atenției lor e starea de eliberare fără reper,\\
+care pentru ceilalți e imperceptibilă.
 
-92.\\
-Just like birds that leave no tracks in the air,\\
-there are those whose minds do not cling\\
-to temptations that are offered to them.\\
-Their focus is the signless state of liberation,\\
-which to others is indiscernible.
+93\\
+Sunt cei care\\
+sunt liberi de toate piedicile;\\
+nu se îngrijorează pentru mâncare.\\
+Centrul atenției lor e starea de eliberare\\
+fără reper.\\
+La fel ca păsările care, zburând prin aer,\\
+fără urme se duc pe cale.
 
-93.\\
-There are those\\
-who are free from all obstructions;\\
-they do not worry about food.\\
-Their focus is the signless state of liberation.\\
-Like birds flying through the air,\\
-trackless they move on their way.
+94\\
+Precum caii bine-antrenați de stăpâni\\
+sunt cei care și-au domesticit simțurile;\\
+având inimile eliberate\\
+de mândrie și poluare\\
+generează încântare atotcuprinzătoare.
 
-94.\\
-Like horses well-trained by their owners\\
-are those who have rightly tamed their senses;\\
-having freed their hearts\\
-from pride and pollution\\
-they generate all-pervading delight.
+95\\
+Sunt acei care descoperă\\
+că pot abandona complet\\
+reacțiile confuze\\
+și să devină răbdători precum pământul;\\
+nemișcați de ură,\\
+nezdruncinați precum un stâlp,\\
+neperturbați precum un iaz limpede și liniștit.
 
-95.\\
-There are those who discover\\
-they can completely abandon\\
-confused reactions\\
-and become patient as the earth;\\
-unmoved by anger,\\
-unshaken as a pillar,\\
-unperturbed as a clear and quiet pool.
+96\\
+Cei care ajung\\
+la starea de libertate perfectă\\
+prin înțelegere dreaptă\\
+sunt neperturbați\\
+în corp, vorbire și minte.\\
+Ei rămân nemișcați\\
+de vicisitudinile vieții.
 
-96.\\
-Those who arrive\\
-at the state of perfect freedom\\
-through right understanding\\
-are unperturbed\\
-in body, speech or mind.\\
-They remain unshaken\\
-by life’s vicissitudes.
+97\\
+Cei care cunosc increatul,\\
+care sunt liberi și statorniciți,\\
+care au abandonat toată râvna,\\
+sunt ființele cele mai vrednice.
 
-97.\\
-Those who know the uncreated,\\
-who are free and stilled,\\
-who have discarded all craving,\\
-are the most worthy beings.
+98\\
+Fie într-o pădure,\\
+un oraș sau ținut deschis,\\
+încântător e sălașul\\
+unuia care acum e deplin liber.
 
-98.\\
-Whether in a forest,\\
-a town or open country,\\
-delightful is the dwelling place\\
-of one now fully free.
-
-99.\\
-Beings free from addiction to sensual pleasures\\
-know a unique form of delight.\\
-They seek quiet in forest retreats\\
-which worldly beings would avoid.
+99\\
+Ființele libere de dependența de plăceri senzuale\\
+cunosc o formă unică de încântare.\\
+Ele caută liniște în refugiile pădurii\\
+pe care muritorii de rând le-ar evita.

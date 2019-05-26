@@ -1,79 +1,77 @@
-Happiness
-=========
+Fericire
+========
 
-197.\\
-While in the midst\\
-of those who hate,\\
-to dwell free from hating\\
-is happiness indeed.
+197\\
+Cât timp te afli printre\\
+cei ce urăsc\\
+și sălășluiești fără de ură –\\
+aceasta este cu adevărat fericirea.
 
-198.\\
-While in the midst\\
-of those who are troubled,\\
-to dwell free from trouble\\
-is happiness indeed.
+198\\
+Cât timp te afli printre\\
+cei ce sunt tulburați\\
+și sălășluiești fără de tulburare –\\
+aceasta este cu adevărat fericirea.
 
-199.\\
-While in the midst\\
-of those who are greedy,\\
-to dwell free from greed\\
-is happiness indeed.
+199\\
+Cât timp te afli printre\\
+cei ce sunt lacomi\\
+și sălășluiești fără de lăcomie –\\
+aceasta este cu adevărat fericirea.
 
-200.\\
-We dwell happily,\\
-free from anxiety;\\
-like radiant beings\\
-in celestial realms\\
-we rejoice in delight.
+200\\
+Sălășluim fericit,\\
+fără angoasă;\\
+ca ființele radioase\\
+din tărâmurile celeste\\
+sărbătorim încântarea.
 
-201.\\
-Victory leads to hatred,\\
-for the defeated suffer.\\
-The peaceful live happily,\\
-beyond victory and defeat.
+201\\
+Victoria duce la ură\\
+căci înfrânții suferă.\\
+Cei pașnici trăiesc fericiți,\\
+dincolo de victorie și înfrângere.
 
-202.\\
-There is no fire like lust,\\
-no distress like hatred,\\
-no pain like the burden of attachment,\\
-no joy like the peace of liberation.
+202\\
+Nu există niciun alt foc precum voluptatea,\\
+nicio altă suferință precum ura,\\
+nicio altă durere precum povara atașării,\\
+nicio altă bucurie precum pacea adusă de liberare.
 
-203.\\
-Hunger is the greatest affliction,\\
-conditionality the greatest\\
-source of despair.\\
-The wise, seeing this as it is,\\
-realize liberation, the greatest joy.
+203\\
+Pofta e cea mai mare nenorocire,\\
+condiționarea e cea mai mare sursă de disperare.\\
+Cei înțelepți, văzând lucrurile ca atare, înțeleg că liberarea e cea mai mare bucurie.
 
-204.\\
-A healthy mind is the greatest gain.\\
-Contentment is the greatest wealth.\\
-Trustworthiness is the best of kin.\\
-Unconditional freedom is the highest bliss.
+204\\
+O minte sănătoasă este cel mai mare câștig.\\
+Împăcarea cu sine este cea mai mare avere.\\
+Nădejdea este cel mai bun prieten.\\
+Libertatea necondiționată este cea mai mare exaltare.
 
-205.\\
-Tasting the flavour of solitude\\
-and the nectar of peace,\\
-those who drink the joy\\
-that is the essence of reality\\
-abide free from fear of evil.
+205\\
+Gustând din savoarea solitudinii\\
+și din nectarul păcii,\\
+cei ce beau din fericirea care e esența realității\\
+își duc veacul fără a se teme de rău.
 
-206.\\
-It is always a pleasure\\
-not to have to encounter fools.\\
-It is always good to see noble beings,\\
-and a delight to live with them.
+206\\
+E mereu o plăcere\\
+să nu fim nevoiți să întâlnim ignoranți.\\
+E mereu o bucurie\\
+să vedem ființe nobile\\
+și o delectare să trăim alături de ele.
 
-207.\\
-Tedious is the company of fools,\\
-always painful, like being\\
-surrounded by enemies;\\
-but to associate with the wise\\
-is like being at home.
+207\\
+Compania ignoranților e searbădă\\
+și dureroasă de fiecare dată,\\
+ca și cum te-ar înconjura inamicii;\\
+însă asocierea cu cei înțelepți\\
+înseamnă a te simți în largul tău.
 
-208.\\
-You should follow the ways\\
-of those who are steadfast,\\
-discerning, pure and aware,\\
-just as the moon follows\\
-the path of the stars.
+208\\
+Urmărește căile pe care le iau\\
+cei ce sunt statornici,\\
+deslușitori, puri și conștienți,\\
+asemenea lunii care urmează\\
+calea stelelor.

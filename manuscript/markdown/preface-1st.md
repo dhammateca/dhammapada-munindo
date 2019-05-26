@@ -1,25 +1,12 @@
-Preface
+Prefața
 =======
+*primei ediții (2000)*
 
-*To the first edition (2000)*
-
-It is my hope that this *Dhammapada for Contemplation* will delight
-those who come across it and serve to encourage further viewings from
-different perspectives. I trust that whatever glimpses of truth may be
-gained, however briefly, will encourage all travellers to continue
-faring on.
-
-Any gratitude arising from the reading should be directed towards the
-earlier translators on whose work I have been wholly dependent: Daw Mya
-Tin and the editors of the Burmese Pitaka Association (1987), Ven.
-Narada Thera (B.M.S. 1978), and Ven. Ananda Maitreya Thera (Lotsawa
-1988); also to the many friends whose contributions have added richness
-and depth, especially Ajahn Thiradhammo, Sister Medhanandi, Bani Shorter
-and Thomas Jones.
-
-Responsibility for any defects that may remain rests with me.
+Am speranța că această *Dhammapada pentru Contemplație* îi vă încânta pe cei care o descoperă și va fi de folos în a-i încuraja ca pe viitor să privească din perspective diferite. Am încrederea că orice licăriri de adevăr care pot fi dobândite, oricât de trecătoare, îi vor încuraja pe toți drumeți să-și ducă călătoria la bun sfârșit.
+Orice apreciere care se naște în urma lecturii se cuvine a fi îndreptată spre traducătorii anteriori, fiind pe deplin dependent de munca lor: Daw Mya Tin și editorii Asociației Birmaneză Pitaka (1987), Venerabilul Narada Thera (B.M.S. 1978) și Venerabilul Ananda Maitreya Thera (Lotsawa 1988); de asemenea numeroșilor prieteni a căror contribuții au adăugat bogăție și profunzime, în special Ajahn Thiradhammo, Sora Medhanandi, Bani Shorter și Thomas Jones.
+Responsabilitatea pentru defectele care există îmi aparține.
 
 Bhikkhu Munindo\\
-Aruna Ratanagiri Buddhist Monastery\\
+Mănăstirea Budistă Aruna Ratanagiri\\
 Northumberland, UK\\
-16th January 2000
+16 ianuarie 2000

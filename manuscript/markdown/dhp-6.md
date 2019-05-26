@@ -1,93 +1,96 @@
-The Wise
-========
+Cei înțelepți
+=============
 
-76.\\
-Only blessings can arise\\
-from seeking the company\\
-of wise and discerning persons,\\
-who skilfully offer\\
-both admonition and advice\\
-as if guiding one to hidden treasure.
+76\\
+Doar binecuvântări pot răsări din căutarea\\
+companiei persoanelor înțelepte și deslușitoare,\\
+care oferă iscusit\\
+atât mustrare, cât și sfat\\
+ca și cum ar ghida insul\\
+spre o comoară ascunsă.
 
-77.\\
-Let the wise guide beings away from darkness,\\
-give direction and advice.\\
-They will be treasured by the virtuous\\
-and dismissed by the foolish.
+77\\
+Fie ca înțelepții să îndrume ființele\\
+departe de întuneric,\\
+să dea direcție și sfaturi.\\
+Vor fi prețuiți de către cei virtuoși\\
+și îndepărtați de către cei necopți.
 
-78.\\
-Do not seek the company of misguided friends;\\
-beware of degenerate companions.\\
-Seek the company of well-guided friends,\\
-those who support insight.
+78\\
+Nu căuta compania prietenilor prost îndrumați;\\
+fii prevăzător cu companionii degenerați.\\
+Caută compania prietenilor bine îndrumați,\\
+cei care sprijină introspecția.
 
-79.\\
-Surrendering oneself to Dhamma\\
-leads to serene being.\\
-The wise perpetually delight in the truth\\
-taught by the Awakened One.
+79\\
+Capitularea sinelui Dhammei\\
+conduce la existență senină.\\
+Înțelepții se delectează perpetuu în adevărul\\
+predat de către Unul Trezit.
 
-80.\\
-Those who build canals\\
-channel the flow of water.\\
-Arrowsmiths make arrows.\\
-Woodworkers craft wood.\\
-The wise tame themselves.
+80\\
+Cei care construiesc canale\\
+canalizează cursul apei.\\
+Săgetarii fac săgeți.\\
+Lemnarii făuresc lemn.\\
+Înțelepții se domesticesc.
 
-81.\\
-As solid rock\\
-is unshaken by the wind,\\
-so are those with wisdom undisturbed,\\
-whether by praise or blame.
+81\\
+Cum piatra solidă\\
+e nemișcată de vânt,\\
+așa sunt și cei cu înțelepciunea neperturbată\\
+nici de laudă, nici de ocară.
 
-82.\\
-On hearing true teachings\\
-the hearts of those who are receptive\\
-become serene,\\
-like a lake, deep, clear and still.
+82\\
+La auzul învățăturilor adevărate\\
+inimile celor receptivi\\
+devin senine,\\
+ca un lac adânc, limpede și nemișcat.
 
-83.\\
-Virtuous beings are unattached.\\
-They do not indulge in heedless speech\\
-about sensual pleasures.\\
-They experience both joy and sorrow\\
-but are possessed by neither.
+83\\
+Ființele virtuoase sunt neatașate.\\
+Nu se înfruptă din vorbit fără noimă\\
+despre plăceri senzuale.\\
+Cunosc atât fericirea,\\
+cât și supărarea,\\
+dar nu sunt posedate de niciuna.
 
-84.\\
-Neither for one’s own sake\\
-nor on behalf of another\\
-does a wise person do harm\\
-– not for the sake of family, fortune or gain.\\
-Such a one is rightly called\\
-just, virtuous and wise.
+84\\
+Nici pentru binele propriu,\\
+nici în numele altuia\\
+o persoană înțeleaptă nu face pagubă\\
+– nu pentru hatârul familiei, averii sau câștigului.\\
+Unul astfel e de drept numit\\
+just, virtuos și înțelept.
 
-85.\\
-Few are those who reach the beyond.\\
-Most pace endlessly back and forth,\\
-not daring to risk the journey.
+85\\
+Puțini sunt cei care ajung departele.\\
+Mulți pășesc fără sfârșit înapoi și înainte,\\
+neîndrăznind să riște călătoria.
 
-86.\\
-Although it is difficult to cross over\\
-the storm-swept sea of passion,\\
-those who live in accordance\\
-with the well-taught Way\\
-arrive at the beyond.
+86\\
+Deși e dificil să treci dincolo\\
+de marea bătută de ploile pasiunii,\\
+cei care trăiesc în conformitate\\
+cu Calea bine-predată\\
+ajung departele.
 
-87-88.\\
-With an image of liberation as the goal\\
-the wise abandon darkness\\
-and cherish light,\\
-leave petty security behind\\
-and seek freedom from attachment.\\
-To pursue such release is difficult and rare,\\
-yet the wise will seek it,\\
-detaching themselves from obstructions,\\
-purifying heart and mind.
+87-88\\
+Cu imaginea liberării ca țel\\
+cei înțelepți abandonează întunericul\\
+și prețuiesc lumina,\\
+lasă siguranța măruntă în urmă\\
+și caută libertatea de atașament.\\
+A fi pe urmele unei asemenea desfaceri\\
+e dificil și rar,\\
+totuși cei înțelepți o vor căuta,\\
+detașându-se de obstrucții,\\
+purificând inima și mintea.
 
-89.\\
-Freeing themselves from longing,\\
-unhindered by habitual grasping,\\
-those who align themselves with the Way\\
-delight in non-attachment\\
-and, while still in the world,\\
-are radiant.
+89\\
+Eliberându-se de năzuință,\\
+neîmpiedicați de obișnuințe deprinse,\\
+cei care se aliniază cu Calea\\
+se delectează în detașare\\
+și, cât încă stau în lume,\\
+sunt radioși.

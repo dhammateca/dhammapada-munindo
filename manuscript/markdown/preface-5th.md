@@ -1,20 +1,12 @@
-Preface
+Prefața
 =======
+*ediției a cincea (2017)*
 
-*To the 5th edition (2017)*
-
-Once more we are grateful to our good friends in Malaysia for making
-another reprint of this small booklet possible.
-
-As indicated in earlier editions, various resources have been consulted
-including translations by Bhikkhu Thanissaro and Acharya Buddharakkhita
-(see [www.accesstoinsight.org](http://accesstoinsight.org)).
-
-For those who are interested, these are some of the verses I have
-reworked: 21, 22, 57, 118, 165, 380, 389, 399, 418. Readers are strongly
-encouraged to refer to other versions of the Dhammapada.
+Încă o dată suntem recunoscători bunilor noștri prieteni din Malaezia pentru că au făcut posibilă o nouă republicare a acestei broșuri.
+Cum am indicat și în edițiile anterioare, diverse resurse au fost consultate, printre care traducerile lui Bhikkhu Thanissaro și Acharya Buddharakkhita (vezi [www.accesstoinsight.org](http://accesstoinsight.org)).
+Pentru cei interesați, acestea sunt unele din versurile pe care le-am modificat: 21, 22, 57, 118, 165, 380, 389, 399, 418. Cititorii sunt încurajați să consulte și alte versiuni ale Dhammapada.
 
 Bhikkhu Munindo\\
-Aruna Ratanagiri Buddhist Monastery\\
+Mănăstirea Budistă Aruna Ratanagiri\\
 Northumberland, UK\\
-February 2017
+Noiembrie 2017
