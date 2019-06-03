@@ -234,7 +234,7 @@ cât și de devenirea perpetuă.
 417\\
 O ființă măreață\\
 este aceea care poate vedea dincolo de toate\\
-delectările evidente\\
+delectările evidente,\\
 precum și de plăcerile subtile\\
 pentru a se elibera de atașament.
 

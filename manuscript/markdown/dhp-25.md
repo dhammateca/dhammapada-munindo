@@ -36,7 +36,7 @@ care memorează Dhamma,\\
 acela nu se va abate de la Cale.
 
 365\\
-A-ți deplânge propria soartă\\
+A-ți deplânge soarta\\
 sau a invidia avuțiile altora\\
 stă în calea liniștii sufletești.
 
