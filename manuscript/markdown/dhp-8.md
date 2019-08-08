@@ -88,7 +88,7 @@ trăiți în pasivitate leneșă.
 O singură zi trăită\\
 în conștiința tranzienței naturii vieții\\
 e de valoare\\
-mai mare decât o sută de ani trăiți\\
+mai mare decât o sută de ani\\
 trăiți inconștient de naștere și moarte.
 
 114\\
