@@ -12,13 +12,13 @@ pe cei ce cunosc adevărul.
 
 210\\
 A pierde compania celor\\
-alături de care ne simțim în largul nostru\\
+alături de care ne simțim acasă\\
 e dureros,\\
 iar asocierea cu cei care ne displac\\
 e chiar mai neplăcută;\\
 așadar, nu vă lăsați\\
 nici în voia companiei\\
-celor cu care vă simțiți în largul vostru,\\
+celor cu care vă simțiți acasă,\\
 nici celor care vă displac.
 
 211\\

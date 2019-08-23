@@ -67,7 +67,7 @@ Compania ignoranților e searbădă\\
 și dureroasă de fiecare dată,\\
 ca și cum te-ar înconjura inamicii;\\
 însă asocierea cu cei înțelepți\\
-înseamnă a te simți în largul tău.
+înseamnă a te simți ca acasă.
 
 208\\
 Urmărește căile pe care le iau\\

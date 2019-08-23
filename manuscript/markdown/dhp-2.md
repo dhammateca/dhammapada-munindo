@@ -33,7 +33,7 @@ cresc constant în radianță.
 25\\
 Prin sârguință, vigilență,\\
 abținere și autocontrol,\\
-fie ca înțelepții să-și facă insule din ei\\
+fie ca înțelepții să-și facă insule pentru ei înșiși\\
 pe care niciun potop nu le poate învălui.
 
 26\\

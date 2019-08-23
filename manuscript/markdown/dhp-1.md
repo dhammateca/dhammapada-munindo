@@ -120,7 +120,7 @@ de acum și înainte ne mâhnim.
 16\\
 Când apreciem complet beneficiul\\
 propriilor noastre fapte pure,\\
-suntem umpluți cu bucurie;\\
+suntem plini de bucurie;\\
 de acum și înainte\\
 are loc o celebrare a bucuriei.
 

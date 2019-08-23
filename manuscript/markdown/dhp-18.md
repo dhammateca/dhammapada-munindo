@@ -112,4 +112,4 @@ de care Cei Treziți sunt eliberați.
 În aer nu se găsesc drumuri,\\
 nu există o altă liberare în afară de Cale.\\
 Nu există lucruri condiționate care să fie permanente,\\
-și totuși Budhha rămân neperturbați.
+și totuși Buddha rămân neperturbați.

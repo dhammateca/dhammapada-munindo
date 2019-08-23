@@ -137,7 +137,7 @@ vei trăi în tihnă.
 
 380\\
 Noi suntem cei care ne protejăm;\\
-noi suntem cu adevărat propriul nostru refugiu;\\
+noi suntem cu adevărat propriul nostru sălaș;\\
 cum ar putea sta altfel lucrurile?\\
 Așadar, cu atenția cuvenită, ne ocupăm de noi\\
 așa cum un dresor s-ar îngriji de un pursânge.
