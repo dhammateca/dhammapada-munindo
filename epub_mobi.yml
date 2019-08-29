@@ -25,6 +25,7 @@ toc:
   - { title: "Prefața ediției a treia (2010)", src: 'preface-3rd.md' }
   - { title: "Prefața ediției a patra (2015)", src: 'preface-4th.md' }
   - { title: "Prefața ediției a cincea (2017)", src: 'preface-5th.md' }
+  - { title: "Prefața traducătorului", src: 'translator-preface.md' }
   - introduction.md
   - { title: "Titlu", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
   - { title: "Cuprins", src: 'toc.xhtml.erb', target: mobi, type: toc }
@@ -56,6 +57,7 @@ toc:
   - dhp-25.md
   - dhp-26.md
   - { the_matter: backmatter }
+  - note-on-the-text.md
   - copyright.md.erb
 
 cover_image: "cover.jpg"
