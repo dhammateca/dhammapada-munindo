@@ -18,7 +18,7 @@ show_toc_chapter_numbers: true
 toc:
   - { the_matter: frontmatter }
   - { title: "Coperta", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
-  #- { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
+  - { title: "Titlu", src: 'titlepage.xhtml.erb', target: epub, type: text, class: title-page }
   - { title: "Cuprins", src: 'toc.xhtml.erb', target: epub, type: toc }
   - { title: "Prefața primei ediții (2000)", src: 'preface-1st.md' }
   - { title: "Prefața ediției a doua (2006)", src: 'preface-2nd.md' }

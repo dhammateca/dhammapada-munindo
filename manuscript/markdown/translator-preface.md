@@ -1,11 +1,13 @@
 Prefața traducătorului
 ======================
 
-Am dat peste această Dhammapada, în interpretarea Venerabilului Ajahn Munindo, pe durata unei șederi la Mănăstirea Muttodaya. Am început să traduc câteva dintre versuri și, la întoarcere, le-am trimis prietenilor. Văzând interesul pe care l-au stârnit, am decis să o traduc. Am consultat și alte traduceri înainte de a începe, dar această interpretare s-a dovedit cea mai bogată în sensuri inteligibile pentru mine, având un spirit contemporan și dovedindu-se a fi și un manual de exerciții pentru cultivarea minții.
+Am dat peste această Dhammapada, în interpretarea Venerabilului Ajahn Munindo, pe durata unei șederi la Mănăstirea Muttodaya. Am început să traduc câteva dintre versuri și, la întoarcere, le-am trimis prietenilor. Văzând interesul pe care l-au stârnit, am decis să o traduc. Totuși, e important de ținut în minte faptul că autorul consideră "O Dhammapada pentru Contemplație" mai degrabă o interpretare decât o traducere.
 
-Așadar, pentru traducerea multor cuvinte și expresii, am preferat semnificația tehnică din punctul de vedere al temelor de meditație budiste, în defavoarea sensurilor poetice; introspecție (insight), echidistanță (equanimity), băgare de seamă (heedfulness), luciditate cufundată în corp (meditation practice focused in the body) etc.
+Am consultat și alte traduceri înainte de a începe, dar această interpretare s-a dovedit cea mai bogată în sensuri inteligibile pentru mine, având un spirit contemporan și dovedindu-se a fi și un manual de exerciții pentru cultivarea minții.
 
-În locurile unde limba română s-a dovedit mai expresivă, am încercat fructificarea acestei situații; de pildă, în versetul 126 se repetă expresia „to be reborn”, iar pentru traducere am folosit expresii diferite pentru fiecare strofă (reîncarnare, a lua ființă) la fel cum se folosește și în originalul din limba pāli. În alte locuri, în schimb, originalul s-a dovedit mai expresiv, iar traducerea a avut nevoie de un artificiu pentru a păstra înrudirea fonetică: not inflated ~ neumflat în pene (versetul 363).
+Așadar, pentru traducerea multor cuvinte și expresii, am preferat semnificația tehnică din punctul de vedere al temelor de meditație budiste, în defavoarea sensurilor poetice; introspecție (*insight*), echidistanță (*equanimity*), băgare de seamă (*heedfulness*), luciditate cufundată în corp (*meditation practice focused in the body*) etc.
+
+În locurile unde limba română s-a dovedit mai expresivă, am încercat fructificarea acestei situații. În alte locuri, în schimb, originalul s-a dovedit mai expresiv, iar traducerea a avut nevoie de un artificiu pentru a păstra înrudirea fonetică: *not inflated* ~ neumflat în pene (versetul 363).
 
 Intervenția cea mai notabilă este în versetul 384, unde am subliniat că este vorba despre două dhamma pentru a evita ca versetul să rămână criptic pentru cineva nefamiliarizat cu învățăturile budiste.
 

@@ -77,9 +77,9 @@ asemenea prafului fin\\
 aruncat în vânt.
 
 126\\
-Unii se reîncarnează în oameni;\\
-răufăcătorii se nasc din nou în iad.\\
-Cei ce fac bine iau ființă-n exaltare,\\
+Unii se renasc în oameni;\\
+răufăcătorii se renasc în iad.\\
+Cei ce fac bine se renasc în exaltare,\\
 iar cei puri merg în tărâmul fără urme.
 
 127\\
