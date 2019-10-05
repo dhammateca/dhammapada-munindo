@@ -20,7 +20,7 @@ toc:
   - { title: "Coperta", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
   - { title: "Titlu", src: 'titlepage.xhtml.erb', type: text, class: title-page }
   - copyright.md.erb
-  - { title: "Cuprins", src: 'toc.xhtml.erb', target: epub, type: toc }
+  - { title: "Cuprins", src: 'toc.xhtml.erb', type: toc }
   - { title: "Prefața primei ediții (2000)", src: 'preface-1st.md' }
   - { title: "Prefața ediției a doua (2006)", src: 'preface-2nd.md' }
   - { title: "Prefața ediției a treia (2010)", src: 'preface-3rd.md' }
