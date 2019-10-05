@@ -20,5 +20,5 @@ muzicalitate specifică limbii noastre (versetul 4, de exemplu).
 
 Ne cerem iertare cititorului pentru sensurile de care l-am văduvit, iar pentru cele care sunt clare, îl încurajăm să le traducă mai departe, în inima sa.
 
-Mircea Mare, Diana D.
+Mircea Mare, Diana D.\\
 www.dhammadha.ro
