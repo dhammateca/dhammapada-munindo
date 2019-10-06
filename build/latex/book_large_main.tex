@@ -1,0 +1,144 @@
+\documentclass[
+  final,
+  babelLanguage=british,
+  %webversion,
+]{anecdote}
+
+\newif\ifpocketversion
+\pocketversionfalse
+
+\usepackage{mylayout-large}
+
+%\webversiontrue
+
+%% Details of the book
+%% ===================
+
+\title{A Dhammapada for Contemplation}
+\subtitle{}
+\author{Ajahn Munindo}
+\date{2015-05-19}
+\editionInfo{\textit{Fifth edition}, 8,000 copies, printed in Malaysia, 2017}
+%\editionInfo{\textit{Fifth edition}, printed in the UK, 2017}
+\ISBN{978-1-908444-58-5}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+\hyphenation{luang never-the-less}
+
+\begin{document}
+
+\frontmatter
+
+\ifwebversion
+\webcover{%
+\includegraphics[width=\paperwidth]{./webcover.jpg}
+}
+\else
+\input{../../manuscript/tex/titlepage.tex}
+\fi
+
+\input{../../manuscript/tex/copyright.tex}
+
+% NOTE There is no dedication page in the UK print.
+
+% Dedication
+
+\cleartorecto
+\thispagestyle{empty}
+
+\vspace*{20mm}
+
+{\centering
+\fontsize{10}{12}\selectfont
+
+\textit{Dedication}\\[0.4\baselineskip]
+We would like to acknowledge the support of\\
+many people in the preparation of this book,\\
+especially that of the Kataññutā group\\
+in Malaysia, Singapore and Australia\\
+for bringing it into production.
+
+}
+
+% Table of Contents
+
+\cleartorecto
+
+\aliaspagestyle{chapter}{empty}
+\aliaspagestyle{normalpage}{empty}
+\pagestyle{normalpage}
+
+\tableofcontents*
+
+\clearpage
+
+\aliaspagestyle{chapter}{bottomcenter}
+\aliaspagestyle{normalpage}{bottomcenter}
+\pagestyle{normalpage}
+
+\readingsize
+
+\input{../.././manuscript/tex/preface-1st.tex}
+\input{../.././manuscript/tex/preface-2nd.tex}
+\input{../.././manuscript/tex/preface-3rd.tex}
+\input{../.././manuscript/tex/preface-4th.tex}
+\input{../.././manuscript/tex/preface-5th.tex}
+
+\input{../.././manuscript/tex/introduction.tex}
+
+\addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
+
+\normalsize
+
+\mainmatter
+
+\input{../.././manuscript/tex/book-opening.tex}
+
+\interlinepenalty=10000
+
+\input{../../manuscript/tex/dhp-1.tex}
+\input{../../manuscript/tex/dhp-2.tex}
+\input{../../manuscript/tex/dhp-3.tex}
+\input{../../manuscript/tex/dhp-4.tex}
+\input{../../manuscript/tex/dhp-5.tex}
+\input{../../manuscript/tex/dhp-6.tex}
+\input{../../manuscript/tex/dhp-7.tex}
+\input{../../manuscript/tex/dhp-8.tex}
+\input{../../manuscript/tex/dhp-9.tex}
+\input{../../manuscript/tex/dhp-10.tex}
+\input{../../manuscript/tex/dhp-11.tex}
+\input{../../manuscript/tex/dhp-12.tex}
+\input{../../manuscript/tex/dhp-13.tex}
+\input{../../manuscript/tex/dhp-14.tex}
+\input{../../manuscript/tex/dhp-15.tex}
+\input{../../manuscript/tex/dhp-16.tex}
+\input{../../manuscript/tex/dhp-17.tex}
+\input{../../manuscript/tex/dhp-18.tex}
+\input{../../manuscript/tex/dhp-19.tex}
+\input{../../manuscript/tex/dhp-20.tex}
+\input{../../manuscript/tex/dhp-21.tex}
+\input{../../manuscript/tex/dhp-22.tex}
+\input{../../manuscript/tex/dhp-23.tex}
+\input{../../manuscript/tex/dhp-24.tex}
+\input{../../manuscript/tex/dhp-25.tex}
+\input{../../manuscript/tex/dhp-26.tex}
+
+\interlinepenalty=0
+
+\addtocontents{toc}{\protect \enlargethispage{\protect \baselineskip}}
+
+\backmatter
+
+\readingsize
+
+\input{../../manuscript/tex/note-on-the-text.tex}
+
+\input{../../manuscript/tex/copyright-details.tex}
+
+\newpage
+\mbox{}\thispagestyle{empty}
+
+\end{document}
