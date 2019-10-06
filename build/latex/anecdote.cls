@@ -109,46 +109,64 @@
 \newcommand\tocFontOldNum{}
 
 \RequirePackage{fontspec}
-\defaultfontfeatures{Ligatures={TeX}}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {./assets/fonts/}, }
 
 % If -- dashes don't work for your font, try
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFeatures= { LetterSpace = 0.2 },
-  ItalicFont = Crimson Italic,
-  BoldFont = Crimson Bold,
-  BoldItalicFont = Crimson Bold Italic,
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Semibold.otf,
+  BoldItalicFont = Crimson-SemiboldItalic.otf,
   Numbers = OldStyle,
-]{Crimson Roman}
+]{Crimson-Roman.otf}
 
 \newfontfamily\crimsonRomanFont[
-  SmallCapsFeatures= { LetterSpace = 0.2 },
-  ItalicFont = Crimson Italic,
-  BoldFont = Crimson Bold,
-  BoldItalicFont = Crimson Bold Italic,
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Semibold.otf,
+  BoldItalicFont = Crimson-SemiboldItalic.otf,
   Numbers = OldStyle,
-]{Crimson Roman}
+]{Crimson-Roman.otf}
 
-\newfontfamily\footerFont{Shaker 2}
+\newfontfamily\alegreyaSansFont[
+  SmallCapsFont = AlegreyaSansSC-Regular.otf,
+  ItalicFont = AlegreyaSans-Italic.otf,
+  BoldFont = AlegreyaSans-Bold.otf,
+]{AlegreyaSans-Regular.otf}
+
+\newfontfamily\alegreyaSansLightFont[
+  SmallCapsFont = AlegreyaSansSC-Light.otf,
+  ItalicFont = AlegreyaSans-LightItalic.otf,
+]{AlegreyaSans-Light.otf}
+
+\newfontfamily\alegreyaSansScFont[
+  ItalicFont = AlegreyaSansSC-Italic.otf,
+]{AlegreyaSansSC-Regular.otf}
+
+\newfontfamily\alegreyaSansScLightFont[
+  ItalicFont = AlegreyaSansSC-LightItalic.otf,
+]{AlegreyaSansSC-Light.otf}
+
+\newfontfamily\sanghaIconsFont{SanghaIcons-Regular.ttf}
+\newcommand\SanghaIcons{\sanghaIconsFont}
+
+\newcommand\footerFont\alegreyaSansLightFont
 
 % chapter
 
-\newfontfamily\chapterNameFont{Shaker 2 Light}
-\newfontfamily\chapterTitleFont{Shaker 2 Light}
-\newfontfamily\chapterNumberFont{Shaker 2 Extra Bold}
-
-\newfontfamily\ShakerLight{Shaker 2 Light}
+\newcommand\chapterNameFont\alegreyaSansLightFont
+\newcommand\chapterTitleFont\alegreyaSansLightFont
+\newcommand\chapterNumberFont\alegreyaSansFont
 
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}
   {\@setfontsize\chapterNameSize{22}{24}}
-
 \newcommand{\chapterNumberSize}{}
 \newcommand{\chapterTitleSize}{}
-
 \newcommand{\chapterAuthorSize}
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
@@ -177,13 +195,13 @@
 
 % foreign language wrappers
 
-%\newfontfamily\thaiFont{Kinnari}
+%\newfontfamily\thaiFont{Kinnari.ttf}
 
 %\newcommand*\thai[1]{{\thaiFont #1}}
 
 % other fonts
 
-\newcommand\questionAnswerFont\fontinSansFont
+%\newcommand\questionAnswerFont\fontinSansFont
 
 % === microtype ===
 
@@ -193,9 +211,11 @@
 % lookup name ("GlacialIndifference"), but not by \newfontfamily commands
 % (such as \chapterTitleFont)
 
-\SetTracking[spacing={350,100,}]{encoding=*, family=Crimson Roman}{40}
-
-\SetTracking[spacing={350,100,}]{encoding=*, family=Shaker 2 Light}{40}
+% Tracking for uppercase section heading
+\SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={350,100,}]{encoding=*, family={AlegreyaSans-Light.otf}}{40}
+\SetTracking[spacing={250,100,}]{encoding=*, family={AlegreyaSansSC-Regular.otf}}{1}
+\SetTracking[spacing={250,100,}]{encoding=*, family={AlegreyaSansSC-Light.otf}}{1}
 
 % === hyperref ===
 
@@ -792,7 +812,7 @@ philo-sophical munindo amaravati thai-land}
   \setlength{\chapterTitleLeftSkip}{0.2\linewidth}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
-  \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
+  \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize\bfseries}
   \renewcommand\printchapternum{%
     \chapnumfont\color{chapternum}%
     \hspace*{\chapterTitleLeftSkip}\thechapter%

@@ -1,17 +1,19 @@
 \ProvidesPackage{cover-large}
 
 \usepackage{soul}
+\usepackage{graphicx}
 
 \usepackage{fontspec}
-\defaultfontfeatures{Ligatures=TeX}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {./assets/fonts/}, }
 
 \setmainfont[
-  ItalicFont = Crimson Italic,
-]{Crimson Roman}
+  ItalicFont = Crimson-Italic.otf,
+]{Crimson-Roman.otf}
 
-\newfontfamily\chapterTitleFont{Crimson Roman}
+\newfontfamily\chapterTitleFont{Crimson-Roman.otf}
 
-\newfontfamily\SanghaIcons{Sangha Icons}
+\newfontfamily\sanghaIconsFont{SanghaIcons-Regular.ttf}
+\newcommand\SanghaIcons{\sanghaIconsFont}
 
 \newcommand{\chapterSize}
   {\@setfontsize\chapterSize{14}{22}}
