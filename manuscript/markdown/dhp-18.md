@@ -5,8 +5,8 @@ Impurități
 Asemenea unei frunze veștejite,\\
 aveți mesagerul morții alături.\\
 Chiar dacă urmează o călătorie lungă,\\
-încă nu ați făcut nicio provizie.\\
- \\
+încă nu ați făcut nicio provizie.
+
 236\\
 Grăbiți-vă întru cultivarea înțelepciunii;\\
 clădiți-vă o insulă.\\
@@ -33,7 +33,8 @@ așa cum un aurar înlătură zgura.
 
 240\\
 Așa cum fierul e distrus de rugina pe care o produce,\\
-cei care înfăptuiesc rău sunt corodați de propriile acțiuni.
+cei care înfăptuiesc rău sunt corodați\\
+de propriile acțiuni.
 
 241\\
 Lipsa studiului duce la uitarea învățăturilor;\\
@@ -79,9 +80,12 @@ Nu permiteți lăcomiei și purtării nepotrivite să vă prelungească agonia.
 249-250\\
 Pe oameni îi inspiră să fie generoși\\
 credința lor și încrederea.\\
-Dacă ajungem nemulțumiți de ceea ce ni s-a dat,\\
-meditația noastră va fi stăpânită de aflicțiune mintală nesfârșită;\\
-însă dacă suntem liberi de această nemulțumire, meditația noastră e plină de pace.
+Dacă ajungem nemulțumiți\\
+de ceea ce ni s-a dat,\\
+meditația noastră va fi stăpânită\\
+ de aflicțiune mentală nesfârșită;\\
+însă dacă suntem liberi de această nemulțumire,\\
+meditația noastră e plină de pace.
 
 251\\
 Nu există niciun alt foc precum voluptatea,\\
@@ -96,8 +100,8 @@ Cum se întâmplă cu pleava,\\
 un ins ar putea alege neajunsurile altora,\\
 în timp ce și le ascunde pe cele proprii;\\
 așa cum un vânător șiret\\
-s-ar putea ascunde de pradă.\\
- \\
+s-ar putea ascunde de pradă.
+
 253\\
 Cei ce sunt mereu în căutarea defectelor altora –\\
 prejudecățile lor sporesc și se află departe de libertate.

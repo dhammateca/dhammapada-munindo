@@ -19,7 +19,8 @@ va dobândi liberarea de suferință.
 Insul disciplinat cum se cade\\
 în toate acțiunile,\\
 liniștit, mulțumit\\
-și care se delectează în contemplare singuratică – acesta este cel ce renunță.
+și care se delectează în contemplare singuratică –\\
+acesta este cel ce renunță.
 
 363\\
 E plăcut a auzi cuvintele unuia ce renunță;\\

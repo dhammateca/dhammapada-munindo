@@ -8,9 +8,10 @@ la o fericire mai neînsemnată\\
 
 291\\
 Eșuezi în căutarea fericirii\\
-dacă o cauți cu prețul stării de bineââ
+dacă o cauți cu prețul stării de bine\\
 a altora.\\
-Lațul voinței bolnave te poate strânge în continuare.
+Lațul voinței bolnave\\
+te poate strânge în continuare.
 
 292\\
 A lăsa nefăcut\\

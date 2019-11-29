@@ -58,7 +58,7 @@ devin preaplini cu bunătate.
 La fel cum un negustor cu încărcătură prețioasă\\
 evită amenințările\\
 și acei care iubesc viața evită otrava,\\
-așa și tu să eviți faptele rele.\\
+așa și tu să eviți faptele rele.
 
 124\\
 O mână fără o rană deschisă\\

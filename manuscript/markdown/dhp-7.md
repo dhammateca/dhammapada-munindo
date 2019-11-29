@@ -5,7 +5,8 @@ Cei treziți
 Nu există tensiune\\
 pentru cei care au ajuns la capătul călătoriei\\
 și au fost eliberați\\
-din dezastrul tuturor legăturilor încolăcite.\\
+din dezastrul tuturor legăturilor încolăcite.
+
 91\\
 Atenți la nevoile călătoriei,\\
 cei pe calea conștiinței,\\

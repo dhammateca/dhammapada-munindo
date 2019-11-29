@@ -76,14 +76,18 @@ Astfel învățatul se numește înțelept.
 270\\
 Cei ce încă fac rău ființelor vii\\
 nu pot fi considerați nobili.\\
-Cei nobili păstrează o comportare inofensivă față de toate ființele.
+Cei nobili păstrează o comportare\\
+inofensivă față de toate ființele.
 
 271-272\\
 Nu fiți mulțumiți\\
 doar pentru că respectați toate regulile și normele,\\
 nici pentru că dobândiți învățăminte vaste.\\
-Nu vă simțiți satisfăcuți doar pentru că ați dobândit absorbția în meditație,\\
-nici pentru că vă puteți cufunda în exaltarea solitudinii.\\
+Nu vă simțiți satisfăcuți\\
+doar pentru că ați dobândit\\
+absorbția în meditație,\\
+nici pentru că vă puteți cufunda\\
+în exaltarea solitudinii.\\
 Doar când ajungeți la eradicarea completă\\
 a oricărei urme de ignoranță și trufie\\
 trebuie să fiți satisfăcuți.

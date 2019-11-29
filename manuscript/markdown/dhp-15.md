@@ -41,7 +41,8 @@ nicio altă bucurie precum pacea adusă de liberare.
 203\\
 Pofta e cea mai mare nenorocire,\\
 condiționarea e cea mai mare sursă de disperare.\\
-Cei înțelepți, văzând lucrurile ca atare, înțeleg că liberarea e cea mai mare bucurie.
+Cei înțelepți, văzând lucrurile ca atare,\\
+înțeleg că liberarea e cea mai mare bucurie.
 
 204\\
 O minte sănătoasă este cel mai mare câștig.\\

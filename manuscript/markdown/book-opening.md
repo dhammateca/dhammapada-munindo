@@ -7,5 +7,5 @@ Contemplație
 *bhagavato arahato*\\
 *samma sambuddhassa*
 
-Omagiu celui Cinecuvântat,\\
+Omagiu celui Binecuvântat,\\
 Nobil și Perfect Iluminat.

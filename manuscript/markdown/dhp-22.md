@@ -33,7 +33,7 @@ Scurtă este încântarea\\
 cuplului adulter temător\\
 căci nu pot urma decât consecințe dureroase.
 
-\\
+
 311\\
 Așa cum iarba kusa prinsă nepotrivit\\
 rănește mâna celui ce o apucă,\\

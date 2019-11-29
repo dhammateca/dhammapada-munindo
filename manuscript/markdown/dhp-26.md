@@ -104,7 +104,7 @@ descuie lacătele perspectivei greșite,\\
 deschide ușile ignoranței și vede adevărul,\\
 pe acela îl recunosc drept ființă măreață.
 
-\\
+
 399\\
 Puterea răbdării\\
 este tăria ființelor nobile;\\
@@ -151,7 +151,7 @@ care nici nu omoară,\\
 nici nu provoacă omorârea,\\
 aceia se pot numi ființe mărețe.
 
-\\
+
 406\\
 Cei ce rămân prietenoși printre cei ostili,\\
 pașnici printre cei agresivi\\
@@ -267,7 +267,8 @@ fără atașamente față de nimic\\
 este o ființă măreață.
 
 422\\
-O ființă măreață este la fel de netemătoare precum un taur,\\
+O ființă măreață\\
+este la fel de netemătoare precum un taur,\\
 nobilă, puternică, înțeleaptă, sârguincioasă;\\
 vede dincolo de decepții\\
 și este curată, atentă și trează.
