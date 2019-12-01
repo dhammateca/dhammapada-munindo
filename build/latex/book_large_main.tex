@@ -1,11 +1,17 @@
 \documentclass[
   final,
-  babelLanguage=british,
+  babelLanguage=romanian,
   %webversion,
 ]{anecdote}
 
 \newif\ifpocketversion
 \pocketversionfalse
+
+% NOTE @mircea:
+%
+% Take a look at the hyphenation in the Preface and Introduction. If it doesn't
+% look correct for Romanian, then the above babel option doesn't work and we
+% need to fix it.
 
 \usepackage{mylayout-large}
 
@@ -18,6 +24,26 @@
 \subtitle{}
 \author{Ajahn Munindo}
 \date{2019-11-30}
+
+% NOTE @mircea:
+% 
+% 5th edition refers to the English publication. This is the 1st
+% edition of this publication.
+% 
+% It may be useful to leave out 'tipărită în România'. I have started dropping
+% that phrase in English books as well. If it is re-printed somewhere else or
+% printed again later, then it becomes confusing to update.
+%
+% The ISBN number identifies the English publication. If you need an ISBN
+% number, request a new one from Ajahn Munindo, from Aruno Publications. You
+% will need two numbers, one here for the PDF, one for the ebooks. The different
+% PDFs and different ebooks can share the ISBN, i.e. you don't need four numbers.
+%
+% The same applies to book_small_main.tex
+%
+% You might not need an ISBN at all if this is only for download, in which case
+% comment out that line in copyright.tex
+
 \editionInfo{\textit{Ediția a cincea}, tipărită în România, 2019}
 %\editionInfo{\textit{Fifth edition}, printed in the UK, 2017}
 \ISBN{978-1-908444-58-5}
@@ -40,7 +66,7 @@
 \input{../../manuscript/tex/titlepage.tex}
 \fi
 
-% \input{../../manuscript/tex/copyright.tex}
+\input{../../manuscript/tex/copyright.tex}
 
 % NOTE There is no dedication page in the UK print.
 
@@ -68,6 +94,15 @@
 \pagestyle{normalpage}
 
 \readingsize
+
+% NOTE @mircea: In the Preface, the author speaks to the reader about his work.
+% Suppose you are reading the Romanian translation, you don't need to know
+% everything that happened to the English translation.
+%
+% I recommend dropping the English prefaces 1-5, summmarize in the Translator's
+% Preface what the author's sources were and other key information, and mention
+% that this translation (1st Romanian edition) was using the 5th English
+% edition. Consult with Ajahn Munindo if he agrees.
 
 \input{../../manuscript/tex/preface-1st.tex}
 \input{../../manuscript/tex/preface-2nd.tex}
@@ -125,7 +160,8 @@
 
 \input{../../manuscript/tex/note-on-the-text.tex}
 
-\input{../../manuscript/tex/copyright-details.tex}
+% Not used in this edition.
+%\input{../../manuscript/tex/copyright-details.tex}
 
 \newpage
 \mbox{}\thispagestyle{empty}
