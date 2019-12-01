@@ -254,7 +254,7 @@
 % Start with memoir's more allowing penalties
 \midsloppy
 
-\renewcommand\britishhyphenmins{{3}{3}}
+\newcommand\romanianhyphenmins{{3}{3}}
 
 % The lastparline or the parfillskip solution is overkill in many
 % places. It is optimal for larger paragraphs, but creates too much
@@ -657,7 +657,7 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 \itshape}
 {\enspace\hfill\normalsize\tocFont\thecontentspage}
-[\addvspace{5pt}]
+[\addvspace{4pt}]
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\normalsize\tocFont}%
