@@ -1,7 +1,7 @@
 \documentclass[
   final,
   babelLanguage=romanian,
-  %webversion,
+  webversion,
 ]{anecdote}
 
 \newif\ifpocketversion
@@ -33,7 +33,7 @@
 
 \ifwebversion
 \webcover{%
-\includegraphics[width=\paperwidth]{./webcover.jpg}
+\includegraphics[width=\paperwidth]{./webcover-large.jpg}
 }
 \else
 \input{../../manuscript/tex/titlepage.tex}
