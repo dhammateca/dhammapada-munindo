@@ -974,8 +974,8 @@ philo-sophical munindo amaravati thai-land}
   \let\@listi\@listI}
 \normalsize
 
-\def\BOOK@readingFontSizePt{9}
-\def\BOOK@readingLineHeightPt{12}
+\def\BOOK@readingFontSizePt{8}
+\def\BOOK@readingLineHeightPt{11}
 
 \newcommand{\readingsize}{%
   \@setfontsize\readingsize\BOOK@readingFontSizePt\BOOK@readingLineHeightPt

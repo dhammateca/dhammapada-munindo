@@ -3,6 +3,8 @@ A Dhammapada for Contemplation
 
 by Ajahn Munindo
 
+*Romanian translation by Mircea Mare, Diana D.*
+
 Sources: <https://github.com/profound-labs/dhammapada-munindo>
 
 # Print Specs
@@ -18,6 +20,14 @@ Paper: 70 gsm cream woodfree
 Cover: Matt lamination
 
 # Editions
+
+**1st Romanian edition, 2019**
+
+large size paperback: `000-0-000000-00-0`
+
+small size paperback: `000-0-000000-00-0`
+
+electronic: `000-0-000000-00-0`
 
 **5th edition, 2017**
 
