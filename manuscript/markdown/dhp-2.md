@@ -6,7 +6,7 @@ Băgarea de seamă duce la Nemurire;\\
 nebăgarea de seamă duce la moarte.\\
 Cei care sunt cu băgare de seamă\\
 sunt vii pe deplin,\\
-cât timp cei lipsiți de băgare de seama\\
+cât timp cei lipsiți de băgare de seamă\\
 sunt deja ca morți.
 
 22\\
